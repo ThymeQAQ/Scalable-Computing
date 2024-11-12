@@ -1,0 +1,4712 @@
+Send WRQ	FileName:	22:19:46
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:19:46
+Send RRQ	FileName:SourcererCC.pdf	22:19:54
+Receive DATA	Block:1	512Byte received so far	22:19:54
+Send ACK	Block:1	22:19:54
+Receive DATA	Block:2	1KB received so far	22:19:54
+Send ACK	Block:2	22:19:54
+Receive DATA	Block:3	1.5KB received so far	22:19:54
+Send ACK	Block:3	22:19:54
+Receive DATA	Block:4	2KB received so far	22:19:54
+Send ACK	Block:4	22:19:54
+Receive DATA	Block:5	2.5KB received so far	22:19:54
+Send ACK	Block:5	22:19:54
+Receive DATA	Block:6	3KB received so far	22:19:54
+Send ACK	Block:6	22:19:54
+Receive DATA	Block:7	3.5KB received so far	22:19:54
+Send ACK	Block:7	22:19:54
+Receive DATA	Block:8	4KB received so far	22:19:54
+Send ACK	Block:8	22:19:54
+Receive DATA	Block:9	4.5KB received so far	22:19:54
+Send ACK	Block:9	22:19:54
+Receive DATA	Block:10	5KB received so far	22:19:54
+Send ACK	Block:10	22:19:54
+Receive DATA	Block:11	5.5KB received so far	22:19:54
+Send ACK	Block:11	22:19:54
+Send ACK	Block:11	22:19:55
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:19:55
+Receive DATA	Block:11	5.5KB received so far	22:19:57
+Send ACK	Block:11	22:19:57
+Receive DATA	Block:12	6KB received so far	22:19:57
+Send ACK	Block:12	22:19:57
+Receive DATA	Block:13	6.5KB received so far	22:19:57
+Send ACK	Block:13	22:19:57
+Receive DATA	Block:14	7KB received so far	22:19:57
+Send ACK	Block:14	22:19:57
+Receive DATA	Block:15	7.5KB received so far	22:19:57
+Send ACK	Block:15	22:19:57
+Receive DATA	Block:16	8KB received so far	22:19:57
+Send ACK	Block:16	22:19:57
+Receive DATA	Block:17	8.5KB received so far	22:19:57
+Send ACK	Block:17	22:19:57
+Receive DATA	Block:18	9KB received so far	22:19:57
+Send ACK	Block:18	22:19:57
+Receive DATA	Block:19	9.5KB received so far	22:19:57
+Send ACK	Block:19	22:19:57
+Receive DATA	Block:20	10KB received so far	22:19:57
+Send ACK	Block:20	22:19:57
+Receive DATA	Block:21	10.5KB received so far	22:19:57
+Send ACK	Block:21	22:19:57
+Receive DATA	Block:22	11KB received so far	22:19:57
+Send ACK	Block:22	22:19:57
+Receive DATA	Block:23	11.5KB received so far	22:19:57
+Send ACK	Block:23	22:19:57
+Receive DATA	Block:24	12KB received so far	22:19:57
+Send ACK	Block:24	22:19:57
+Send ACK	Block:24	22:19:58
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:19:58
+Receive DATA	Block:24	12KB received so far	22:20:00
+Send ACK	Block:24	22:20:00
+Receive DATA	Block:25	12.5KB received so far	22:20:00
+Send ACK	Block:25	22:20:00
+Receive DATA	Block:26	13KB received so far	22:20:00
+Send ACK	Block:26	22:20:00
+Receive DATA	Block:27	13.5KB received so far	22:20:00
+Send ACK	Block:27	22:20:00
+Send ACK	Block:27	22:20:01
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:01
+Receive DATA	Block:27	13.5KB received so far	22:20:04
+Send ACK	Block:27	22:20:04
+Receive DATA	Block:28	14KB received so far	22:20:04
+Send ACK	Block:28	22:20:04
+Receive DATA	Block:29	14.5KB received so far	22:20:04
+Send ACK	Block:29	22:20:04
+Receive DATA	Block:30	15KB received so far	22:20:04
+Send ACK	Block:30	22:20:04
+Receive DATA	Block:31	15.5KB received so far	22:20:04
+Send ACK	Block:31	22:20:04
+Receive DATA	Block:32	16KB received so far	22:20:04
+Send ACK	Block:32	22:20:04
+Receive DATA	Block:33	16.5KB received so far	22:20:04
+Send ACK	Block:33	22:20:04
+Receive DATA	Block:34	17KB received so far	22:20:04
+Send ACK	Block:34	22:20:04
+Receive DATA	Block:35	17.5KB received so far	22:20:04
+Send ACK	Block:35	22:20:04
+Receive DATA	Block:36	18KB received so far	22:20:04
+Send ACK	Block:36	22:20:04
+Receive DATA	Block:37	18.5KB received so far	22:20:04
+Send ACK	Block:37	22:20:04
+Receive DATA	Block:38	19KB received so far	22:20:04
+Send ACK	Block:38	22:20:04
+Receive DATA	Block:39	19.5KB received so far	22:20:04
+Send ACK	Block:39	22:20:04
+Receive DATA	Block:40	20KB received so far	22:20:04
+Send ACK	Block:40	22:20:04
+Receive DATA	Block:41	20.5KB received so far	22:20:04
+Send ACK	Block:41	22:20:04
+Receive DATA	Block:42	21KB received so far	22:20:04
+Send ACK	Block:42	22:20:04
+Receive DATA	Block:43	21.5KB received so far	22:20:04
+Send ACK	Block:43	22:20:04
+Receive DATA	Block:44	22KB received so far	22:20:04
+Send ACK	Block:44	22:20:04
+Receive DATA	Block:45	22.5KB received so far	22:20:04
+Send ACK	Block:45	22:20:04
+Receive DATA	Block:46	23KB received so far	22:20:04
+Send ACK	Block:46	22:20:04
+Receive DATA	Block:47	23.5KB received so far	22:20:04
+Send ACK	Block:47	22:20:04
+Receive DATA	Block:48	24KB received so far	22:20:04
+Send ACK	Block:48	22:20:04
+Receive DATA	Block:49	24.5KB received so far	22:20:04
+Send ACK	Block:49	22:20:04
+Receive DATA	Block:50	25KB received so far	22:20:04
+Send ACK	Block:50	22:20:04
+Receive DATA	Block:51	25.5KB received so far	22:20:04
+Send ACK	Block:51	22:20:04
+Receive DATA	Block:52	26KB received so far	22:20:04
+Send ACK	Block:52	22:20:04
+Receive DATA	Block:53	26.5KB received so far	22:20:04
+Send ACK	Block:53	22:20:04
+Receive DATA	Block:54	27KB received so far	22:20:04
+Send ACK	Block:54	22:20:04
+Receive DATA	Block:55	27.5KB received so far	22:20:04
+Send ACK	Block:55	22:20:04
+Receive DATA	Block:56	28KB received so far	22:20:04
+Send ACK	Block:56	22:20:04
+Receive DATA	Block:57	28.5KB received so far	22:20:04
+Send ACK	Block:57	22:20:04
+Receive DATA	Block:58	29KB received so far	22:20:04
+Send ACK	Block:58	22:20:04
+Receive DATA	Block:59	29.5KB received so far	22:20:04
+Send ACK	Block:59	22:20:04
+Receive DATA	Block:60	30KB received so far	22:20:04
+Send ACK	Block:60	22:20:04
+Receive DATA	Block:61	30.5KB received so far	22:20:04
+Send ACK	Block:61	22:20:04
+Receive DATA	Block:62	31KB received so far	22:20:04
+Send ACK	Block:62	22:20:04
+Receive DATA	Block:63	31.5KB received so far	22:20:04
+Send ACK	Block:63	22:20:04
+Receive DATA	Block:64	32KB received so far	22:20:04
+Send ACK	Block:64	22:20:04
+Receive DATA	Block:65	32.5KB received so far	22:20:04
+Send ACK	Block:65	22:20:04
+Receive DATA	Block:66	33KB received so far	22:20:04
+Send ACK	Block:66	22:20:04
+Receive DATA	Block:67	33.5KB received so far	22:20:04
+Send ACK	Block:67	22:20:04
+Receive DATA	Block:68	34KB received so far	22:20:04
+Send ACK	Block:68	22:20:04
+Receive DATA	Block:69	34.5KB received so far	22:20:04
+Send ACK	Block:69	22:20:04
+Receive DATA	Block:70	35KB received so far	22:20:04
+Send ACK	Block:70	22:20:04
+Receive DATA	Block:71	35.5KB received so far	22:20:04
+Send ACK	Block:71	22:20:04
+Send ACK	Block:71	22:20:05
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:05
+Receive DATA	Block:71	35.5KB received so far	22:20:07
+Send ACK	Block:71	22:20:07
+Receive DATA	Block:72	36KB received so far	22:20:07
+Send ACK	Block:72	22:20:07
+Receive DATA	Block:73	36.5KB received so far	22:20:07
+Send ACK	Block:73	22:20:07
+Receive DATA	Block:74	37KB received so far	22:20:07
+Send ACK	Block:74	22:20:07
+Receive DATA	Block:75	37.5KB received so far	22:20:07
+Send ACK	Block:75	22:20:07
+Receive DATA	Block:76	38KB received so far	22:20:07
+Send ACK	Block:76	22:20:07
+Send ACK	Block:76	22:20:08
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:08
+Receive DATA	Block:76	38KB received so far	22:20:10
+Send ACK	Block:76	22:20:10
+Receive DATA	Block:77	38.5KB received so far	22:20:10
+Send ACK	Block:77	22:20:10
+Receive DATA	Block:78	39KB received so far	22:20:10
+Send ACK	Block:78	22:20:10
+Receive DATA	Block:79	39.5KB received so far	22:20:10
+Send ACK	Block:79	22:20:10
+Receive DATA	Block:80	40KB received so far	22:20:10
+Send ACK	Block:80	22:20:10
+Send ACK	Block:80	22:20:11
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:11
+Receive DATA	Block:80	40KB received so far	22:20:13
+Send ACK	Block:80	22:20:13
+Receive DATA	Block:81	40.5KB received so far	22:20:13
+Send ACK	Block:81	22:20:13
+Receive DATA	Block:82	41KB received so far	22:20:13
+Send ACK	Block:82	22:20:13
+Receive DATA	Block:83	41.5KB received so far	22:20:13
+Send ACK	Block:83	22:20:13
+Receive DATA	Block:84	42KB received so far	22:20:13
+Send ACK	Block:84	22:20:13
+Receive DATA	Block:85	42.5KB received so far	22:20:13
+Send ACK	Block:85	22:20:13
+Receive DATA	Block:86	43KB received so far	22:20:13
+Send ACK	Block:86	22:20:13
+Receive DATA	Block:87	43.5KB received so far	22:20:13
+Send ACK	Block:87	22:20:13
+Receive DATA	Block:88	44KB received so far	22:20:13
+Send ACK	Block:88	22:20:13
+Receive DATA	Block:89	44.5KB received so far	22:20:13
+Send ACK	Block:89	22:20:13
+Send ACK	Block:89	22:20:14
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:14
+Receive DATA	Block:89	44.5KB received so far	22:20:16
+Send ACK	Block:89	22:20:16
+Receive DATA	Block:90	45KB received so far	22:20:16
+Send ACK	Block:90	22:20:16
+Receive DATA	Block:91	45.5KB received so far	22:20:16
+Send ACK	Block:91	22:20:16
+Receive DATA	Block:92	46KB received so far	22:20:16
+Send ACK	Block:92	22:20:16
+Receive DATA	Block:93	46.5KB received so far	22:20:16
+Send ACK	Block:93	22:20:16
+Receive DATA	Block:94	47KB received so far	22:20:16
+Send ACK	Block:94	22:20:16
+Receive DATA	Block:95	47.5KB received so far	22:20:16
+Send ACK	Block:95	22:20:16
+Send RRQ	FileName:SourcererCC.pdf	22:20:17
+Receive DATA	Block:1	47.5KB received so far	22:20:17
+Send ACK	Block:1	22:20:17
+Receive DATA	Block:2	47.5KB received so far	22:20:17
+Send ACK	Block:2	22:20:17
+Receive DATA	Block:3	47.5KB received so far	22:20:17
+Send ACK	Block:3	22:20:17
+Receive DATA	Block:4	47.5KB received so far	22:20:17
+Send ACK	Block:4	22:20:17
+Receive DATA	Block:5	47.5KB received so far	22:20:17
+Send ACK	Block:5	22:20:17
+Receive DATA	Block:6	47.5KB received so far	22:20:17
+Send ACK	Block:6	22:20:17
+Send ACK	Block:6	22:20:18
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:18
+Receive DATA	Block:95	47.5KB received so far	22:20:19
+Send ACK	Block:95	22:20:19
+Receive DATA	Block:96	48KB received so far	22:20:19
+Send ACK	Block:96	22:20:19
+Receive DATA	Block:97	48.5KB received so far	22:20:19
+Send ACK	Block:97	22:20:19
+Receive DATA	Block:98	49KB received so far	22:20:19
+Send ACK	Block:98	22:20:19
+Receive DATA	Block:99	49.5KB received so far	22:20:19
+Send ACK	Block:99	22:20:19
+Receive DATA	Block:100	50KB received so far	22:20:19
+Send ACK	Block:100	22:20:19
+Receive DATA	Block:101	50.5KB received so far	22:20:19
+Send ACK	Block:101	22:20:19
+Receive DATA	Block:102	51KB received so far	22:20:19
+Send ACK	Block:102	22:20:19
+Receive DATA	Block:103	51.5KB received so far	22:20:19
+Send ACK	Block:103	22:20:19
+Receive DATA	Block:6	51.5KB received so far	22:20:20
+Send ACK	Block:6	22:20:20
+Receive DATA	Block:7	51.5KB received so far	22:20:20
+Send ACK	Block:7	22:20:20
+Receive DATA	Block:8	51.5KB received so far	22:20:20
+Send ACK	Block:8	22:20:20
+Receive DATA	Block:9	51.5KB received so far	22:20:20
+Send ACK	Block:9	22:20:20
+Send ACK	Block:9	22:20:21
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:21
+Receive DATA	Block:103	51.5KB received so far	22:20:22
+Send ACK	Block:103	22:20:22
+Receive DATA	Block:104	52KB received so far	22:20:22
+Send ACK	Block:104	22:20:22
+Receive DATA	Block:105	52.5KB received so far	22:20:22
+Send ACK	Block:105	22:20:22
+Receive DATA	Block:106	53KB received so far	22:20:22
+Send ACK	Block:106	22:20:22
+Receive DATA	Block:107	53.5KB received so far	22:20:22
+Send ACK	Block:107	22:20:22
+Receive DATA	Block:108	54KB received so far	22:20:22
+Send ACK	Block:108	22:20:22
+Receive DATA	Block:9	54KB received so far	22:20:23
+Send ACK	Block:9	22:20:23
+Receive DATA	Block:10	54KB received so far	22:20:23
+Send ACK	Block:10	22:20:23
+Receive DATA	Block:11	54KB received so far	22:20:23
+Send ACK	Block:11	22:20:23
+Receive DATA	Block:12	54KB received so far	22:20:23
+Send ACK	Block:12	22:20:23
+Receive DATA	Block:13	54KB received so far	22:20:23
+Send ACK	Block:13	22:20:23
+Receive DATA	Block:14	54KB received so far	22:20:23
+Send ACK	Block:14	22:20:23
+Send ACK	Block:14	22:20:24
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:24
+Receive DATA	Block:108	54KB received so far	22:20:25
+Send ACK	Block:108	22:20:25
+Receive DATA	Block:109	54.5KB received so far	22:20:25
+Send ACK	Block:109	22:20:25
+Receive DATA	Block:110	55KB received so far	22:20:25
+Send ACK	Block:110	22:20:25
+Send ACK	Block:110	22:20:26
+Receive DATA	Block:14	55KB received so far	22:20:26
+Send ACK	Block:14	22:20:26
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:26
+Receive DATA	Block:15	55KB received so far	22:20:26
+Send ACK	Block:15	22:20:26
+Receive DATA	Block:16	55KB received so far	22:20:26
+Send ACK	Block:16	22:20:26
+Receive DATA	Block:17	55KB received so far	22:20:26
+Send ACK	Block:17	22:20:26
+Send ACK	Block:17	22:20:27
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:27
+Receive DATA	Block:110	55KB received so far	22:20:28
+Send ACK	Block:110	22:20:28
+Receive DATA	Block:111	55.5KB received so far	22:20:28
+Send ACK	Block:111	22:20:28
+Receive DATA	Block:112	56KB received so far	22:20:28
+Send ACK	Block:112	22:20:28
+Receive DATA	Block:113	56.5KB received so far	22:20:28
+Send ACK	Block:113	22:20:28
+Receive DATA	Block:114	57KB received so far	22:20:28
+Send ACK	Block:114	22:20:28
+Receive DATA	Block:115	57.5KB received so far	22:20:28
+Send ACK	Block:115	22:20:28
+Receive DATA	Block:116	58KB received so far	22:20:28
+Send ACK	Block:116	22:20:28
+Receive DATA	Block:117	58.5KB received so far	22:20:28
+Send ACK	Block:117	22:20:28
+Receive DATA	Block:118	59KB received so far	22:20:28
+Send ACK	Block:118	22:20:28
+Receive DATA	Block:119	59.5KB received so far	22:20:28
+Send ACK	Block:119	22:20:28
+Receive DATA	Block:17	59.5KB received so far	22:20:29
+Send ACK	Block:17	22:20:29
+Receive DATA	Block:18	59.5KB received so far	22:20:29
+Send ACK	Block:18	22:20:29
+Receive DATA	Block:19	59.5KB received so far	22:20:29
+Send ACK	Block:19	22:20:29
+Receive DATA	Block:20	59.5KB received so far	22:20:29
+Send ACK	Block:20	22:20:29
+Receive DATA	Block:21	59.5KB received so far	22:20:29
+Send ACK	Block:21	22:20:29
+Send WRQ	FileName:1.png	22:20:30
+Receive ACK	Block:21	22:20:30
+Send DATA	Block:21	10.5KB sent so far	22:20:30
+Receive ACK	Block:21	22:20:30
+Send DATA	Block:21	10.5KB sent so far	22:20:30
+Send DATA	Block:21	10.5KB sent so far	22:20:31
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:31
+Receive DATA	Block:119	10.5KB received so far	22:20:31
+Send ACK	Block:119	22:20:31
+Receive DATA	Block:119	10.5KB received so far	22:20:31
+Send ACK	Block:119	22:20:31
+Receive DATA	Block:120	11KB received so far	22:20:32
+Send ACK	Block:120	22:20:32
+Receive DATA	Block:121	11.5KB received so far	22:20:32
+Send ACK	Block:121	22:20:32
+Receive DATA	Block:122	12KB received so far	22:20:32
+Send ACK	Block:122	22:20:32
+Receive DATA	Block:123	12.5KB received so far	22:20:32
+Send ACK	Block:123	22:20:32
+Receive DATA	Block:21	12.5KB received so far	22:20:32
+Send ACK	Block:21	22:20:32
+Receive DATA	Block:22	12.5KB received so far	22:20:32
+Send ACK	Block:22	22:20:32
+Send ACK	Block:22	22:20:33
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:33
+Receive DATA	Block:123	12.5KB received so far	22:20:35
+Send ACK	Block:123	22:20:35
+Receive DATA	Block:124	13KB received so far	22:20:35
+Send ACK	Block:124	22:20:35
+Receive DATA	Block:125	13.5KB received so far	22:20:35
+Send ACK	Block:125	22:20:35
+Receive DATA	Block:22	13.5KB received so far	22:20:35
+Send ACK	Block:22	22:20:35
+Receive DATA	Block:23	13.5KB received so far	22:20:35
+Send ACK	Block:23	22:20:35
+Send ACK	Block:23	22:20:36
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:36
+Receive DATA	Block:125	13.5KB received so far	22:20:38
+Send ACK	Block:125	22:20:38
+Receive DATA	Block:126	14KB received so far	22:20:38
+Send ACK	Block:126	22:20:38
+Receive DATA	Block:127	14.5KB received so far	22:20:38
+Send ACK	Block:127	22:20:38
+Receive DATA	Block:128	15KB received so far	22:20:38
+Send ACK	Block:128	22:20:38
+Receive DATA	Block:129	15.5KB received so far	22:20:38
+Send ACK	Block:129	22:20:38
+Receive DATA	Block:130	16KB received so far	22:20:38
+Send ACK	Block:130	22:20:38
+Receive DATA	Block:131	16.5KB received so far	22:20:38
+Send ACK	Block:131	22:20:38
+Receive DATA	Block:132	17KB received so far	22:20:38
+Send ACK	Block:132	22:20:38
+Receive DATA	Block:133	17.5KB received so far	22:20:38
+Send ACK	Block:133	22:20:38
+Receive DATA	Block:23	17.5KB received so far	22:20:38
+Send ACK	Block:23	22:20:38
+Receive DATA	Block:24	17.5KB received so far	22:20:39
+Send ACK	Block:24	22:20:39
+Receive DATA	Block:25	17.5KB received so far	22:20:39
+Send ACK	Block:25	22:20:39
+Receive DATA	Block:26	17.5KB received so far	22:20:39
+Send ACK	Block:26	22:20:39
+Receive DATA	Block:27	17.5KB received so far	22:20:39
+Send ACK	Block:27	22:20:39
+Receive DATA	Block:28	17.5KB received so far	22:20:39
+Send ACK	Block:28	22:20:39
+Receive DATA	Block:29	17.5KB received so far	22:20:39
+Send ACK	Block:29	22:20:39
+Receive DATA	Block:30	17.5KB received so far	22:20:39
+Send ACK	Block:30	22:20:39
+Receive DATA	Block:31	17.5KB received so far	22:20:39
+Send ACK	Block:31	22:20:39
+Receive DATA	Block:32	17.5KB received so far	22:20:39
+Send ACK	Block:32	22:20:39
+Receive DATA	Block:33	17.5KB received so far	22:20:39
+Send ACK	Block:33	22:20:39
+Receive DATA	Block:34	17.5KB received so far	22:20:39
+Send ACK	Block:34	22:20:39
+Receive DATA	Block:35	17.5KB received so far	22:20:39
+Send ACK	Block:35	22:20:39
+Receive DATA	Block:36	17.5KB received so far	22:20:39
+Send ACK	Block:36	22:20:39
+Receive DATA	Block:37	17.5KB received so far	22:20:39
+Send ACK	Block:37	22:20:39
+Receive DATA	Block:38	17.5KB received so far	22:20:39
+Send ACK	Block:38	22:20:39
+Receive DATA	Block:39	17.5KB received so far	22:20:39
+Send ACK	Block:39	22:20:39
+Send ACK	Block:39	22:20:40
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:40
+Receive DATA	Block:133	17.5KB received so far	22:20:41
+Send ACK	Block:133	22:20:41
+Receive DATA	Block:134	18KB received so far	22:20:41
+Send ACK	Block:134	22:20:41
+Receive DATA	Block:135	18.5KB received so far	22:20:41
+Send ACK	Block:135	22:20:41
+Receive DATA	Block:39	18.5KB received so far	22:20:42
+Send ACK	Block:39	22:20:42
+Receive DATA	Block:40	18.5KB received so far	22:20:42
+Send ACK	Block:40	22:20:42
+Send ACK	Block:40	22:20:43
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:43
+Receive DATA	Block:135	18.5KB received so far	22:20:44
+Send ACK	Block:135	22:20:44
+Receive DATA	Block:136	19KB received so far	22:20:44
+Send ACK	Block:136	22:20:44
+Receive DATA	Block:137	19.5KB received so far	22:20:44
+Send ACK	Block:137	22:20:44
+Receive DATA	Block:138	20KB received so far	22:20:44
+Send ACK	Block:138	22:20:44
+Receive DATA	Block:139	20.5KB received so far	22:20:44
+Send ACK	Block:139	22:20:44
+Receive DATA	Block:140	21KB received so far	22:20:44
+Send ACK	Block:140	22:20:44
+Receive DATA	Block:141	21.5KB received so far	22:20:44
+Send ACK	Block:141	22:20:44
+Receive DATA	Block:142	22KB received so far	22:20:44
+Send ACK	Block:142	22:20:44
+Receive DATA	Block:143	22.5KB received so far	22:20:44
+Send ACK	Block:143	22:20:44
+Receive DATA	Block:144	23KB received so far	22:20:44
+Send ACK	Block:144	22:20:44
+Receive DATA	Block:145	23.5KB received so far	22:20:44
+Send ACK	Block:145	22:20:44
+Receive DATA	Block:146	24KB received so far	22:20:44
+Send ACK	Block:146	22:20:44
+Receive DATA	Block:147	24.5KB received so far	22:20:44
+Send ACK	Block:147	22:20:44
+Receive DATA	Block:148	25KB received so far	22:20:44
+Send ACK	Block:148	22:20:44
+Receive DATA	Block:149	25.5KB received so far	22:20:44
+Send ACK	Block:149	22:20:44
+Receive DATA	Block:150	26KB received so far	22:20:44
+Send ACK	Block:150	22:20:44
+Receive DATA	Block:40	26KB received so far	22:20:45
+Send ACK	Block:40	22:20:45
+Receive DATA	Block:40	26KB received so far	22:20:45
+Send ACK	Block:40	22:20:45
+Receive DATA	Block:41	26KB received so far	22:20:45
+Send ACK	Block:41	22:20:45
+Receive DATA	Block:42	26KB received so far	22:20:45
+Send ACK	Block:42	22:20:45
+Receive DATA	Block:43	26KB received so far	22:20:45
+Send ACK	Block:43	22:20:45
+Receive DATA	Block:44	26KB received so far	22:20:45
+Send ACK	Block:44	22:20:45
+Receive DATA	Block:45	26KB received so far	22:20:45
+Send ACK	Block:45	22:20:45
+Receive DATA	Block:46	26KB received so far	22:20:45
+Send ACK	Block:46	22:20:45
+Receive DATA	Block:47	26KB received so far	22:20:45
+Send ACK	Block:47	22:20:45
+Receive DATA	Block:48	26KB received so far	22:20:45
+Send ACK	Block:48	22:20:45
+Receive DATA	Block:49	26KB received so far	22:20:45
+Send ACK	Block:49	22:20:45
+Receive DATA	Block:50	26KB received so far	22:20:45
+Send ACK	Block:50	22:20:45
+Receive DATA	Block:51	26KB received so far	22:20:45
+Send ACK	Block:51	22:20:45
+Receive DATA	Block:52	26KB received so far	22:20:45
+Send ACK	Block:52	22:20:45
+Receive DATA	Block:53	26KB received so far	22:20:45
+Send ACK	Block:53	22:20:45
+Receive DATA	Block:54	26KB received so far	22:20:45
+Send ACK	Block:54	22:20:45
+Send ACK	Block:54	22:20:46
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:46
+Receive DATA	Block:150	26KB received so far	22:20:47
+Send ACK	Block:150	22:20:47
+Receive DATA	Block:151	26.5KB received so far	22:20:47
+Send ACK	Block:151	22:20:47
+Receive DATA	Block:152	27KB received so far	22:20:47
+Send ACK	Block:152	22:20:47
+Receive DATA	Block:153	27.5KB received so far	22:20:47
+Send ACK	Block:153	22:20:47
+Receive DATA	Block:154	28KB received so far	22:20:47
+Send ACK	Block:154	22:20:47
+Receive DATA	Block:54	28KB received so far	22:20:48
+Send ACK	Block:54	22:20:48
+Receive DATA	Block:55	28KB received so far	22:20:48
+Send ACK	Block:55	22:20:48
+Receive DATA	Block:56	28KB received so far	22:20:48
+Send ACK	Block:56	22:20:48
+Receive DATA	Block:57	28KB received so far	22:20:48
+Send ACK	Block:57	22:20:48
+Receive DATA	Block:58	28KB received so far	22:20:48
+Send ACK	Block:58	22:20:48
+Receive DATA	Block:59	28KB received so far	22:20:48
+Send ACK	Block:59	22:20:48
+Receive DATA	Block:60	28KB received so far	22:20:48
+Send ACK	Block:60	22:20:48
+Receive DATA	Block:61	28KB received so far	22:20:48
+Send ACK	Block:61	22:20:48
+Receive DATA	Block:62	28KB received so far	22:20:48
+Send ACK	Block:62	22:20:48
+Receive DATA	Block:63	28KB received so far	22:20:48
+Send ACK	Block:63	22:20:48
+Receive DATA	Block:64	28KB received so far	22:20:48
+Send ACK	Block:64	22:20:48
+Receive DATA	Block:65	28KB received so far	22:20:48
+Send ACK	Block:65	22:20:48
+Receive DATA	Block:66	28KB received so far	22:20:48
+Send ACK	Block:66	22:20:48
+Receive DATA	Block:67	28KB received so far	22:20:48
+Send ACK	Block:67	22:20:48
+Receive DATA	Block:68	28KB received so far	22:20:48
+Send ACK	Block:68	22:20:48
+Receive DATA	Block:69	28KB received so far	22:20:48
+Send ACK	Block:69	22:20:48
+Receive DATA	Block:70	28KB received so far	22:20:48
+Send ACK	Block:70	22:20:48
+Receive DATA	Block:71	28KB received so far	22:20:48
+Send ACK	Block:71	22:20:48
+Receive DATA	Block:72	28KB received so far	22:20:48
+Send ACK	Block:72	22:20:48
+Receive DATA	Block:73	28KB received so far	22:20:48
+Send ACK	Block:73	22:20:48
+Receive DATA	Block:74	28KB received so far	22:20:48
+Send ACK	Block:74	22:20:48
+Receive DATA	Block:75	28KB received so far	22:20:48
+Send ACK	Block:75	22:20:48
+Receive DATA	Block:76	28KB received so far	22:20:48
+Send ACK	Block:76	22:20:48
+Receive DATA	Block:77	28KB received so far	22:20:48
+Send ACK	Block:77	22:20:48
+Receive DATA	Block:78	28KB received so far	22:20:48
+Send ACK	Block:78	22:20:48
+Send ACK	Block:78	22:20:49
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:49
+Receive DATA	Block:154	28KB received so far	22:20:50
+Send ACK	Block:154	22:20:50
+Receive DATA	Block:155	28.5KB received so far	22:20:50
+Send ACK	Block:155	22:20:50
+Receive DATA	Block:156	29KB received so far	22:20:50
+Send ACK	Block:156	22:20:50
+Receive DATA	Block:157	29.5KB received so far	22:20:50
+Send ACK	Block:157	22:20:50
+Receive DATA	Block:158	30KB received so far	22:20:50
+Send ACK	Block:158	22:20:50
+Receive DATA	Block:159	30.5KB received so far	22:20:50
+Send ACK	Block:159	22:20:50
+Receive DATA	Block:160	31KB received so far	22:20:50
+Send ACK	Block:160	22:20:50
+Receive DATA	Block:161	31.5KB received so far	22:20:50
+Send ACK	Block:161	22:20:50
+Receive DATA	Block:162	32KB received so far	22:20:50
+Send ACK	Block:162	22:20:50
+Receive DATA	Block:163	32.5KB received so far	22:20:50
+Send ACK	Block:163	22:20:50
+Receive DATA	Block:164	33KB received so far	22:20:50
+Send ACK	Block:164	22:20:50
+Receive DATA	Block:165	33.5KB received so far	22:20:50
+Send ACK	Block:165	22:20:50
+Receive DATA	Block:166	34KB received so far	22:20:50
+Send ACK	Block:166	22:20:50
+Receive DATA	Block:167	34.5KB received so far	22:20:50
+Send ACK	Block:167	22:20:50
+Receive DATA	Block:168	35KB received so far	22:20:50
+Send ACK	Block:168	22:20:50
+Receive DATA	Block:169	35.5KB received so far	22:20:50
+Send ACK	Block:169	22:20:50
+Receive DATA	Block:170	36KB received so far	22:20:50
+Send ACK	Block:170	22:20:50
+Send ACK	Block:170	22:20:51
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:51
+Receive DATA	Block:78	36KB received so far	22:20:51
+Send ACK	Block:78	22:20:51
+Receive DATA	Block:79	36KB received so far	22:20:51
+Send ACK	Block:79	22:20:51
+Receive DATA	Block:80	36KB received so far	22:20:51
+Send ACK	Block:80	22:20:51
+Receive DATA	Block:81	36KB received so far	22:20:51
+Send ACK	Block:81	22:20:51
+Receive DATA	Block:82	36KB received so far	22:20:51
+Send ACK	Block:82	22:20:51
+Receive DATA	Block:83	36KB received so far	22:20:51
+Send ACK	Block:83	22:20:51
+Receive DATA	Block:84	36KB received so far	22:20:51
+Send ACK	Block:84	22:20:51
+Receive DATA	Block:85	36KB received so far	22:20:51
+Send ACK	Block:85	22:20:51
+Receive DATA	Block:86	36KB received so far	22:20:51
+Send ACK	Block:86	22:20:51
+Receive DATA	Block:87	36KB received so far	22:20:51
+Send ACK	Block:87	22:20:51
+Send ACK	Block:87	22:20:52
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:52
+Receive DATA	Block:170	36KB received so far	22:20:53
+Send ACK	Block:170	22:20:53
+Receive DATA	Block:171	36.5KB received so far	22:20:53
+Send ACK	Block:171	22:20:53
+Receive DATA	Block:172	37KB received so far	22:20:53
+Send ACK	Block:172	22:20:53
+Receive DATA	Block:173	37.5KB received so far	22:20:53
+Send ACK	Block:173	22:20:53
+Send ACK	Block:173	22:20:54
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:54
+Receive DATA	Block:87	37.5KB received so far	22:20:54
+Send ACK	Block:87	22:20:54
+Receive DATA	Block:88	37.5KB received so far	22:20:54
+Send ACK	Block:88	22:20:54
+Receive DATA	Block:89	37.5KB received so far	22:20:54
+Send ACK	Block:89	22:20:54
+Receive DATA	Block:90	37.5KB received so far	22:20:54
+Send ACK	Block:90	22:20:54
+Send ACK	Block:90	22:20:55
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:55
+Receive DATA	Block:173	37.5KB received so far	22:20:56
+Send ACK	Block:173	22:20:56
+Receive DATA	Block:174	38KB received so far	22:20:56
+Send ACK	Block:174	22:20:56
+Send ACK	Block:174	22:20:57
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:57
+Receive DATA	Block:90	38KB received so far	22:20:57
+Send ACK	Block:90	22:20:57
+Receive DATA	Block:91	38KB received so far	22:20:57
+Send ACK	Block:91	22:20:57
+Receive DATA	Block:92	38KB received so far	22:20:57
+Send ACK	Block:92	22:20:57
+Receive DATA	Block:93	38KB received so far	22:20:58
+Send ACK	Block:93	22:20:58
+Receive DATA	Block:94	38KB received so far	22:20:58
+Send ACK	Block:94	22:20:58
+Receive DATA	Block:95	38KB received so far	22:20:58
+Send ACK	Block:95	22:20:58
+Receive DATA	Block:96	38KB received so far	22:20:58
+Send ACK	Block:96	22:20:58
+Receive DATA	Block:97	38KB received so far	22:20:58
+Send ACK	Block:97	22:20:58
+Receive DATA	Block:98	38KB received so far	22:20:58
+Send ACK	Block:98	22:20:58
+Receive DATA	Block:99	38KB received so far	22:20:58
+Send ACK	Block:99	22:20:58
+Receive DATA	Block:100	38KB received so far	22:20:58
+Send ACK	Block:100	22:20:58
+Receive DATA	Block:101	38KB received so far	22:20:58
+Send ACK	Block:101	22:20:58
+Send ACK	Block:101	22:20:59
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:20:59
+Receive DATA	Block:174	38KB received so far	22:20:59
+Send ACK	Block:174	22:20:59
+Receive DATA	Block:175	38.5KB received so far	22:20:59
+Send ACK	Block:175	22:20:59
+Receive DATA	Block:176	39KB received so far	22:20:59
+Send ACK	Block:176	22:20:59
+Receive DATA	Block:177	39.5KB received so far	22:20:59
+Send ACK	Block:177	22:20:59
+Receive DATA	Block:178	40KB received so far	22:20:59
+Send ACK	Block:178	22:20:59
+Receive DATA	Block:179	40.5KB received so far	22:20:59
+Send ACK	Block:179	22:20:59
+Receive DATA	Block:180	41KB received so far	22:20:59
+Send ACK	Block:180	22:20:59
+Receive DATA	Block:181	41.5KB received so far	22:20:59
+Send ACK	Block:181	22:20:59
+Receive DATA	Block:182	42KB received so far	22:20:59
+Send ACK	Block:182	22:20:59
+Receive DATA	Block:183	42.5KB received so far	22:20:59
+Send ACK	Block:183	22:20:59
+Receive DATA	Block:184	43KB received so far	22:20:59
+Send ACK	Block:184	22:20:59
+Receive DATA	Block:185	43.5KB received so far	22:20:59
+Send ACK	Block:185	22:20:59
+Receive DATA	Block:186	44KB received so far	22:21:00
+Send ACK	Block:186	22:21:00
+Receive DATA	Block:187	44.5KB received so far	22:21:00
+Send ACK	Block:187	22:21:00
+Receive DATA	Block:188	45KB received so far	22:21:00
+Send ACK	Block:188	22:21:00
+Receive DATA	Block:189	45.5KB received so far	22:21:00
+Send ACK	Block:189	22:21:00
+Send ACK	Block:189	22:21:01
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:01
+Receive DATA	Block:101	45.5KB received so far	22:21:01
+Send ACK	Block:101	22:21:01
+Receive DATA	Block:102	45.5KB received so far	22:21:01
+Send ACK	Block:102	22:21:01
+Receive DATA	Block:103	45.5KB received so far	22:21:01
+Send ACK	Block:103	22:21:01
+Receive DATA	Block:104	45.5KB received so far	22:21:01
+Send ACK	Block:104	22:21:01
+Receive DATA	Block:105	45.5KB received so far	22:21:01
+Send ACK	Block:105	22:21:01
+Send ACK	Block:105	22:21:02
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:02
+Receive DATA	Block:189	45.5KB received so far	22:21:03
+Send ACK	Block:189	22:21:03
+Receive DATA	Block:190	46KB received so far	22:21:03
+Send ACK	Block:190	22:21:03
+Receive DATA	Block:191	46.5KB received so far	22:21:03
+Send ACK	Block:191	22:21:03
+Receive DATA	Block:192	47KB received so far	22:21:03
+Send ACK	Block:192	22:21:03
+Receive DATA	Block:193	47.5KB received so far	22:21:03
+Send ACK	Block:193	22:21:03
+Receive DATA	Block:194	48KB received so far	22:21:03
+Send ACK	Block:194	22:21:03
+Receive DATA	Block:195	48.5KB received so far	22:21:03
+Send ACK	Block:195	22:21:03
+Receive DATA	Block:196	49KB received so far	22:21:03
+Send ACK	Block:196	22:21:03
+Receive DATA	Block:197	49.5KB received so far	22:21:03
+Send ACK	Block:197	22:21:03
+Receive DATA	Block:198	50KB received so far	22:21:03
+Send ACK	Block:198	22:21:03
+Receive DATA	Block:199	50.5KB received so far	22:21:03
+Send ACK	Block:199	22:21:03
+Receive DATA	Block:200	51KB received so far	22:21:03
+Send ACK	Block:200	22:21:03
+Receive DATA	Block:201	51.5KB received so far	22:21:03
+Send ACK	Block:201	22:21:03
+Receive DATA	Block:202	52KB received so far	22:21:03
+Send ACK	Block:202	22:21:03
+Receive DATA	Block:203	52.5KB received so far	22:21:03
+Send ACK	Block:203	22:21:03
+Receive DATA	Block:204	53KB received so far	22:21:03
+Send ACK	Block:204	22:21:03
+Receive DATA	Block:205	53.5KB received so far	22:21:03
+Send ACK	Block:205	22:21:03
+Receive DATA	Block:206	54KB received so far	22:21:03
+Send ACK	Block:206	22:21:03
+Receive DATA	Block:207	54.5KB received so far	22:21:03
+Send ACK	Block:207	22:21:03
+Receive DATA	Block:208	55KB received so far	22:21:03
+Send ACK	Block:208	22:21:03
+Receive DATA	Block:209	55.5KB received so far	22:21:03
+Send ACK	Block:209	22:21:03
+Receive DATA	Block:210	56KB received so far	22:21:03
+Send ACK	Block:210	22:21:03
+Receive DATA	Block:211	56.5KB received so far	22:21:03
+Send ACK	Block:211	22:21:03
+Receive DATA	Block:212	57KB received so far	22:21:03
+Send ACK	Block:212	22:21:03
+Receive DATA	Block:213	57.5KB received so far	22:21:03
+Send ACK	Block:213	22:21:03
+Receive DATA	Block:214	58KB received so far	22:21:03
+Send ACK	Block:214	22:21:03
+Receive DATA	Block:215	58.5KB received so far	22:21:03
+Send ACK	Block:215	22:21:03
+Receive DATA	Block:216	59KB received so far	22:21:03
+Send ACK	Block:216	22:21:03
+Receive DATA	Block:217	59.5KB received so far	22:21:03
+Send ACK	Block:217	22:21:03
+Receive DATA	Block:218	60KB received so far	22:21:03
+Send ACK	Block:218	22:21:03
+Receive DATA	Block:219	60.5KB received so far	22:21:03
+Send ACK	Block:219	22:21:03
+Receive DATA	Block:220	61KB received so far	22:21:03
+Send ACK	Block:220	22:21:03
+Receive DATA	Block:221	61.5KB received so far	22:21:03
+Send ACK	Block:221	22:21:03
+Receive DATA	Block:105	61.5KB received so far	22:21:04
+Send ACK	Block:105	22:21:04
+Receive DATA	Block:105	61.5KB received so far	22:21:04
+Send ACK	Block:105	22:21:04
+Receive DATA	Block:106	61.5KB received so far	22:21:04
+Send ACK	Block:106	22:21:04
+Receive DATA	Block:107	61.5KB received so far	22:21:04
+Send ACK	Block:107	22:21:04
+Receive DATA	Block:108	61.5KB received so far	22:21:04
+Send ACK	Block:108	22:21:04
+Send ACK	Block:108	22:21:05
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:05
+Receive DATA	Block:221	61.5KB received so far	22:21:06
+Send ACK	Block:221	22:21:06
+Receive DATA	Block:222	62KB received so far	22:21:06
+Send ACK	Block:222	22:21:06
+Receive DATA	Block:223	62.5KB received so far	22:21:06
+Send ACK	Block:223	22:21:06
+Receive DATA	Block:224	63KB received so far	22:21:06
+Send ACK	Block:224	22:21:06
+Receive DATA	Block:225	63.5KB received so far	22:21:06
+Send ACK	Block:225	22:21:06
+Receive DATA	Block:226	64KB received so far	22:21:06
+Send ACK	Block:226	22:21:06
+Receive DATA	Block:227	64.5KB received so far	22:21:06
+Send ACK	Block:227	22:21:06
+Receive DATA	Block:228	65KB received so far	22:21:06
+Send ACK	Block:228	22:21:06
+Receive DATA	Block:229	65.5KB received so far	22:21:06
+Send ACK	Block:229	22:21:06
+Receive DATA	Block:230	66KB received so far	22:21:06
+Send ACK	Block:230	22:21:06
+Receive DATA	Block:231	66.5KB received so far	22:21:06
+Send ACK	Block:231	22:21:06
+Receive DATA	Block:232	67KB received so far	22:21:06
+Send ACK	Block:232	22:21:06
+Receive DATA	Block:233	67.5KB received so far	22:21:06
+Send ACK	Block:233	22:21:06
+Receive DATA	Block:234	68KB received so far	22:21:06
+Send ACK	Block:234	22:21:06
+Receive DATA	Block:235	68.5KB received so far	22:21:06
+Send ACK	Block:235	22:21:06
+Receive DATA	Block:236	69KB received so far	22:21:06
+Send ACK	Block:236	22:21:06
+Receive DATA	Block:237	69.5KB received so far	22:21:06
+Send ACK	Block:237	22:21:06
+Receive DATA	Block:238	70KB received so far	22:21:06
+Send ACK	Block:238	22:21:06
+Receive DATA	Block:239	70.5KB received so far	22:21:06
+Send ACK	Block:239	22:21:06
+Receive DATA	Block:240	71KB received so far	22:21:06
+Send ACK	Block:240	22:21:06
+Receive DATA	Block:108	71KB received so far	22:21:07
+Send ACK	Block:108	22:21:07
+Receive DATA	Block:109	71KB received so far	22:21:07
+Send ACK	Block:109	22:21:07
+Receive DATA	Block:110	71KB received so far	22:21:07
+Send ACK	Block:110	22:21:07
+Receive DATA	Block:111	71KB received so far	22:21:07
+Send ACK	Block:111	22:21:07
+Receive DATA	Block:112	71KB received so far	22:21:07
+Send ACK	Block:112	22:21:07
+Send ACK	Block:112	22:21:08
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:08
+Receive DATA	Block:240	71KB received so far	22:21:09
+Send ACK	Block:240	22:21:09
+Receive DATA	Block:241	71.5KB received so far	22:21:09
+Send ACK	Block:241	22:21:09
+Receive DATA	Block:242	72KB received so far	22:21:09
+Send ACK	Block:242	22:21:09
+Receive DATA	Block:243	72.5KB received so far	22:21:09
+Send ACK	Block:243	22:21:09
+Receive DATA	Block:244	73KB received so far	22:21:09
+Send ACK	Block:244	22:21:09
+Receive DATA	Block:245	73.5KB received so far	22:21:09
+Send ACK	Block:245	22:21:09
+Receive DATA	Block:246	74KB received so far	22:21:09
+Send ACK	Block:246	22:21:09
+Receive DATA	Block:112	74KB received so far	22:21:10
+Send ACK	Block:112	22:21:10
+Receive DATA	Block:113	74KB received so far	22:21:10
+Send ACK	Block:113	22:21:10
+Receive DATA	Block:114	74KB received so far	22:21:10
+Send ACK	Block:114	22:21:10
+Receive DATA	Block:115	74KB received so far	22:21:10
+Send ACK	Block:115	22:21:10
+Receive DATA	Block:116	74KB received so far	22:21:10
+Send ACK	Block:116	22:21:10
+Receive DATA	Block:117	74KB received so far	22:21:10
+Send ACK	Block:117	22:21:10
+Receive DATA	Block:118	74KB received so far	22:21:10
+Send ACK	Block:118	22:21:10
+Receive DATA	Block:119	74KB received so far	22:21:10
+Send ACK	Block:119	22:21:10
+Receive DATA	Block:120	74KB received so far	22:21:10
+Send ACK	Block:120	22:21:10
+Receive DATA	Block:121	74KB received so far	22:21:10
+Send ACK	Block:121	22:21:10
+Receive DATA	Block:122	74KB received so far	22:21:10
+Send ACK	Block:122	22:21:10
+Receive DATA	Block:123	74KB received so far	22:21:10
+Send ACK	Block:123	22:21:10
+Receive DATA	Block:124	74KB received so far	22:21:10
+Send ACK	Block:124	22:21:10
+Receive DATA	Block:125	74KB received so far	22:21:10
+Send ACK	Block:125	22:21:10
+Receive DATA	Block:126	74KB received so far	22:21:10
+Send ACK	Block:126	22:21:10
+Receive DATA	Block:127	74KB received so far	22:21:10
+Send ACK	Block:127	22:21:10
+Receive DATA	Block:128	74KB received so far	22:21:10
+Send ACK	Block:128	22:21:10
+Receive DATA	Block:129	74KB received so far	22:21:10
+Send ACK	Block:129	22:21:10
+Receive DATA	Block:130	74KB received so far	22:21:10
+Send ACK	Block:130	22:21:10
+Receive DATA	Block:131	74KB received so far	22:21:10
+Send ACK	Block:131	22:21:10
+Receive DATA	Block:132	74KB received so far	22:21:10
+Send ACK	Block:132	22:21:10
+Send ACK	Block:132	22:21:11
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:11
+Receive DATA	Block:246	74KB received so far	22:21:12
+Send ACK	Block:246	22:21:12
+Receive DATA	Block:246	74KB received so far	22:21:12
+Send ACK	Block:246	22:21:12
+Receive DATA	Block:247	74.5KB received so far	22:21:12
+Send ACK	Block:247	22:21:12
+Receive DATA	Block:248	75KB received so far	22:21:12
+Send ACK	Block:248	22:21:12
+Receive DATA	Block:249	75.5KB received so far	22:21:12
+Send ACK	Block:249	22:21:12
+Receive DATA	Block:250	76KB received so far	22:21:12
+Send ACK	Block:250	22:21:12
+Receive DATA	Block:251	76.5KB received so far	22:21:12
+Send ACK	Block:251	22:21:12
+Receive DATA	Block:252	77KB received so far	22:21:12
+Send ACK	Block:252	22:21:12
+Receive DATA	Block:253	77.5KB received so far	22:21:12
+Send ACK	Block:253	22:21:12
+Receive DATA	Block:254	78KB received so far	22:21:12
+Send ACK	Block:254	22:21:12
+Receive DATA	Block:255	78.5KB received so far	22:21:12
+Send ACK	Block:255	22:21:12
+Receive DATA	Block:256	79KB received so far	22:21:12
+Send ACK	Block:256	22:21:12
+Receive DATA	Block:257	79.5KB received so far	22:21:12
+Send ACK	Block:257	22:21:12
+Receive DATA	Block:258	80KB received so far	22:21:12
+Send ACK	Block:258	22:21:12
+Receive DATA	Block:259	80.5KB received so far	22:21:12
+Send ACK	Block:259	22:21:12
+Receive DATA	Block:260	81KB received so far	22:21:12
+Send ACK	Block:260	22:21:12
+Receive DATA	Block:261	81.5KB received so far	22:21:12
+Send ACK	Block:261	22:21:12
+Receive DATA	Block:262	82KB received so far	22:21:12
+Send ACK	Block:262	22:21:12
+Receive DATA	Block:263	82.5KB received so far	22:21:12
+Send ACK	Block:263	22:21:12
+Receive DATA	Block:264	83KB received so far	22:21:12
+Send ACK	Block:264	22:21:12
+Receive DATA	Block:132	83KB received so far	22:21:13
+Send ACK	Block:132	22:21:13
+Receive DATA	Block:133	83KB received so far	22:21:13
+Send ACK	Block:133	22:21:13
+Receive DATA	Block:134	83KB received so far	22:21:13
+Send ACK	Block:134	22:21:13
+Receive DATA	Block:135	83KB received so far	22:21:13
+Send ACK	Block:135	22:21:13
+Receive DATA	Block:136	83KB received so far	22:21:13
+Send ACK	Block:136	22:21:13
+Receive DATA	Block:137	83KB received so far	22:21:13
+Send ACK	Block:137	22:21:13
+Send RRQ	FileName:SourcererCC.pdf	22:21:13
+Receive DATA	Block:1	83KB received so far	22:21:13
+Send ACK	Block:1	22:21:13
+Receive DATA	Block:2	83KB received so far	22:21:13
+Send ACK	Block:2	22:21:13
+Receive DATA	Block:3	83KB received so far	22:21:13
+Send ACK	Block:3	22:21:13
+Receive DATA	Block:4	83KB received so far	22:21:13
+Send ACK	Block:4	22:21:13
+Receive DATA	Block:5	83KB received so far	22:21:14
+Send ACK	Block:5	22:21:14
+Send ACK	Block:5	22:21:15
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:15
+Receive DATA	Block:264	83KB received so far	22:21:15
+Send ACK	Block:264	22:21:15
+Receive DATA	Block:265	83.5KB received so far	22:21:15
+Send ACK	Block:265	22:21:15
+Receive DATA	Block:266	84KB received so far	22:21:15
+Send ACK	Block:266	22:21:15
+Receive DATA	Block:267	84.5KB received so far	22:21:15
+Send ACK	Block:267	22:21:15
+Receive DATA	Block:268	85KB received so far	22:21:15
+Send ACK	Block:268	22:21:15
+Receive DATA	Block:269	85.5KB received so far	22:21:15
+Send ACK	Block:269	22:21:15
+Receive DATA	Block:270	86KB received so far	22:21:15
+Send ACK	Block:270	22:21:15
+Receive DATA	Block:271	86.5KB received so far	22:21:15
+Send ACK	Block:271	22:21:15
+Receive DATA	Block:272	87KB received so far	22:21:15
+Send ACK	Block:272	22:21:15
+Receive DATA	Block:273	87.5KB received so far	22:21:15
+Send ACK	Block:273	22:21:15
+Receive DATA	Block:137	87.5KB received so far	22:21:16
+Send ACK	Block:137	22:21:16
+Receive DATA	Block:138	87.5KB received so far	22:21:16
+Send ACK	Block:138	22:21:16
+Receive DATA	Block:139	87.5KB received so far	22:21:16
+Send ACK	Block:139	22:21:16
+Receive DATA	Block:140	87.5KB received so far	22:21:16
+Send ACK	Block:140	22:21:16
+Receive DATA	Block:141	87.5KB received so far	22:21:16
+Send ACK	Block:141	22:21:16
+Receive DATA	Block:142	87.5KB received so far	22:21:16
+Send ACK	Block:142	22:21:16
+Receive DATA	Block:143	87.5KB received so far	22:21:16
+Send ACK	Block:143	22:21:16
+Receive DATA	Block:144	87.5KB received so far	22:21:16
+Send ACK	Block:144	22:21:16
+Receive DATA	Block:145	87.5KB received so far	22:21:16
+Send ACK	Block:145	22:21:16
+Receive DATA	Block:146	87.5KB received so far	22:21:16
+Send ACK	Block:146	22:21:16
+Receive DATA	Block:147	87.5KB received so far	22:21:16
+Send ACK	Block:147	22:21:16
+Receive DATA	Block:148	87.5KB received so far	22:21:16
+Send ACK	Block:148	22:21:16
+Receive DATA	Block:149	87.5KB received so far	22:21:16
+Send ACK	Block:149	22:21:16
+Receive DATA	Block:150	87.5KB received so far	22:21:16
+Send ACK	Block:150	22:21:16
+Receive DATA	Block:151	87.5KB received so far	22:21:16
+Send ACK	Block:151	22:21:16
+Receive DATA	Block:152	87.5KB received so far	22:21:16
+Send ACK	Block:152	22:21:16
+Receive DATA	Block:153	87.5KB received so far	22:21:16
+Send ACK	Block:153	22:21:16
+Receive DATA	Block:154	87.5KB received so far	22:21:16
+Send ACK	Block:154	22:21:16
+Receive DATA	Block:155	87.5KB received so far	22:21:16
+Send ACK	Block:155	22:21:16
+Receive DATA	Block:156	87.5KB received so far	22:21:16
+Send ACK	Block:156	22:21:16
+Receive DATA	Block:157	87.5KB received so far	22:21:16
+Send ACK	Block:157	22:21:16
+Receive DATA	Block:158	87.5KB received so far	22:21:16
+Send ACK	Block:158	22:21:16
+Receive DATA	Block:159	87.5KB received so far	22:21:16
+Send ACK	Block:159	22:21:16
+Receive DATA	Block:160	87.5KB received so far	22:21:16
+Send ACK	Block:160	22:21:16
+Receive DATA	Block:161	87.5KB received so far	22:21:16
+Send ACK	Block:161	22:21:16
+Receive DATA	Block:162	87.5KB received so far	22:21:16
+Send ACK	Block:162	22:21:16
+Receive DATA	Block:163	87.5KB received so far	22:21:16
+Send ACK	Block:163	22:21:16
+Receive DATA	Block:164	87.5KB received so far	22:21:17
+Send ACK	Block:164	22:21:17
+Receive DATA	Block:165	87.5KB received so far	22:21:17
+Send ACK	Block:165	22:21:17
+Receive DATA	Block:5	87.5KB received so far	22:21:17
+Send ACK	Block:5	22:21:17
+Receive DATA	Block:166	87.5KB received so far	22:21:17
+Send ACK	Block:166	22:21:17
+Receive DATA	Block:6	87.5KB received so far	22:21:17
+Send ACK	Block:6	22:21:17
+Receive DATA	Block:167	87.5KB received so far	22:21:17
+Send ACK	Block:167	22:21:17
+Receive DATA	Block:7	87.5KB received so far	22:21:17
+Send ACK	Block:7	22:21:17
+Receive DATA	Block:168	87.5KB received so far	22:21:17
+Send ACK	Block:168	22:21:17
+Receive DATA	Block:169	87.5KB received so far	22:21:17
+Send ACK	Block:169	22:21:17
+Receive DATA	Block:170	87.5KB received so far	22:21:17
+Send ACK	Block:170	22:21:17
+Receive DATA	Block:171	87.5KB received so far	22:21:17
+Send ACK	Block:171	22:21:17
+Receive DATA	Block:172	87.5KB received so far	22:21:17
+Send ACK	Block:172	22:21:17
+Receive DATA	Block:173	87.5KB received so far	22:21:17
+Send ACK	Block:173	22:21:17
+Receive DATA	Block:174	87.5KB received so far	22:21:17
+Send ACK	Block:174	22:21:17
+Send ACK	Block:174	22:21:18
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:18
+Receive DATA	Block:273	87.5KB received so far	22:21:19
+Send ACK	Block:273	22:21:19
+Receive DATA	Block:274	88KB received so far	22:21:19
+Send ACK	Block:274	22:21:19
+Receive DATA	Block:275	88.5KB received so far	22:21:19
+Send ACK	Block:275	22:21:19
+Receive DATA	Block:276	89KB received so far	22:21:19
+Send ACK	Block:276	22:21:19
+Receive DATA	Block:277	89.5KB received so far	22:21:19
+Send ACK	Block:277	22:21:19
+Receive DATA	Block:278	90KB received so far	22:21:19
+Send ACK	Block:278	22:21:19
+Receive DATA	Block:279	90.5KB received so far	22:21:19
+Send ACK	Block:279	22:21:19
+Receive DATA	Block:280	91KB received so far	22:21:19
+Send ACK	Block:280	22:21:19
+Receive DATA	Block:281	91.5KB received so far	22:21:19
+Send ACK	Block:281	22:21:19
+Receive DATA	Block:282	92KB received so far	22:21:19
+Send ACK	Block:282	22:21:19
+Receive DATA	Block:283	92.5KB received so far	22:21:19
+Send ACK	Block:283	22:21:19
+Receive DATA	Block:284	93KB received so far	22:21:19
+Send ACK	Block:284	22:21:19
+Receive DATA	Block:285	93.5KB received so far	22:21:19
+Send ACK	Block:285	22:21:19
+Receive DATA	Block:7	93.5KB received so far	22:21:20
+Send ACK	Block:7	22:21:20
+Receive DATA	Block:8	93.5KB received so far	22:21:20
+Send ACK	Block:8	22:21:20
+Receive DATA	Block:9	93.5KB received so far	22:21:20
+Send ACK	Block:9	22:21:20
+Receive DATA	Block:10	93.5KB received so far	22:21:20
+Send ACK	Block:10	22:21:20
+Receive DATA	Block:174	93.5KB received so far	22:21:20
+Send ACK	Block:174	22:21:20
+Receive DATA	Block:175	93.5KB received so far	22:21:20
+Send ACK	Block:175	22:21:20
+Receive DATA	Block:176	93.5KB received so far	22:21:20
+Send ACK	Block:176	22:21:20
+Receive DATA	Block:177	93.5KB received so far	22:21:20
+Send ACK	Block:177	22:21:20
+Receive DATA	Block:178	93.5KB received so far	22:21:20
+Send ACK	Block:178	22:21:20
+Receive DATA	Block:179	93.5KB received so far	22:21:20
+Send ACK	Block:179	22:21:20
+Receive DATA	Block:180	93.5KB received so far	22:21:20
+Send ACK	Block:180	22:21:20
+Receive DATA	Block:181	93.5KB received so far	22:21:20
+Send ACK	Block:181	22:21:20
+Receive DATA	Block:182	93.5KB received so far	22:21:20
+Send ACK	Block:182	22:21:20
+Receive DATA	Block:183	93.5KB received so far	22:21:20
+Send ACK	Block:183	22:21:20
+Send ACK	Block:183	22:21:21
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:21
+Receive DATA	Block:285	93.5KB received so far	22:21:22
+Send ACK	Block:285	22:21:22
+Receive DATA	Block:286	94KB received so far	22:21:22
+Send ACK	Block:286	22:21:22
+Receive DATA	Block:287	94.5KB received so far	22:21:22
+Send ACK	Block:287	22:21:22
+Receive DATA	Block:10	94.5KB received so far	22:21:23
+Send ACK	Block:10	22:21:23
+Receive DATA	Block:11	94.5KB received so far	22:21:23
+Send ACK	Block:11	22:21:23
+Receive DATA	Block:12	94.5KB received so far	22:21:23
+Send ACK	Block:12	22:21:23
+Receive DATA	Block:13	94.5KB received so far	22:21:23
+Send ACK	Block:13	22:21:23
+Receive DATA	Block:14	94.5KB received so far	22:21:23
+Send ACK	Block:14	22:21:23
+Receive DATA	Block:15	94.5KB received so far	22:21:23
+Send ACK	Block:15	22:21:23
+Receive DATA	Block:183	94.5KB received so far	22:21:23
+Send ACK	Block:183	22:21:23
+Receive DATA	Block:184	94.5KB received so far	22:21:23
+Send ACK	Block:184	22:21:23
+Receive DATA	Block:185	94.5KB received so far	22:21:23
+Send ACK	Block:185	22:21:23
+Receive DATA	Block:186	94.5KB received so far	22:21:23
+Send ACK	Block:186	22:21:23
+Receive DATA	Block:187	94.5KB received so far	22:21:23
+Send ACK	Block:187	22:21:23
+Receive DATA	Block:188	94.5KB received so far	22:21:23
+Send ACK	Block:188	22:21:23
+Receive DATA	Block:189	94.5KB received so far	22:21:23
+Send ACK	Block:189	22:21:23
+Receive DATA	Block:190	94.5KB received so far	22:21:23
+Send ACK	Block:190	22:21:23
+Receive DATA	Block:191	94.5KB received so far	22:21:23
+Send ACK	Block:191	22:21:23
+Receive DATA	Block:192	94.5KB received so far	22:21:23
+Send ACK	Block:192	22:21:23
+Receive DATA	Block:193	94.5KB received so far	22:21:23
+Send ACK	Block:193	22:21:23
+Receive DATA	Block:194	94.5KB received so far	22:21:23
+Send ACK	Block:194	22:21:23
+Receive DATA	Block:195	94.5KB received so far	22:21:23
+Send ACK	Block:195	22:21:23
+Receive DATA	Block:196	94.5KB received so far	22:21:23
+Send ACK	Block:196	22:21:23
+Send ACK	Block:196	22:21:24
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:24
+Receive DATA	Block:287	94.5KB received so far	22:21:25
+Send ACK	Block:287	22:21:25
+Receive DATA	Block:288	95KB received so far	22:21:25
+Send ACK	Block:288	22:21:25
+Receive DATA	Block:289	95.5KB received so far	22:21:25
+Send ACK	Block:289	22:21:25
+Receive DATA	Block:290	96KB received so far	22:21:25
+Send ACK	Block:290	22:21:25
+Receive DATA	Block:291	96.5KB received so far	22:21:25
+Send ACK	Block:291	22:21:25
+Receive DATA	Block:292	97KB received so far	22:21:25
+Send ACK	Block:292	22:21:25
+Receive DATA	Block:293	97.5KB received so far	22:21:25
+Send ACK	Block:293	22:21:25
+Receive DATA	Block:294	98KB received so far	22:21:25
+Send ACK	Block:294	22:21:25
+Receive DATA	Block:295	98.5KB received so far	22:21:25
+Send ACK	Block:295	22:21:25
+Receive DATA	Block:296	99KB received so far	22:21:25
+Send ACK	Block:296	22:21:25
+Receive DATA	Block:297	99.5KB received so far	22:21:25
+Send ACK	Block:297	22:21:25
+Receive DATA	Block:298	100KB received so far	22:21:25
+Send ACK	Block:298	22:21:25
+Receive DATA	Block:299	100.5KB received so far	22:21:25
+Send ACK	Block:299	22:21:25
+Receive DATA	Block:300	101KB received so far	22:21:25
+Send ACK	Block:300	22:21:25
+Receive DATA	Block:15	101KB received so far	22:21:26
+Send ACK	Block:15	22:21:26
+Receive DATA	Block:15	101KB received so far	22:21:26
+Send ACK	Block:15	22:21:26
+Receive DATA	Block:16	101KB received so far	22:21:26
+Send ACK	Block:16	22:21:26
+Receive DATA	Block:17	101KB received so far	22:21:26
+Send ACK	Block:17	22:21:26
+Receive DATA	Block:196	101KB received so far	22:21:26
+Send ACK	Block:196	22:21:26
+Receive DATA	Block:197	101KB received so far	22:21:26
+Send ACK	Block:197	22:21:26
+Receive DATA	Block:198	101KB received so far	22:21:26
+Send ACK	Block:198	22:21:26
+Receive DATA	Block:199	101KB received so far	22:21:26
+Send ACK	Block:199	22:21:26
+Receive DATA	Block:200	101KB received so far	22:21:26
+Send ACK	Block:200	22:21:26
+Receive DATA	Block:201	101KB received so far	22:21:26
+Send ACK	Block:201	22:21:26
+Receive DATA	Block:202	101KB received so far	22:21:26
+Send ACK	Block:202	22:21:26
+Receive DATA	Block:203	101KB received so far	22:21:26
+Send ACK	Block:203	22:21:26
+Receive DATA	Block:204	101KB received so far	22:21:26
+Send ACK	Block:204	22:21:26
+Receive DATA	Block:205	101KB received so far	22:21:26
+Send ACK	Block:205	22:21:27
+Receive DATA	Block:206	101KB received so far	22:21:27
+Send ACK	Block:206	22:21:27
+Receive DATA	Block:207	101KB received so far	22:21:27
+Send ACK	Block:207	22:21:27
+Receive DATA	Block:208	101KB received so far	22:21:27
+Send ACK	Block:208	22:21:27
+Receive DATA	Block:209	101KB received so far	22:21:27
+Send ACK	Block:209	22:21:27
+Receive DATA	Block:210	101KB received so far	22:21:27
+Send ACK	Block:210	22:21:27
+Receive DATA	Block:211	101KB received so far	22:21:27
+Send ACK	Block:211	22:21:27
+Receive DATA	Block:212	101KB received so far	22:21:27
+Send ACK	Block:212	22:21:27
+Receive DATA	Block:213	101KB received so far	22:21:27
+Send ACK	Block:213	22:21:27
+Receive DATA	Block:214	101KB received so far	22:21:27
+Send ACK	Block:214	22:21:27
+Receive DATA	Block:215	101KB received so far	22:21:27
+Send ACK	Block:215	22:21:27
+Receive DATA	Block:216	101KB received so far	22:21:27
+Send ACK	Block:216	22:21:27
+Receive DATA	Block:217	101KB received so far	22:21:27
+Send ACK	Block:217	22:21:27
+Send ACK	Block:217	22:21:28
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:28
+Receive DATA	Block:300	101KB received so far	22:21:28
+Send ACK	Block:300	22:21:28
+Receive DATA	Block:301	101.5KB received so far	22:21:28
+Send ACK	Block:301	22:21:28
+Receive DATA	Block:302	102KB received so far	22:21:28
+Send ACK	Block:302	22:21:28
+Receive DATA	Block:303	102.5KB received so far	22:21:28
+Send ACK	Block:303	22:21:28
+Receive DATA	Block:304	103KB received so far	22:21:28
+Send ACK	Block:304	22:21:28
+Receive DATA	Block:305	103.5KB received so far	22:21:28
+Send ACK	Block:305	22:21:28
+Receive DATA	Block:306	104KB received so far	22:21:28
+Send ACK	Block:306	22:21:28
+Receive DATA	Block:307	104.5KB received so far	22:21:28
+Send ACK	Block:307	22:21:28
+Receive DATA	Block:308	105KB received so far	22:21:28
+Send ACK	Block:308	22:21:28
+Receive DATA	Block:309	105.5KB received so far	22:21:28
+Send ACK	Block:309	22:21:28
+Receive DATA	Block:310	106KB received so far	22:21:29
+Send ACK	Block:310	22:21:29
+Receive DATA	Block:311	106.5KB received so far	22:21:29
+Send ACK	Block:311	22:21:29
+Receive DATA	Block:312	107KB received so far	22:21:29
+Send ACK	Block:312	22:21:29
+Receive DATA	Block:313	107.5KB received so far	22:21:29
+Send ACK	Block:313	22:21:29
+Receive DATA	Block:314	108KB received so far	22:21:29
+Send ACK	Block:314	22:21:29
+Receive DATA	Block:315	108.5KB received so far	22:21:29
+Send ACK	Block:315	22:21:29
+Receive DATA	Block:316	109KB received so far	22:21:29
+Send ACK	Block:316	22:21:29
+Receive DATA	Block:17	109KB received so far	22:21:29
+Send ACK	Block:17	22:21:29
+Receive DATA	Block:18	109KB received so far	22:21:29
+Send ACK	Block:18	22:21:29
+Receive DATA	Block:19	109KB received so far	22:21:29
+Send ACK	Block:19	22:21:29
+Receive DATA	Block:20	109KB received so far	22:21:29
+Send ACK	Block:20	22:21:29
+Receive DATA	Block:217	109KB received so far	22:21:30
+Send ACK	Block:217	22:21:30
+Receive DATA	Block:218	109KB received so far	22:21:30
+Send ACK	Block:218	22:21:30
+Receive DATA	Block:219	109KB received so far	22:21:30
+Send ACK	Block:219	22:21:30
+Receive DATA	Block:220	109KB received so far	22:21:30
+Send ACK	Block:220	22:21:30
+Receive DATA	Block:221	109KB received so far	22:21:30
+Send ACK	Block:221	22:21:30
+Receive DATA	Block:222	109KB received so far	22:21:30
+Send ACK	Block:222	22:21:30
+Receive DATA	Block:223	109KB received so far	22:21:30
+Send ACK	Block:223	22:21:30
+Receive DATA	Block:224	109KB received so far	22:21:30
+Send ACK	Block:224	22:21:30
+Receive DATA	Block:225	109KB received so far	22:21:30
+Send ACK	Block:225	22:21:30
+Receive DATA	Block:226	109KB received so far	22:21:30
+Send ACK	Block:226	22:21:30
+Send ACK	Block:226	22:21:31
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:31
+Receive DATA	Block:316	109KB received so far	22:21:32
+Send ACK	Block:316	22:21:32
+Receive DATA	Block:317	109.5KB received so far	22:21:32
+Send ACK	Block:317	22:21:32
+Receive DATA	Block:318	110KB received so far	22:21:32
+Send ACK	Block:318	22:21:32
+Receive DATA	Block:319	110.5KB received so far	22:21:32
+Send ACK	Block:319	22:21:32
+Receive DATA	Block:320	111KB received so far	22:21:32
+Send ACK	Block:320	22:21:32
+Receive DATA	Block:321	111.5KB received so far	22:21:32
+Send ACK	Block:321	22:21:32
+Receive DATA	Block:322	112KB received so far	22:21:32
+Send ACK	Block:322	22:21:32
+Receive DATA	Block:20	112KB received so far	22:21:32
+Send ACK	Block:20	22:21:32
+Receive DATA	Block:21	112KB received so far	22:21:32
+Send ACK	Block:21	22:21:32
+Receive DATA	Block:22	112KB received so far	22:21:32
+Send ACK	Block:22	22:21:32
+Receive DATA	Block:23	112KB received so far	22:21:32
+Send ACK	Block:23	22:21:32
+Receive DATA	Block:24	112KB received so far	22:21:32
+Send ACK	Block:24	22:21:32
+Receive DATA	Block:25	112KB received so far	22:21:32
+Send ACK	Block:25	22:21:32
+Receive DATA	Block:26	112KB received so far	22:21:32
+Send ACK	Block:26	22:21:32
+Receive DATA	Block:27	112KB received so far	22:21:32
+Send ACK	Block:27	22:21:32
+Receive DATA	Block:28	112KB received so far	22:21:32
+Send ACK	Block:28	22:21:32
+Receive DATA	Block:29	112KB received so far	22:21:32
+Send ACK	Block:29	22:21:32
+Receive DATA	Block:30	112KB received so far	22:21:32
+Send ACK	Block:30	22:21:32
+Receive DATA	Block:226	112KB received so far	22:21:33
+Send ACK	Block:226	22:21:33
+Receive DATA	Block:227	112KB received so far	22:21:33
+Send ACK	Block:227	22:21:33
+Send ACK	Block:227	22:21:34
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:21:34
+Receive DATA	Block:322	112KB received so far	22:21:35
+Send ACK	Block:322	22:21:35
+Receive DATA	Block:323	112.5KB received so far	22:21:35
+Send ACK	Block:323	22:21:35
+Receive DATA	Block:324	113KB received so far	22:21:35
+Send ACK	Block:324	22:21:35
+Receive DATA	Block:325	113.5KB received so far	22:21:35
+Send ACK	Block:325	22:21:35
+Receive DATA	Block:30	113.5KB received so far	22:21:35
+Send ACK	Block:30	22:21:35
+Receive DATA	Block:31	113.5KB received so far	22:21:35
+Send ACK	Block:31	22:21:35
+Receive DATA	Block:32	113.5KB received so far	22:21:35
+Send ACK	Block:32	22:21:35
+Receive DATA	Block:33	113.5KB received so far	22:21:35
+Send ACK	Block:33	22:21:35
+Receive DATA	Block:34	113.5KB received so far	22:21:35
+Send ACK	Block:34	22:21:35
+Receive DATA	Block:35	113.5KB received so far	22:21:35
+Send ACK	Block:35	22:21:35
+Receive DATA	Block:36	113.5KB received so far	22:21:35
+Send ACK	Block:36	22:21:35
+Receive DATA	Block:37	113.5KB received so far	22:21:35
+Send ACK	Block:37	22:21:35
+Receive DATA	Block:38	113.5KB received so far	22:21:35
+Send ACK	Block:38	22:21:35
+Receive ERROR	ERROR Code:Receive ERROR	ERROR Code:Receive ERROR	ERROR Code:Receive DATA	Block:39	113.5KB received so far	22:21:35
+Send ACK	Block:39	22:21:35
+Receive DATA	Block:40	113.5KB received so far	22:21:35
+Send ACK	Block:40	22:21:35
+Receive DATA	Block:41	113.5KB received so far	22:21:35
+Send ACK	Block:41	22:21:35
+Receive DATA	Block:42	113.5KB received so far	22:21:36
+Send ACK	Block:42	22:21:36
+Receive DATA	Block:43	113.5KB received so far	22:21:36
+Send ACK	Block:43	22:21:36
+Receive DATA	Block:44	113.5KB received so far	22:21:36
+Send ACK	Block:44	22:21:36
+Receive DATA	Block:45	113.5KB received so far	22:21:36
+Send ACK	Block:45	22:21:36
+Receive DATA	Block:46	113.5KB received so far	22:21:36
+Send ACK	Block:46	22:21:36
+Receive DATA	Block:47	113.5KB received so far	22:21:36
+Send ACK	Block:47	22:21:36
+Receive DATA	Block:48	113.5KB received so far	22:21:36
+Send ACK	Block:48	22:21:36
+Receive DATA	Block:49	113.5KB received so far	22:21:36
+Send ACK	Block:49	22:21:36
+Send ACK	Block:49	22:21:37
+Send ACK	Block:49	22:21:38
+Send ACK	Block:49	22:21:39
+Send ACK	Block:49	22:21:40
+Send ACK	Block:49	22:21:41
+Send ACK	Block:49	22:21:42
+Send ACK	Block:49	22:21:43
+Send ACK	Block:49	22:21:44
+Send ACK	Block:49	22:21:45
+Send ACK	Block:49	22:21:46
+Resend 10 times with no response!	Stop sending!Send WRQ	FileName:1.png	22:22:13
+Receive ACK	Block:0	22:22:13
+Send DATA	Block:1	512Byte sent so far	22:22:13
+Receive ACK	Block:1	22:22:13
+Send DATA	Block:2	1KB sent so far	22:22:13
+Receive ACK	Block:2	22:22:13
+Send DATA	Block:3	1.5KB sent so far	22:22:13
+Receive ACK	Block:3	22:22:13
+Send DATA	Block:4	2KB sent so far	22:22:13
+Receive ACK	Block:4	22:22:13
+Send DATA	Block:5	2.5KB sent so far	22:22:13
+Receive ACK	Block:5	22:22:13
+Send DATA	Block:6	3KB sent so far	22:22:13
+Receive ACK	Block:6	22:22:13
+Send DATA	Block:7	3.5KB sent so far	22:22:13
+Receive ACK	Block:7	22:22:13
+Send DATA	Block:8	4KB sent so far	22:22:13
+Send DATA	Block:8	4KB sent so far	22:22:14
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:14
+Receive ACK	Block:8	22:22:21
+Send DATA	Block:9	4.5KB sent so far	22:22:21
+Receive ACK	Block:9	22:22:21
+Send DATA	Block:10	5KB sent so far	22:22:21
+Receive ACK	Block:10	22:22:21
+Send DATA	Block:11	5.5KB sent so far	22:22:21
+Receive ACK	Block:11	22:22:21
+Send DATA	Block:12	6KB sent so far	22:22:21
+Send DATA	Block:12	6KB sent so far	22:22:22
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:22
+Receive ACK	Block:12	22:22:24
+Send DATA	Block:13	6.5KB sent so far	22:22:24
+Receive ACK	Block:13	22:22:24
+Send DATA	Block:14	7KB sent so far	22:22:24
+Receive ACK	Block:14	22:22:24
+Send DATA	Block:15	7.5KB sent so far	22:22:24
+Send DATA	Block:15	7.5KB sent so far	22:22:25
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:25
+Receive ACK	Block:15	22:22:27
+Send DATA	Block:16	8KB sent so far	22:22:27
+Receive ACK	Block:16	22:22:27
+Send DATA	Block:17	8.5KB sent so far	22:22:27
+Receive ACK	Block:17	22:22:27
+Send DATA	Block:18	9KB sent so far	22:22:27
+Receive ACK	Block:18	22:22:27
+Send DATA	Block:19	9.5KB sent so far	22:22:27
+Receive ACK	Block:19	22:22:27
+Send DATA	Block:20	10KB sent so far	22:22:27
+Receive ACK	Block:20	22:22:27
+Send DATA	Block:21	10.5KB sent so far	22:22:27
+Receive ACK	Block:21	22:22:27
+Send DATA	Block:22	11KB sent so far	22:22:27
+Receive ACK	Block:22	22:22:27
+Send DATA	Block:23	11.5KB sent so far	22:22:27
+Receive ACK	Block:23	22:22:27
+Send DATA	Block:24	12KB sent so far	22:22:27
+Receive ACK	Block:24	22:22:28
+Send DATA	Block:25	12.5KB sent so far	22:22:28
+Receive ACK	Block:25	22:22:28
+Send DATA	Block:26	13KB sent so far	22:22:28
+Send DATA	Block:26	13KB sent so far	22:22:29
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:29
+Receive ACK	Block:26	22:22:31
+Send DATA	Block:27	13.5KB sent so far	22:22:31
+Receive ACK	Block:27	22:22:31
+Send DATA	Block:28	14KB sent so far	22:22:31
+Receive ACK	Block:28	22:22:31
+Send DATA	Block:29	14.5KB sent so far	22:22:31
+Receive ACK	Block:29	22:22:31
+Send DATA	Block:30	15KB sent so far	22:22:31
+Receive ACK	Block:30	22:22:31
+Send DATA	Block:31	15.5KB sent so far	22:22:31
+Receive ACK	Block:31	22:22:31
+Send DATA	Block:32	16KB sent so far	22:22:31
+Receive ACK	Block:32	22:22:31
+Send DATA	Block:33	16.5KB sent so far	22:22:31
+Receive ACK	Block:33	22:22:31
+Send DATA	Block:34	17KB sent so far	22:22:31
+Receive ACK	Block:34	22:22:31
+Send DATA	Block:35	17.5KB sent so far	22:22:31
+Receive ACK	Block:35	22:22:31
+Send DATA	Block:36	18KB sent so far	22:22:31
+Send DATA	Block:36	18KB sent so far	22:22:32
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:32
+Receive ACK	Block:36	22:22:34
+Send DATA	Block:37	18.5KB sent so far	22:22:34
+Receive ACK	Block:37	22:22:34
+Send DATA	Block:38	19KB sent so far	22:22:34
+Receive ACK	Block:38	22:22:34
+Send DATA	Block:39	19.5KB sent so far	22:22:34
+Receive ACK	Block:39	22:22:34
+Send DATA	Block:40	20KB sent so far	22:22:34
+Receive ACK	Block:40	22:22:34
+Send DATA	Block:41	20.5KB sent so far	22:22:34
+Receive ACK	Block:41	22:22:34
+Send DATA	Block:42	21KB sent so far	22:22:34
+Receive ACK	Block:42	22:22:34
+Send DATA	Block:43	21.5KB sent so far	22:22:34
+Receive ACK	Block:43	22:22:34
+Send DATA	Block:44	22KB sent so far	22:22:34
+Receive ACK	Block:44	22:22:34
+Send DATA	Block:45	22.5KB sent so far	22:22:34
+Send DATA	Block:45	22.5KB sent so far	22:22:35
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:35
+Receive ACK	Block:45	22:22:37
+Send DATA	Block:46	23KB sent so far	22:22:37
+Receive ACK	Block:46	22:22:37
+Send DATA	Block:47	23.5KB sent so far	22:22:37
+Send DATA	Block:47	23.5KB sent so far	22:22:38
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:38
+Receive ACK	Block:47	22:22:40
+Send DATA	Block:48	24KB sent so far	22:22:40
+Receive ACK	Block:48	22:22:40
+Send DATA	Block:49	24.5KB sent so far	22:22:40
+Receive ACK	Block:49	22:22:40
+Send DATA	Block:50	25KB sent so far	22:22:40
+Receive ACK	Block:50	22:22:40
+Send DATA	Block:51	25.5KB sent so far	22:22:40
+Receive ACK	Block:51	22:22:40
+Send DATA	Block:52	26KB sent so far	22:22:40
+Receive ACK	Block:52	22:22:40
+Send DATA	Block:53	26.5KB sent so far	22:22:40
+Receive ACK	Block:53	22:22:40
+Send DATA	Block:54	27KB sent so far	22:22:40
+Send DATA	Block:54	27KB sent so far	22:22:41
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:41
+Receive ACK	Block:54	22:22:43
+Send DATA	Block:55	27.5KB sent so far	22:22:43
+Receive ACK	Block:55	22:22:43
+Send DATA	Block:56	28KB sent so far	22:22:43
+Receive ACK	Block:56	22:22:43
+Send DATA	Block:57	28.5KB sent so far	22:22:43
+Receive ACK	Block:57	22:22:43
+Send DATA	Block:58	29KB sent so far	22:22:43
+Receive ACK	Block:58	22:22:43
+Send DATA	Block:59	29.5KB sent so far	22:22:43
+Receive ACK	Block:59	22:22:43
+Send DATA	Block:60	30KB sent so far	22:22:43
+Receive ACK	Block:60	22:22:43
+Send DATA	Block:61	30.5KB sent so far	22:22:43
+Receive ACK	Block:61	22:22:43
+Send DATA	Block:62	31KB sent so far	22:22:43
+Receive ACK	Block:62	22:22:43
+Send DATA	Block:63	31.5KB sent so far	22:22:43
+Receive ACK	Block:63	22:22:43
+Send DATA	Block:64	32KB sent so far	22:22:43
+Send DATA	Block:64	32KB sent so far	22:22:44
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:44
+Receive ACK	Block:64	22:22:46
+Send DATA	Block:65	32.5KB sent so far	22:22:46
+Receive ACK	Block:65	22:22:46
+Send DATA	Block:66	33KB sent so far	22:22:46
+Receive ACK	Block:66	22:22:46
+Send DATA	Block:67	33.5KB sent so far	22:22:46
+Receive ACK	Block:67	22:22:46
+Send DATA	Block:68	34KB sent so far	22:22:46
+Receive ACK	Block:68	22:22:46
+Send DATA	Block:69	34.5KB sent so far	22:22:46
+Receive ACK	Block:69	22:22:46
+Send DATA	Block:70	35KB sent so far	22:22:46
+Receive ACK	Block:70	22:22:46
+Send DATA	Block:71	35.5KB sent so far	22:22:46
+Receive ACK	Block:71	22:22:46
+Send DATA	Block:72	36KB sent so far	22:22:46
+Receive ACK	Block:72	22:22:46
+Send DATA	Block:73	36.5KB sent so far	22:22:46
+Receive ACK	Block:73	22:22:46
+Send DATA	Block:74	37KB sent so far	22:22:46
+Receive ACK	Block:74	22:22:46
+Send DATA	Block:75	37.5KB sent so far	22:22:46
+Receive ACK	Block:75	22:22:46
+Send DATA	Block:76	38KB sent so far	22:22:46
+Receive ACK	Block:76	22:22:46
+Send DATA	Block:77	38.5KB sent so far	22:22:46
+Send DATA	Block:77	38.5KB sent so far	22:22:47
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:47
+Receive ACK	Block:77	22:22:49
+Send DATA	Block:78	39KB sent so far	22:22:49
+Receive ACK	Block:78	22:22:49
+Send DATA	Block:79	39.5KB sent so far	22:22:49
+Receive ACK	Block:79	22:22:49
+Send DATA	Block:80	40KB sent so far	22:22:49
+Receive ACK	Block:80	22:22:49
+Send DATA	Block:81	40.5KB sent so far	22:22:49
+Receive ACK	Block:81	22:22:49
+Send DATA	Block:82	41KB sent so far	22:22:49
+Receive ACK	Block:82	22:22:49
+Send DATA	Block:83	41.5KB sent so far	22:22:49
+Receive ACK	Block:83	22:22:49
+Send DATA	Block:84	42KB sent so far	22:22:49
+Receive ACK	Block:84	22:22:49
+Send DATA	Block:85	42.5KB sent so far	22:22:49
+Receive ACK	Block:85	22:22:49
+Send DATA	Block:86	43KB sent so far	22:22:49
+Receive ACK	Block:86	22:22:49
+Send DATA	Block:87	43.5KB sent so far	22:22:49
+Receive ACK	Block:87	22:22:49
+Send DATA	Block:88	44KB sent so far	22:22:49
+Receive ACK	Block:88	22:22:49
+Send DATA	Block:89	44.5KB sent so far	22:22:49
+Receive ACK	Block:89	22:22:49
+Send DATA	Block:90	45KB sent so far	22:22:49
+Receive ACK	Block:90	22:22:49
+Send DATA	Block:91	45.5KB sent so far	22:22:49
+Receive ACK	Block:91	22:22:49
+Send DATA	Block:92	46KB sent so far	22:22:49
+Receive ACK	Block:92	22:22:49
+Send DATA	Block:93	46.5KB sent so far	22:22:49
+Send DATA	Block:93	46.5KB sent so far	22:22:50
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:50
+Receive ACK	Block:93	22:22:52
+Send DATA	Block:94	47KB sent so far	22:22:52
+Receive ACK	Block:94	22:22:52
+Send DATA	Block:95	47.5KB sent so far	22:22:52
+Receive ACK	Block:95	22:22:52
+Send DATA	Block:96	48KB sent so far	22:22:52
+Receive ACK	Block:96	22:22:52
+Send DATA	Block:97	48.5KB sent so far	22:22:52
+Receive ACK	Block:97	22:22:52
+Send DATA	Block:98	49KB sent so far	22:22:52
+Send DATA	Block:98	49KB sent so far	22:22:53
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:22:53
+Receive ACK	Block:98	22:23:00
+Send DATA	Block:99	49.5KB sent so far	22:23:00
+Receive ACK	Block:99	22:23:00
+Send DATA	Block:100	50KB sent so far	22:23:00
+Receive ACK	Block:100	22:23:00
+Send DATA	Block:101	50.5KB sent so far	22:23:00
+Receive ACK	Block:101	22:23:00
+Send DATA	Block:102	51KB sent so far	22:23:00
+Receive ACK	Block:102	22:23:00
+Send DATA	Block:103	51.5KB sent so far	22:23:00
+Receive ACK	Block:103	22:23:00
+Send DATA	Block:104	52KB sent so far	22:23:00
+Receive ACK	Block:104	22:23:00
+Send DATA	Block:105	52.5KB sent so far	22:23:00
+Receive ACK	Block:105	22:23:00
+Send DATA	Block:106	53KB sent so far	22:23:00
+Receive ACK	Block:106	22:23:00
+Send DATA	Block:107	53.5KB sent so far	22:23:00
+Receive ACK	Block:107	22:23:00
+Send DATA	Block:108	54KB sent so far	22:23:00
+Receive ACK	Block:108	22:23:00
+Send DATA	Block:109	54.5KB sent so far	22:23:00
+Receive ACK	Block:109	22:23:00
+Send DATA	Block:110	55KB sent so far	22:23:00
+Receive ACK	Block:110	22:23:00
+Send DATA	Block:111	55.5KB sent so far	22:23:00
+Receive ACK	Block:111	22:23:00
+Send DATA	Block:112	56KB sent so far	22:23:00
+Receive ACK	Block:112	22:23:00
+Send DATA	Block:113	56.5KB sent so far	22:23:00
+Receive ACK	Block:113	22:23:00
+Send DATA	Block:114	57KB sent so far	22:23:00
+Receive ACK	Block:114	22:23:00
+Send DATA	Block:115	57.5KB sent so far	22:23:00
+Receive ACK	Block:115	22:23:00
+Send DATA	Block:116	58KB sent so far	22:23:00
+Receive ACK	Block:116	22:23:00
+Send DATA	Block:117	58.5KB sent so far	22:23:00
+Receive ACK	Block:117	22:23:00
+Send DATA	Block:118	59KB sent so far	22:23:00
+Receive ACK	Block:118	22:23:00
+Send DATA	Block:119	59.5KB sent so far	22:23:00
+Send DATA	Block:119	59.5KB sent so far	22:23:01
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:01
+Receive ACK	Block:119	22:23:03
+Send DATA	Block:120	60KB sent so far	22:23:04
+Receive ACK	Block:120	22:23:04
+Send DATA	Block:121	60.5KB sent so far	22:23:04
+Receive ACK	Block:121	22:23:04
+Send DATA	Block:122	61KB sent so far	22:23:04
+Receive ACK	Block:122	22:23:04
+Send DATA	Block:123	61.5KB sent so far	22:23:04
+Receive ACK	Block:123	22:23:04
+Send DATA	Block:124	62KB sent so far	22:23:04
+Receive ACK	Block:124	22:23:04
+Send DATA	Block:125	62.5KB sent so far	22:23:04
+Receive ACK	Block:125	22:23:04
+Send DATA	Block:126	63KB sent so far	22:23:04
+Receive ACK	Block:126	22:23:04
+Send DATA	Block:127	63.5KB sent so far	22:23:04
+Send DATA	Block:127	63.5KB sent so far	22:23:05
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:05
+Receive ACK	Block:127	22:23:07
+Send DATA	Block:128	64KB sent so far	22:23:07
+Send DATA	Block:128	64KB sent so far	22:23:08
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:08
+Receive ACK	Block:128	22:23:10
+Send DATA	Block:129	64.5KB sent so far	22:23:10
+Receive ACK	Block:129	22:23:10
+Send DATA	Block:130	65KB sent so far	22:23:10
+Receive ACK	Block:130	22:23:10
+Send DATA	Block:131	65.5KB sent so far	22:23:10
+Receive ACK	Block:131	22:23:10
+Send DATA	Block:132	66KB sent so far	22:23:10
+Receive ACK	Block:132	22:23:10
+Send DATA	Block:133	66.5KB sent so far	22:23:10
+Send DATA	Block:133	66.5KB sent so far	22:23:11
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:11
+Receive ACK	Block:133	22:23:13
+Send DATA	Block:134	67KB sent so far	22:23:13
+Receive ACK	Block:134	22:23:13
+Send DATA	Block:135	67.5KB sent so far	22:23:13
+Receive ACK	Block:135	22:23:13
+Send DATA	Block:136	68KB sent so far	22:23:13
+Receive ACK	Block:136	22:23:13
+Send DATA	Block:137	68.5KB sent so far	22:23:13
+Receive ACK	Block:137	22:23:13
+Send DATA	Block:138	69KB sent so far	22:23:13
+Send DATA	Block:138	69KB sent so far	22:23:14
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:14
+Receive ACK	Block:138	22:23:16
+Send DATA	Block:139	69.5KB sent so far	22:23:16
+Receive ACK	Block:139	22:23:16
+Send DATA	Block:140	70KB sent so far	22:23:16
+Receive ACK	Block:140	22:23:16
+Send DATA	Block:141	70.5KB sent so far	22:23:16
+Receive ACK	Block:141	22:23:16
+Send DATA	Block:142	71KB sent so far	22:23:16
+Send DATA	Block:142	71KB sent so far	22:23:17
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:17
+Receive ACK	Block:142	22:23:19
+Send DATA	Block:143	71.5KB sent so far	22:23:19
+Receive ACK	Block:143	22:23:19
+Send DATA	Block:144	72KB sent so far	22:23:19
+Send DATA	Block:144	72KB sent so far	22:23:20
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:20
+Receive ACK	Block:144	22:23:22
+Send DATA	Block:145	72.5KB sent so far	22:23:22
+Send DATA	Block:145	72.5KB sent so far	22:23:23
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:23
+Receive ACK	Block:145	22:23:25
+Send DATA	Block:146	73KB sent so far	22:23:25
+Receive ACK	Block:146	22:23:25
+Send DATA	Block:147	73.5KB sent so far	22:23:25
+Receive ACK	Block:147	22:23:25
+Send DATA	Block:148	74KB sent so far	22:23:25
+Receive ACK	Block:148	22:23:25
+Send DATA	Block:149	74.5KB sent so far	22:23:25
+Receive ACK	Block:149	22:23:25
+Send DATA	Block:150	75KB sent so far	22:23:25
+Send DATA	Block:150	75KB sent so far	22:23:26
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:26
+Receive ACK	Block:150	22:23:28
+Send DATA	Block:151	75.5KB sent so far	22:23:28
+Receive ACK	Block:151	22:23:28
+Send DATA	Block:152	76KB sent so far	22:23:28
+Receive ACK	Block:152	22:23:28
+Send DATA	Block:153	76.5KB sent so far	22:23:28
+Send DATA	Block:153	76.5KB sent so far	22:23:29
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:29
+Receive ACK	Block:153	22:23:31
+Send DATA	Block:154	77KB sent so far	22:23:31
+Receive ACK	Block:154	22:23:31
+Send DATA	Block:155	77.5KB sent so far	22:23:31
+Receive ACK	Block:155	22:23:31
+Send DATA	Block:156	78KB sent so far	22:23:31
+Receive ACK	Block:156	22:23:31
+Send DATA	Block:157	78.5KB sent so far	22:23:31
+Receive ACK	Block:157	22:23:31
+Send DATA	Block:158	79KB sent so far	22:23:31
+Receive ACK	Block:158	22:23:31
+Send DATA	Block:159	79.5KB sent so far	22:23:31
+Receive ACK	Block:159	22:23:31
+Send DATA	Block:160	80KB sent so far	22:23:31
+Receive ACK	Block:160	22:23:31
+Send DATA	Block:161	80.5KB sent so far	22:23:31
+Receive ACK	Block:161	22:23:31
+Send DATA	Block:162	81KB sent so far	22:23:31
+Receive ACK	Block:162	22:23:31
+Send DATA	Block:163	81.5KB sent so far	22:23:31
+Receive ACK	Block:163	22:23:31
+Send DATA	Block:164	82KB sent so far	22:23:31
+Receive ACK	Block:164	22:23:31
+Send DATA	Block:165	82.5KB sent so far	22:23:31
+Send DATA	Block:165	82.5KB sent so far	22:23:32
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:32
+Receive ACK	Block:165	22:23:39
+Send DATA	Block:166	83KB sent so far	22:23:39
+Receive ACK	Block:166	22:23:39
+Send DATA	Block:167	83.5KB sent so far	22:23:39
+Receive ACK	Block:167	22:23:39
+Send DATA	Block:168	84KB sent so far	22:23:39
+Send DATA	Block:168	84KB sent so far	22:23:40
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:40
+Receive ACK	Block:168	22:23:42
+Send DATA	Block:169	84.5KB sent so far	22:23:42
+Receive ACK	Block:169	22:23:42
+Send DATA	Block:170	85KB sent so far	22:23:42
+Send DATA	Block:170	85KB sent so far	22:23:43
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:43
+Receive ACK	Block:170	22:23:45
+Send DATA	Block:171	85.5KB sent so far	22:23:45
+Receive ACK	Block:171	22:23:45
+Send DATA	Block:172	86KB sent so far	22:23:45
+Receive ACK	Block:172	22:23:45
+Send DATA	Block:173	86.5KB sent so far	22:23:45
+Receive ACK	Block:173	22:23:45
+Send DATA	Block:174	87KB sent so far	22:23:45
+Receive ACK	Block:174	22:23:45
+Send DATA	Block:175	87.5KB sent so far	22:23:45
+Receive ACK	Block:175	22:23:45
+Send DATA	Block:176	88KB sent so far	22:23:45
+Receive ACK	Block:176	22:23:45
+Send DATA	Block:177	88.5KB sent so far	22:23:45
+Send DATA	Block:177	88.5KB sent so far	22:23:46
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:46
+Receive ACK	Block:177	22:23:48
+Send DATA	Block:178	89KB sent so far	22:23:48
+Receive ACK	Block:178	22:23:48
+Send DATA	Block:179	89.5KB sent so far	22:23:48
+Receive ACK	Block:179	22:23:48
+Send DATA	Block:180	90KB sent so far	22:23:48
+Receive ACK	Block:180	22:23:48
+Send DATA	Block:181	90.5KB sent so far	22:23:48
+Receive ACK	Block:181	22:23:48
+Send DATA	Block:182	91KB sent so far	22:23:48
+Receive ACK	Block:182	22:23:48
+Send DATA	Block:183	91.5KB sent so far	22:23:48
+Receive ACK	Block:183	22:23:48
+Send DATA	Block:184	92KB sent so far	22:23:48
+Receive ACK	Block:184	22:23:48
+Send DATA	Block:185	92.5KB sent so far	22:23:48
+Receive ACK	Block:185	22:23:48
+Send DATA	Block:186	93KB sent so far	22:23:48
+Receive ACK	Block:186	22:23:48
+Send DATA	Block:187	93.5KB sent so far	22:23:48
+Receive ACK	Block:187	22:23:48
+Send DATA	Block:188	94KB sent so far	22:23:48
+Receive ACK	Block:188	22:23:48
+Send DATA	Block:189	94.5KB sent so far	22:23:48
+Receive ACK	Block:189	22:23:48
+Send DATA	Block:190	95KB sent so far	22:23:48
+Send DATA	Block:190	95KB sent so far	22:23:49
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:49
+Receive ACK	Block:190	22:23:51
+Send DATA	Block:191	95.5KB sent so far	22:23:51
+Receive ACK	Block:191	22:23:51
+Send DATA	Block:192	96KB sent so far	22:23:51
+Send DATA	Block:192	96KB sent so far	22:23:52
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:23:52
+Receive ACK	Block:192	22:23:59
+Send DATA	Block:193	96.5KB sent so far	22:23:59
+Receive ACK	Block:193	22:23:59
+Send DATA	Block:194	97KB sent so far	22:23:59
+Receive ACK	Block:194	22:24:00
+Send DATA	Block:195	97.5KB sent so far	22:24:00
+Receive ACK	Block:195	22:24:00
+Send DATA	Block:196	98KB sent so far	22:24:00
+Receive ACK	Block:196	22:24:00
+Send DATA	Block:197	98.5KB sent so far	22:24:00
+Receive ACK	Block:197	22:24:00
+Send DATA	Block:198	99KB sent so far	22:24:00
+Receive ACK	Block:198	22:24:00
+Send DATA	Block:199	99.5KB sent so far	22:24:00
+Receive ACK	Block:199	22:24:00
+Send DATA	Block:200	100KB sent so far	22:24:00
+Send DATA	Block:200	100KB sent so far	22:24:01
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:24:01
+Receive ERROR	ERROR Code:Receive ACK	Block:200	22:24:03
+Send DATA	Block:201	100.5KB sent so far	22:24:03
+Receive ACK	Block:201	22:24:03
+Send DATA	Block:202	101KB sent so far	22:24:03
+Receive ACK	Block:202	22:24:03
+Send DATA	Block:203	101.5KB sent so far	22:24:03
+Receive ACK	Block:203	22:24:03
+Send DATA	Block:204	102KB sent so far	22:24:03
+Receive ACK	Block:204	22:24:03
+Send DATA	Block:205	102.5KB sent so far	22:24:03
+Receive ACK	Block:205	22:24:03
+Send DATA	Block:206	103KB sent so far	22:24:03
+Receive ACK	Block:206	22:24:03
+Send DATA	Block:207	103.5KB sent so far	22:24:03
+Receive ACK	Block:207	22:24:03
+Send DATA	Block:208	104KB sent so far	22:24:03
+Receive ACK	Block:208	22:24:03
+Send DATA	Block:209	104.5KB sent so far	22:24:03
+Receive ACK	Block:209	22:24:03
+Send DATA	Block:210	105KB sent so far	22:24:03
+Receive ACK	Block:210	22:24:03
+Send DATA	Block:211	105.5KB sent so far	22:24:03
+Receive ACK	Block:211	22:24:03
+Send DATA	Block:212	106KB sent so far	22:24:03
+Receive ACK	Block:212	22:24:03
+Send DATA	Block:213	106.5KB sent so far	22:24:03
+Receive ACK	Block:213	22:24:03
+Send DATA	Block:214	107KB sent so far	22:24:03
+Receive ACK	Block:214	22:24:03
+Send DATA	Block:215	107.5KB sent so far	22:24:03
+Receive ACK	Block:215	22:24:03
+Send DATA	Block:216	108KB sent so far	22:24:03
+Receive ACK	Block:216	22:24:03
+Send DATA	Block:217	108.5KB sent so far	22:24:03
+Receive ACK	Block:217	22:24:03
+Send DATA	Block:218	109KB sent so far	22:24:03
+Receive ACK	Block:218	22:24:03
+Send DATA	Block:219	109.5KB sent so far	22:24:03
+Receive ACK	Block:219	22:24:03
+Send DATA	Block:220	110KB sent so far	22:24:03
+Receive ACK	Block:220	22:24:03
+Send DATA	Block:221	110.5KB sent so far	22:24:03
+Receive ACK	Block:221	22:24:03
+Send DATA	Block:222	111KB sent so far	22:24:03
+Receive ACK	Block:222	22:24:03
+Send DATA	Block:223	111.5KB sent so far	22:24:03
+Receive ACK	Block:223	22:24:03
+Send DATA	Block:224	112KB sent so far	22:24:03
+Receive ACK	Block:224	22:24:03
+Send DATA	Block:225	112.5KB sent so far	22:24:03
+Receive ACK	Block:225	22:24:03
+Send DATA	Block:226	113KB sent so far	22:24:03
+Receive ACK	Block:226	22:24:03
+Send DATA	Block:227	113.5KB sent so far	22:24:03
+Receive ACK	Block:227	22:24:03
+Send DATA	Block:228	114KB sent so far	22:24:03
+Receive ACK	Block:228	22:24:03
+Send DATA	Block:229	114.5KB sent so far	22:24:03
+Receive ACK	Block:229	22:24:03
+Send DATA	Block:230	115KB sent so far	22:24:03
+Receive ACK	Block:230	22:24:03
+Send DATA	Block:231	115.5KB sent so far	22:24:03
+Receive ACK	Block:231	22:24:03
+Send DATA	Block:232	116KB sent so far	22:24:03
+Receive ACK	Block:232	22:24:03
+Send DATA	Block:233	116.5KB sent so far	22:24:03
+Send DATA	Block:233	116.5KB sent so far	22:24:04
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:24:04
+Receive ACK	Block:233	22:24:06
+Send DATA	Block:234	117KB sent so far	22:24:06
+Receive ACK	Block:234	22:24:06
+Send DATA	Block:235	117.5KB sent so far	22:24:06
+Send DATA	Block:235	117.5KB sent so far	22:24:07
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:24:07
+Receive ACK	Block:235	22:24:09
+Send DATA	Block:236	118KB sent so far	22:24:09
+Receive ACK	Block:236	22:24:09
+Send DATA	Block:237	118.5KB sent so far	22:24:09
+Receive ACK	Block:237	22:24:09
+Send DATA	Block:238	119KB sent so far	22:24:09
+Receive ACK	Block:238	22:24:09
+Send DATA	Block:239	119.5KB sent so far	22:24:09
+Receive ACK	Block:239	22:24:09
+Send DATA	Block:240	120KB sent so far	22:24:09
+Receive ACK	Block:240	22:24:09
+Send DATA	Block:241	120.5KB sent so far	22:24:09
+Receive ACK	Block:241	22:24:09
+Send DATA	Block:242	121KB sent so far	22:24:09
+Receive ACK	Block:242	22:24:09
+Send DATA	Block:243	121.5KB sent so far	22:24:09
+Receive ACK	Block:243	22:24:09
+Send DATA	Block:244	122KB sent so far	22:24:09
+Receive ACK	Block:244	22:24:09
+Send DATA	Block:245	122.5KB sent so far	22:24:09
+Receive ACK	Block:245	22:24:09
+Send DATA	Block:246	123KB sent so far	22:24:09
+Receive ACK	Block:246	22:24:09
+Send DATA	Block:247	123.5KB sent so far	22:24:09
+Receive ERROR	ERROR Code:Receive ACK	Block:247	22:24:12
+Send DATA	Block:248	124KB sent so far	22:24:12
+Receive ACK	Block:248	22:24:12
+Send DATA	Block:249	124.5KB sent so far	22:24:12
+Receive ACK	Block:249	22:24:12
+Send DATA	Block:250	125KB sent so far	22:24:12
+Receive ACK	Block:250	22:24:12
+Send DATA	Block:251	125.5KB sent so far	22:24:12
+Receive ACK	Block:251	22:24:12
+Send DATA	Block:252	126KB sent so far	22:24:12
+Receive ACK	Block:252	22:24:12
+Send DATA	Block:253	126.5KB sent so far	22:24:12
+Receive ACK	Block:253	22:24:12
+Send DATA	Block:254	127KB sent so far	22:24:12
+Send DATA	Block:254	127KB sent so far	22:24:13
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:24:13
+Receive ERROR	ERROR Code:Send WRQ	FileName:1.png	22:25:09
+Receive ACK	Block:254	22:25:09
+Send DATA	Block:254	127KB sent so far	22:25:09
+Receive ACK	Block:254	22:25:09
+Send DATA	Block:254	127KB sent so far	22:25:09
+Send DATA	Block:254	127KB sent so far	22:25:10
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:25:10
+Send WRQ	FileName:1.png	22:25:38
+Receive ACK	Block:254	22:25:38
+Send DATA	Block:254	127KB sent so far	22:25:38
+Receive ACK	Block:254	22:25:38
+Send DATA	Block:254	127KB sent so far	22:25:38
+Send DATA	Block:254	127KB sent so far	22:25:39
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:25:39
+Send RRQ	FileName:SourcererCC.pdf	22:26:03
+Receive DATA	Block:1	127.5KB received so far	22:26:03
+Send ACK	Block:1	22:26:03
+Receive DATA	Block:2	128KB received so far	22:26:03
+Send ACK	Block:2	22:26:03
+Receive DATA	Block:3	128.5KB received so far	22:26:03
+Send ACK	Block:3	22:26:03
+Receive DATA	Block:4	129KB received so far	22:26:03
+Send ACK	Block:4	22:26:03
+Receive DATA	Block:5	129.5KB received so far	22:26:03
+Send ACK	Block:5	22:26:03
+Receive DATA	Block:6	130KB received so far	22:26:03
+Send ACK	Block:6	22:26:03
+Receive DATA	Block:7	130.5KB received so far	22:26:03
+Send ACK	Block:7	22:26:03
+Receive DATA	Block:8	131KB received so far	22:26:03
+Send ACK	Block:8	22:26:03
+Receive DATA	Block:9	131.5KB received so far	22:26:03
+Send ACK	Block:9	22:26:03
+Receive DATA	Block:10	132KB received so far	22:26:03
+Send ACK	Block:10	22:26:03
+Receive DATA	Block:11	132.5KB received so far	22:26:03
+Send ACK	Block:11	22:26:03
+Receive DATA	Block:12	133KB received so far	22:26:03
+Send ACK	Block:12	22:26:03
+Receive DATA	Block:13	133.5KB received so far	22:26:03
+Send ACK	Block:13	22:26:03
+Receive DATA	Block:14	134KB received so far	22:26:03
+Send ACK	Block:14	22:26:03
+Receive DATA	Block:15	134.5KB received so far	22:26:03
+Send ACK	Block:15	22:26:03
+Receive DATA	Block:16	135KB received so far	22:26:03
+Send ACK	Block:16	22:26:03
+Receive DATA	Block:17	135.5KB received so far	22:26:03
+Send ACK	Block:17	22:26:03
+Receive DATA	Block:18	136KB received so far	22:26:03
+Send ACK	Block:18	22:26:03
+Receive DATA	Block:19	136.5KB received so far	22:26:03
+Send ACK	Block:19	22:26:03
+Receive DATA	Block:20	137KB received so far	22:26:03
+Send ACK	Block:20	22:26:03
+Receive DATA	Block:21	137.5KB received so far	22:26:03
+Send ACK	Block:21	22:26:03
+Receive DATA	Block:22	138KB received so far	22:26:03
+Send ACK	Block:22	22:26:03
+Receive DATA	Block:23	138.5KB received so far	22:26:03
+Send ACK	Block:23	22:26:03
+Receive DATA	Block:24	139KB received so far	22:26:03
+Send ACK	Block:24	22:26:03
+Receive DATA	Block:25	139.5KB received so far	22:26:03
+Send ACK	Block:25	22:26:03
+Receive DATA	Block:26	140KB received so far	22:26:03
+Send ACK	Block:26	22:26:03
+Receive DATA	Block:27	140.5KB received so far	22:26:03
+Send ACK	Block:27	22:26:03
+Receive DATA	Block:28	141KB received so far	22:26:03
+Send ACK	Block:28	22:26:03
+Receive DATA	Block:29	141.5KB received so far	22:26:03
+Send ACK	Block:29	22:26:03
+Receive DATA	Block:30	142KB received so far	22:26:03
+Send ACK	Block:30	22:26:03
+Receive DATA	Block:31	142.5KB received so far	22:26:03
+Send ACK	Block:31	22:26:03
+Receive DATA	Block:32	143KB received so far	22:26:03
+Send ACK	Block:32	22:26:03
+Receive DATA	Block:33	143.5KB received so far	22:26:03
+Send ACK	Block:33	22:26:03
+Receive DATA	Block:34	144KB received so far	22:26:03
+Send ACK	Block:34	22:26:03
+Receive DATA	Block:35	144.5KB received so far	22:26:03
+Send ACK	Block:35	22:26:03
+Receive DATA	Block:36	145KB received so far	22:26:03
+Send ACK	Block:36	22:26:03
+Receive DATA	Block:37	145.5KB received so far	22:26:03
+Send ACK	Block:37	22:26:03
+Receive DATA	Block:38	146KB received so far	22:26:03
+Send ACK	Block:38	22:26:03
+Receive DATA	Block:39	146.5KB received so far	22:26:03
+Send ACK	Block:39	22:26:03
+Receive DATA	Block:40	147KB received so far	22:26:03
+Send ACK	Block:40	22:26:03
+Receive DATA	Block:41	147.5KB received so far	22:26:03
+Send ACK	Block:41	22:26:03
+Receive DATA	Block:42	148KB received so far	22:26:03
+Send ACK	Block:42	22:26:03
+Receive DATA	Block:43	148.5KB received so far	22:26:03
+Send ACK	Block:43	22:26:03
+Receive DATA	Block:44	149KB received so far	22:26:03
+Send ACK	Block:44	22:26:03
+Receive DATA	Block:45	149.5KB received so far	22:26:03
+Send ACK	Block:45	22:26:03
+Receive DATA	Block:46	150KB received so far	22:26:03
+Send ACK	Block:46	22:26:03
+Receive DATA	Block:47	150.5KB received so far	22:26:03
+Send ACK	Block:47	22:26:03
+Receive DATA	Block:48	151KB received so far	22:26:03
+Send ACK	Block:48	22:26:03
+Receive DATA	Block:49	151.5KB received so far	22:26:03
+Send ACK	Block:49	22:26:03
+Receive DATA	Block:50	152KB received so far	22:26:03
+Send ACK	Block:50	22:26:03
+Receive DATA	Block:51	152.5KB received so far	22:26:03
+Send ACK	Block:51	22:26:03
+Receive DATA	Block:52	153KB received so far	22:26:03
+Send ACK	Block:52	22:26:03
+Receive DATA	Block:53	153.5KB received so far	22:26:03
+Send ACK	Block:53	22:26:03
+Receive DATA	Block:54	154KB received so far	22:26:03
+Send ACK	Block:54	22:26:03
+Receive DATA	Block:55	154.5KB received so far	22:26:03
+Send ACK	Block:55	22:26:03
+Receive DATA	Block:56	155KB received so far	22:26:03
+Send ACK	Block:56	22:26:03
+Receive DATA	Block:57	155.5KB received so far	22:26:03
+Send ACK	Block:57	22:26:03
+Receive DATA	Block:58	156KB received so far	22:26:03
+Send ACK	Block:58	22:26:03
+Receive DATA	Block:59	156.5KB received so far	22:26:03
+Send ACK	Block:59	22:26:03
+Receive DATA	Block:60	157KB received so far	22:26:03
+Send ACK	Block:60	22:26:03
+Receive DATA	Block:61	157.5KB received so far	22:26:03
+Send ACK	Block:61	22:26:03
+Receive DATA	Block:62	158KB received so far	22:26:03
+Send ACK	Block:62	22:26:03
+Receive DATA	Block:63	158.5KB received so far	22:26:03
+Send ACK	Block:63	22:26:03
+Receive DATA	Block:64	159KB received so far	22:26:03
+Send ACK	Block:64	22:26:03
+Receive DATA	Block:65	159.5KB received so far	22:26:03
+Send ACK	Block:65	22:26:03
+Receive DATA	Block:66	160KB received so far	22:26:03
+Send ACK	Block:66	22:26:03
+Receive DATA	Block:67	160.5KB received so far	22:26:03
+Send ACK	Block:67	22:26:03
+Receive DATA	Block:68	161KB received so far	22:26:03
+Send ACK	Block:68	22:26:03
+Receive DATA	Block:69	161.5KB received so far	22:26:03
+Send ACK	Block:69	22:26:03
+Receive DATA	Block:70	162KB received so far	22:26:03
+Send ACK	Block:70	22:26:03
+Receive DATA	Block:71	162.5KB received so far	22:26:03
+Send ACK	Block:71	22:26:03
+Receive DATA	Block:72	163KB received so far	22:26:03
+Send ACK	Block:72	22:26:03
+Receive DATA	Block:73	163.5KB received so far	22:26:03
+Send ACK	Block:73	22:26:03
+Receive DATA	Block:74	164KB received so far	22:26:03
+Send ACK	Block:74	22:26:03
+Receive DATA	Block:75	164.5KB received so far	22:26:03
+Send ACK	Block:75	22:26:03
+Receive DATA	Block:76	165KB received so far	22:26:03
+Send ACK	Block:76	22:26:03
+Receive DATA	Block:77	165.5KB received so far	22:26:03
+Send ACK	Block:77	22:26:03
+Receive DATA	Block:78	166KB received so far	22:26:03
+Send ACK	Block:78	22:26:03
+Receive DATA	Block:79	166.5KB received so far	22:26:03
+Send ACK	Block:79	22:26:03
+Receive DATA	Block:80	167KB received so far	22:26:03
+Send ACK	Block:80	22:26:03
+Receive DATA	Block:81	167.5KB received so far	22:26:03
+Send ACK	Block:81	22:26:03
+Receive DATA	Block:82	168KB received so far	22:26:03
+Send ACK	Block:82	22:26:03
+Receive DATA	Block:83	168.5KB received so far	22:26:03
+Send ACK	Block:83	22:26:03
+Receive DATA	Block:84	169KB received so far	22:26:03
+Send ACK	Block:84	22:26:03
+Receive DATA	Block:85	169.5KB received so far	22:26:03
+Send ACK	Block:85	22:26:03
+Receive DATA	Block:86	170KB received so far	22:26:03
+Send ACK	Block:86	22:26:03
+Receive DATA	Block:87	170.5KB received so far	22:26:03
+Send ACK	Block:87	22:26:03
+Receive DATA	Block:88	171KB received so far	22:26:03
+Send ACK	Block:88	22:26:03
+Receive DATA	Block:89	171.5KB received so far	22:26:03
+Send ACK	Block:89	22:26:03
+Receive DATA	Block:90	172KB received so far	22:26:03
+Send ACK	Block:90	22:26:03
+Receive DATA	Block:91	172.5KB received so far	22:26:03
+Send ACK	Block:91	22:26:03
+Receive DATA	Block:92	173KB received so far	22:26:03
+Send ACK	Block:92	22:26:03
+Receive DATA	Block:93	173.5KB received so far	22:26:03
+Send ACK	Block:93	22:26:03
+Receive DATA	Block:94	174KB received so far	22:26:03
+Send ACK	Block:94	22:26:03
+Receive DATA	Block:95	174.5KB received so far	22:26:03
+Send ACK	Block:95	22:26:03
+Receive DATA	Block:96	175KB received so far	22:26:03
+Send ACK	Block:96	22:26:03
+Receive DATA	Block:97	175.5KB received so far	22:26:03
+Send ACK	Block:97	22:26:03
+Receive DATA	Block:98	176KB received so far	22:26:03
+Send ACK	Block:98	22:26:03
+Receive DATA	Block:99	176.5KB received so far	22:26:03
+Send ACK	Block:99	22:26:03
+Receive DATA	Block:100	177KB received so far	22:26:03
+Send ACK	Block:100	22:26:03
+Receive DATA	Block:101	177.5KB received so far	22:26:03
+Send ACK	Block:101	22:26:03
+Receive DATA	Block:102	178KB received so far	22:26:03
+Send ACK	Block:102	22:26:03
+Receive DATA	Block:103	178.5KB received so far	22:26:03
+Send ACK	Block:103	22:26:03
+Receive DATA	Block:104	179KB received so far	22:26:03
+Send ACK	Block:104	22:26:03
+Receive DATA	Block:105	179.5KB received so far	22:26:03
+Send ACK	Block:105	22:26:03
+Receive DATA	Block:106	180KB received so far	22:26:03
+Send ACK	Block:106	22:26:03
+Receive DATA	Block:107	180.5KB received so far	22:26:03
+Send ACK	Block:107	22:26:03
+Receive DATA	Block:108	181KB received so far	22:26:03
+Send ACK	Block:108	22:26:03
+Receive DATA	Block:109	181.5KB received so far	22:26:03
+Send ACK	Block:109	22:26:03
+Receive DATA	Block:110	182KB received so far	22:26:03
+Send ACK	Block:110	22:26:03
+Receive DATA	Block:111	182.5KB received so far	22:26:03
+Send ACK	Block:111	22:26:03
+Receive DATA	Block:112	183KB received so far	22:26:03
+Send ACK	Block:112	22:26:03
+Receive DATA	Block:113	183.5KB received so far	22:26:03
+Send ACK	Block:113	22:26:03
+Receive DATA	Block:114	184KB received so far	22:26:03
+Send ACK	Block:114	22:26:03
+Receive DATA	Block:115	184.5KB received so far	22:26:03
+Send ACK	Block:115	22:26:03
+Receive DATA	Block:116	185KB received so far	22:26:03
+Send ACK	Block:116	22:26:03
+Receive DATA	Block:117	185.5KB received so far	22:26:03
+Send ACK	Block:117	22:26:03
+Receive DATA	Block:118	186KB received so far	22:26:03
+Send ACK	Block:118	22:26:03
+Receive DATA	Block:119	186.5KB received so far	22:26:03
+Send ACK	Block:119	22:26:03
+Receive DATA	Block:120	187KB received so far	22:26:03
+Send ACK	Block:120	22:26:03
+Receive DATA	Block:121	187.5KB received so far	22:26:03
+Send ACK	Block:121	22:26:03
+Receive DATA	Block:122	188KB received so far	22:26:03
+Send ACK	Block:122	22:26:03
+Receive DATA	Block:123	188.5KB received so far	22:26:03
+Send ACK	Block:123	22:26:03
+Receive DATA	Block:124	189KB received so far	22:26:03
+Send ACK	Block:124	22:26:03
+Receive DATA	Block:125	189.5KB received so far	22:26:03
+Send ACK	Block:125	22:26:03
+Receive DATA	Block:126	190KB received so far	22:26:03
+Send ACK	Block:126	22:26:03
+Receive DATA	Block:127	190.5KB received so far	22:26:03
+Send ACK	Block:127	22:26:03
+Receive DATA	Block:128	191KB received so far	22:26:03
+Send ACK	Block:128	22:26:03
+Receive DATA	Block:129	191.5KB received so far	22:26:03
+Send ACK	Block:129	22:26:03
+Receive DATA	Block:130	192KB received so far	22:26:03
+Send ACK	Block:130	22:26:03
+Receive DATA	Block:131	192.5KB received so far	22:26:03
+Send ACK	Block:131	22:26:03
+Receive DATA	Block:132	193KB received so far	22:26:03
+Send ACK	Block:132	22:26:03
+Receive DATA	Block:133	193.5KB received so far	22:26:03
+Send ACK	Block:133	22:26:03
+Receive DATA	Block:134	194KB received so far	22:26:03
+Send ACK	Block:134	22:26:03
+Receive DATA	Block:135	194.5KB received so far	22:26:03
+Send ACK	Block:135	22:26:03
+Receive DATA	Block:136	195KB received so far	22:26:03
+Send ACK	Block:136	22:26:03
+Receive DATA	Block:137	195.5KB received so far	22:26:03
+Send ACK	Block:137	22:26:03
+Receive DATA	Block:138	196KB received so far	22:26:03
+Send ACK	Block:138	22:26:03
+Receive DATA	Block:139	196.5KB received so far	22:26:03
+Send ACK	Block:139	22:26:03
+Receive DATA	Block:140	197KB received so far	22:26:03
+Send ACK	Block:140	22:26:03
+Receive DATA	Block:141	197.5KB received so far	22:26:03
+Send ACK	Block:141	22:26:03
+Receive DATA	Block:142	198KB received so far	22:26:03
+Send ACK	Block:142	22:26:03
+Receive DATA	Block:143	198.5KB received so far	22:26:03
+Send ACK	Block:143	22:26:03
+Receive DATA	Block:144	199KB received so far	22:26:03
+Send ACK	Block:144	22:26:03
+Receive DATA	Block:145	199.5KB received so far	22:26:03
+Send ACK	Block:145	22:26:03
+Receive DATA	Block:146	200KB received so far	22:26:03
+Send ACK	Block:146	22:26:03
+Receive DATA	Block:147	200.5KB received so far	22:26:03
+Send ACK	Block:147	22:26:03
+Receive DATA	Block:148	201KB received so far	22:26:03
+Send ACK	Block:148	22:26:03
+Receive DATA	Block:149	201.5KB received so far	22:26:03
+Send ACK	Block:149	22:26:03
+Receive DATA	Block:150	202KB received so far	22:26:03
+Send ACK	Block:150	22:26:03
+Receive DATA	Block:151	202.5KB received so far	22:26:03
+Send ACK	Block:151	22:26:03
+Receive DATA	Block:152	203KB received so far	22:26:03
+Send ACK	Block:152	22:26:03
+Receive DATA	Block:153	203.5KB received so far	22:26:03
+Send ACK	Block:153	22:26:03
+Receive DATA	Block:154	204KB received so far	22:26:03
+Send ACK	Block:154	22:26:03
+Receive DATA	Block:155	204.5KB received so far	22:26:03
+Send ACK	Block:155	22:26:03
+Receive DATA	Block:156	205KB received so far	22:26:03
+Send ACK	Block:156	22:26:03
+Receive DATA	Block:157	205.5KB received so far	22:26:03
+Send ACK	Block:157	22:26:03
+Receive DATA	Block:158	206KB received so far	22:26:03
+Send ACK	Block:158	22:26:03
+Receive DATA	Block:159	206.5KB received so far	22:26:04
+Send ACK	Block:159	22:26:04
+Receive DATA	Block:160	207KB received so far	22:26:04
+Send ACK	Block:160	22:26:04
+Receive DATA	Block:161	207.5KB received so far	22:26:04
+Send ACK	Block:161	22:26:04
+Receive DATA	Block:162	208KB received so far	22:26:04
+Send ACK	Block:162	22:26:04
+Receive DATA	Block:163	208.5KB received so far	22:26:04
+Send ACK	Block:163	22:26:04
+Receive DATA	Block:164	209KB received so far	22:26:04
+Send ACK	Block:164	22:26:04
+Receive DATA	Block:165	209.5KB received so far	22:26:04
+Send ACK	Block:165	22:26:04
+Receive DATA	Block:166	210KB received so far	22:26:04
+Send ACK	Block:166	22:26:04
+Receive DATA	Block:167	210.5KB received so far	22:26:04
+Send ACK	Block:167	22:26:04
+Receive DATA	Block:168	211KB received so far	22:26:04
+Send ACK	Block:168	22:26:04
+Receive DATA	Block:169	211.5KB received so far	22:26:04
+Send ACK	Block:169	22:26:04
+Receive DATA	Block:170	212KB received so far	22:26:04
+Send ACK	Block:170	22:26:04
+Receive DATA	Block:171	212.5KB received so far	22:26:04
+Send ACK	Block:171	22:26:04
+Receive DATA	Block:172	213KB received so far	22:26:04
+Send ACK	Block:172	22:26:04
+Receive DATA	Block:173	213.5KB received so far	22:26:04
+Send ACK	Block:173	22:26:04
+Receive DATA	Block:174	214KB received so far	22:26:04
+Send ACK	Block:174	22:26:04
+Receive DATA	Block:175	214.5KB received so far	22:26:04
+Send ACK	Block:175	22:26:04
+Receive DATA	Block:176	215KB received so far	22:26:04
+Send ACK	Block:176	22:26:04
+Receive DATA	Block:177	215.5KB received so far	22:26:04
+Send ACK	Block:177	22:26:04
+Receive DATA	Block:178	216KB received so far	22:26:04
+Send ACK	Block:178	22:26:04
+Receive DATA	Block:179	216.5KB received so far	22:26:04
+Send ACK	Block:179	22:26:04
+Receive DATA	Block:180	217KB received so far	22:26:04
+Send ACK	Block:180	22:26:04
+Receive DATA	Block:181	217.5KB received so far	22:26:04
+Send ACK	Block:181	22:26:04
+Receive DATA	Block:182	218KB received so far	22:26:04
+Send ACK	Block:182	22:26:04
+Receive DATA	Block:183	218.5KB received so far	22:26:04
+Send ACK	Block:183	22:26:04
+Receive DATA	Block:184	219KB received so far	22:26:04
+Send ACK	Block:184	22:26:04
+Receive DATA	Block:185	219.5KB received so far	22:26:04
+Send ACK	Block:185	22:26:04
+Receive DATA	Block:186	220KB received so far	22:26:04
+Send ACK	Block:186	22:26:04
+Receive DATA	Block:187	220.5KB received so far	22:26:04
+Send ACK	Block:187	22:26:04
+Receive DATA	Block:188	221KB received so far	22:26:04
+Send ACK	Block:188	22:26:04
+Receive DATA	Block:189	221.5KB received so far	22:26:04
+Send ACK	Block:189	22:26:04
+Receive DATA	Block:190	222KB received so far	22:26:04
+Send ACK	Block:190	22:26:04
+Receive DATA	Block:191	222.5KB received so far	22:26:04
+Send ACK	Block:191	22:26:04
+Receive DATA	Block:192	223KB received so far	22:26:04
+Send ACK	Block:192	22:26:04
+Receive DATA	Block:193	223.5KB received so far	22:26:04
+Send ACK	Block:193	22:26:04
+Receive DATA	Block:194	224KB received so far	22:26:04
+Send ACK	Block:194	22:26:04
+Receive DATA	Block:195	224.5KB received so far	22:26:04
+Send ACK	Block:195	22:26:04
+Receive DATA	Block:196	225KB received so far	22:26:04
+Send ACK	Block:196	22:26:04
+Receive DATA	Block:197	225.5KB received so far	22:26:04
+Send ACK	Block:197	22:26:04
+Receive DATA	Block:198	226KB received so far	22:26:04
+Send ACK	Block:198	22:26:04
+Receive DATA	Block:199	226.5KB received so far	22:26:04
+Send ACK	Block:199	22:26:04
+Receive DATA	Block:200	227KB received so far	22:26:04
+Send ACK	Block:200	22:26:04
+Receive DATA	Block:201	227.5KB received so far	22:26:04
+Send ACK	Block:201	22:26:04
+Receive DATA	Block:202	228KB received so far	22:26:04
+Send ACK	Block:202	22:26:04
+Receive DATA	Block:203	228.5KB received so far	22:26:04
+Send ACK	Block:203	22:26:04
+Receive DATA	Block:204	229KB received so far	22:26:04
+Send ACK	Block:204	22:26:04
+Receive DATA	Block:205	229.5KB received so far	22:26:04
+Send ACK	Block:205	22:26:04
+Receive DATA	Block:206	230KB received so far	22:26:04
+Send ACK	Block:206	22:26:04
+Receive DATA	Block:207	230.5KB received so far	22:26:04
+Send ACK	Block:207	22:26:04
+Receive DATA	Block:208	231KB received so far	22:26:04
+Send ACK	Block:208	22:26:04
+Receive DATA	Block:209	231.5KB received so far	22:26:04
+Send ACK	Block:209	22:26:04
+Receive DATA	Block:210	232KB received so far	22:26:04
+Send ACK	Block:210	22:26:04
+Receive DATA	Block:211	232.5KB received so far	22:26:04
+Send ACK	Block:211	22:26:04
+Receive DATA	Block:212	233KB received so far	22:26:04
+Send ACK	Block:212	22:26:04
+Receive DATA	Block:213	233.5KB received so far	22:26:04
+Send ACK	Block:213	22:26:04
+Receive DATA	Block:214	234KB received so far	22:26:04
+Send ACK	Block:214	22:26:04
+Receive DATA	Block:215	234.5KB received so far	22:26:04
+Send ACK	Block:215	22:26:04
+Receive DATA	Block:216	235KB received so far	22:26:04
+Send ACK	Block:216	22:26:04
+Receive DATA	Block:217	235.5KB received so far	22:26:04
+Send ACK	Block:217	22:26:04
+Receive DATA	Block:218	236KB received so far	22:26:04
+Send ACK	Block:218	22:26:04
+Receive DATA	Block:219	236.5KB received so far	22:26:04
+Send ACK	Block:219	22:26:04
+Receive DATA	Block:220	237KB received so far	22:26:04
+Send ACK	Block:220	22:26:04
+Receive DATA	Block:221	237.5KB received so far	22:26:04
+Send ACK	Block:221	22:26:04
+Receive DATA	Block:222	238KB received so far	22:26:04
+Send ACK	Block:222	22:26:04
+Receive DATA	Block:223	238.5KB received so far	22:26:04
+Send ACK	Block:223	22:26:04
+Receive DATA	Block:224	239KB received so far	22:26:04
+Send ACK	Block:224	22:26:04
+Receive DATA	Block:225	239.5KB received so far	22:26:04
+Send ACK	Block:225	22:26:04
+Receive DATA	Block:226	240KB received so far	22:26:04
+Send ACK	Block:226	22:26:04
+Receive DATA	Block:227	240.5KB received so far	22:26:04
+Send ACK	Block:227	22:26:04
+Receive DATA	Block:228	241KB received so far	22:26:04
+Send ACK	Block:228	22:26:04
+Receive DATA	Block:229	241.5KB received so far	22:26:04
+Send ACK	Block:229	22:26:04
+Receive DATA	Block:230	242KB received so far	22:26:04
+Send ACK	Block:230	22:26:04
+Receive DATA	Block:231	242.5KB received so far	22:26:04
+Send ACK	Block:231	22:26:04
+Receive DATA	Block:232	243KB received so far	22:26:04
+Send ACK	Block:232	22:26:04
+Receive DATA	Block:233	243.5KB received so far	22:26:04
+Send ACK	Block:233	22:26:04
+Receive DATA	Block:234	244KB received so far	22:26:04
+Send ACK	Block:234	22:26:04
+Receive DATA	Block:235	244.5KB received so far	22:26:04
+Send ACK	Block:235	22:26:04
+Receive DATA	Block:236	245KB received so far	22:26:04
+Send ACK	Block:236	22:26:04
+Receive DATA	Block:237	245.5KB received so far	22:26:04
+Send ACK	Block:237	22:26:04
+Receive DATA	Block:238	246KB received so far	22:26:04
+Send ACK	Block:238	22:26:04
+Receive DATA	Block:239	246.5KB received so far	22:26:04
+Send ACK	Block:239	22:26:04
+Receive DATA	Block:240	247KB received so far	22:26:04
+Send ACK	Block:240	22:26:04
+Receive DATA	Block:241	247.5KB received so far	22:26:04
+Send ACK	Block:241	22:26:04
+Receive DATA	Block:242	248KB received so far	22:26:04
+Send ACK	Block:242	22:26:04
+Receive DATA	Block:243	248.5KB received so far	22:26:04
+Send ACK	Block:243	22:26:04
+Receive DATA	Block:244	249KB received so far	22:26:04
+Send ACK	Block:244	22:26:04
+Receive DATA	Block:245	249.5KB received so far	22:26:04
+Send ACK	Block:245	22:26:04
+Receive DATA	Block:246	250KB received so far	22:26:04
+Send ACK	Block:246	22:26:04
+Receive DATA	Block:247	250.5KB received so far	22:26:04
+Send ACK	Block:247	22:26:04
+Receive DATA	Block:248	251KB received so far	22:26:04
+Send ACK	Block:248	22:26:04
+Receive DATA	Block:249	251.5KB received so far	22:26:04
+Send ACK	Block:249	22:26:04
+Receive DATA	Block:250	252KB received so far	22:26:04
+Send ACK	Block:250	22:26:04
+Receive DATA	Block:251	252.5KB received so far	22:26:04
+Send ACK	Block:251	22:26:04
+Receive DATA	Block:252	253KB received so far	22:26:04
+Send ACK	Block:252	22:26:04
+Receive DATA	Block:253	253.5KB received so far	22:26:04
+Send ACK	Block:253	22:26:05
+Receive DATA	Block:254	254KB received so far	22:26:05
+Send ACK	Block:254	22:26:05
+Receive DATA	Block:255	254.5KB received so far	22:26:05
+Send ACK	Block:255	22:26:05
+Receive DATA	Block:256	255KB received so far	22:26:05
+Send ACK	Block:256	22:26:05
+Receive DATA	Block:257	255.5KB received so far	22:26:05
+Send ACK	Block:257	22:26:05
+Receive DATA	Block:258	256KB received so far	22:26:05
+Send ACK	Block:258	22:26:05
+Receive DATA	Block:259	256.5KB received so far	22:26:05
+Send ACK	Block:259	22:26:05
+Receive DATA	Block:260	257KB received so far	22:26:05
+Send ACK	Block:260	22:26:05
+Receive DATA	Block:261	257.5KB received so far	22:26:05
+Send ACK	Block:261	22:26:05
+Receive DATA	Block:262	258KB received so far	22:26:05
+Send ACK	Block:262	22:26:05
+Receive DATA	Block:263	258.5KB received so far	22:26:05
+Send ACK	Block:263	22:26:05
+Receive DATA	Block:264	259KB received so far	22:26:05
+Send ACK	Block:264	22:26:05
+Receive DATA	Block:265	259.5KB received so far	22:26:05
+Send ACK	Block:265	22:26:05
+Receive DATA	Block:266	260KB received so far	22:26:05
+Send ACK	Block:266	22:26:05
+Receive DATA	Block:267	260.5KB received so far	22:26:05
+Send ACK	Block:267	22:26:05
+Receive DATA	Block:268	261KB received so far	22:26:05
+Send ACK	Block:268	22:26:05
+Receive DATA	Block:269	261.5KB received so far	22:26:05
+Send ACK	Block:269	22:26:05
+Receive DATA	Block:270	262KB received so far	22:26:05
+Send ACK	Block:270	22:26:05
+Receive DATA	Block:271	262.5KB received so far	22:26:05
+Send ACK	Block:271	22:26:05
+Receive DATA	Block:272	263KB received so far	22:26:05
+Send ACK	Block:272	22:26:05
+Receive DATA	Block:273	263.5KB received so far	22:26:05
+Send ACK	Block:273	22:26:05
+Receive DATA	Block:274	264KB received so far	22:26:05
+Send ACK	Block:274	22:26:05
+Receive DATA	Block:275	264.5KB received so far	22:26:05
+Send ACK	Block:275	22:26:05
+Receive DATA	Block:276	265KB received so far	22:26:05
+Send ACK	Block:276	22:26:05
+Receive DATA	Block:277	265.5KB received so far	22:26:05
+Send ACK	Block:277	22:26:05
+Receive DATA	Block:278	266KB received so far	22:26:05
+Send ACK	Block:278	22:26:05
+Receive DATA	Block:279	266.5KB received so far	22:26:05
+Send ACK	Block:279	22:26:05
+Receive DATA	Block:280	267KB received so far	22:26:05
+Send ACK	Block:280	22:26:05
+Receive DATA	Block:281	267.5KB received so far	22:26:05
+Send ACK	Block:281	22:26:05
+Receive DATA	Block:282	268KB received so far	22:26:05
+Send ACK	Block:282	22:26:05
+Receive DATA	Block:283	268.5KB received so far	22:26:05
+Send ACK	Block:283	22:26:05
+Receive DATA	Block:284	269KB received so far	22:26:05
+Send ACK	Block:284	22:26:05
+Receive DATA	Block:285	269.5KB received so far	22:26:05
+Send ACK	Block:285	22:26:05
+Receive DATA	Block:286	270KB received so far	22:26:05
+Send ACK	Block:286	22:26:05
+Receive DATA	Block:287	270.5KB received so far	22:26:05
+Send ACK	Block:287	22:26:05
+Receive DATA	Block:288	271KB received so far	22:26:05
+Send ACK	Block:288	22:26:05
+Receive DATA	Block:289	271.5KB received so far	22:26:05
+Send ACK	Block:289	22:26:05
+Receive DATA	Block:290	272KB received so far	22:26:05
+Send ACK	Block:290	22:26:05
+Receive DATA	Block:291	272.5KB received so far	22:26:05
+Send ACK	Block:291	22:26:05
+Receive DATA	Block:292	273KB received so far	22:26:05
+Send ACK	Block:292	22:26:05
+Receive DATA	Block:293	273.5KB received so far	22:26:05
+Send ACK	Block:293	22:26:05
+Receive DATA	Block:294	274KB received so far	22:26:05
+Send ACK	Block:294	22:26:05
+Receive DATA	Block:295	274.5KB received so far	22:26:05
+Send ACK	Block:295	22:26:05
+Receive DATA	Block:296	275KB received so far	22:26:05
+Send ACK	Block:296	22:26:05
+Receive DATA	Block:297	275.5KB received so far	22:26:05
+Send ACK	Block:297	22:26:05
+Receive DATA	Block:298	276KB received so far	22:26:05
+Send ACK	Block:298	22:26:05
+Receive DATA	Block:299	276.5KB received so far	22:26:05
+Send ACK	Block:299	22:26:05
+Receive DATA	Block:300	277KB received so far	22:26:05
+Send ACK	Block:300	22:26:05
+Receive DATA	Block:301	277.5KB received so far	22:26:05
+Send ACK	Block:301	22:26:05
+Receive DATA	Block:302	278KB received so far	22:26:05
+Send ACK	Block:302	22:26:05
+Receive DATA	Block:303	278.5KB received so far	22:26:05
+Send ACK	Block:303	22:26:05
+Receive DATA	Block:304	279KB received so far	22:26:05
+Send ACK	Block:304	22:26:05
+Receive DATA	Block:305	279.5KB received so far	22:26:05
+Send ACK	Block:305	22:26:05
+Receive DATA	Block:306	280KB received so far	22:26:05
+Send ACK	Block:306	22:26:05
+Receive DATA	Block:307	280.5KB received so far	22:26:05
+Send ACK	Block:307	22:26:05
+Receive DATA	Block:308	281KB received so far	22:26:05
+Send ACK	Block:308	22:26:05
+Receive DATA	Block:309	281.5KB received so far	22:26:05
+Send ACK	Block:309	22:26:05
+Receive DATA	Block:310	282KB received so far	22:26:05
+Send ACK	Block:310	22:26:05
+Receive DATA	Block:311	282.5KB received so far	22:26:05
+Send ACK	Block:311	22:26:05
+Receive DATA	Block:312	283KB received so far	22:26:05
+Send ACK	Block:312	22:26:05
+Receive DATA	Block:313	283.5KB received so far	22:26:05
+Send ACK	Block:313	22:26:05
+Receive DATA	Block:314	284KB received so far	22:26:05
+Send ACK	Block:314	22:26:05
+Receive DATA	Block:315	284.5KB received so far	22:26:05
+Send ACK	Block:315	22:26:05
+Receive DATA	Block:316	285KB received so far	22:26:05
+Send ACK	Block:316	22:26:05
+Receive DATA	Block:317	285.5KB received so far	22:26:05
+Send ACK	Block:317	22:26:05
+Receive DATA	Block:318	286KB received so far	22:26:05
+Send ACK	Block:318	22:26:05
+Receive DATA	Block:319	286.5KB received so far	22:26:05
+Send ACK	Block:319	22:26:05
+Receive DATA	Block:320	287KB received so far	22:26:05
+Send ACK	Block:320	22:26:05
+Receive DATA	Block:321	287.5KB received so far	22:26:05
+Send ACK	Block:321	22:26:05
+Receive DATA	Block:322	288KB received so far	22:26:05
+Send ACK	Block:322	22:26:05
+Receive DATA	Block:323	288.5KB received so far	22:26:05
+Send ACK	Block:323	22:26:05
+Receive DATA	Block:324	289KB received so far	22:26:05
+Send ACK	Block:324	22:26:05
+Receive DATA	Block:325	289.5KB received so far	22:26:06
+Send ACK	Block:325	22:26:06
+Receive DATA	Block:326	290KB received so far	22:26:06
+Send ACK	Block:326	22:26:06
+Receive DATA	Block:327	290.5KB received so far	22:26:06
+Send ACK	Block:327	22:26:06
+Receive DATA	Block:328	291KB received so far	22:26:06
+Send ACK	Block:328	22:26:06
+Receive DATA	Block:329	291.5KB received so far	22:26:06
+Send ACK	Block:329	22:26:06
+Receive DATA	Block:330	292KB received so far	22:26:06
+Send ACK	Block:330	22:26:06
+Receive DATA	Block:331	292.5KB received so far	22:26:06
+Send ACK	Block:331	22:26:06
+Receive DATA	Block:332	293KB received so far	22:26:06
+Send ACK	Block:332	22:26:06
+Receive DATA	Block:333	293.5KB received so far	22:26:06
+Send ACK	Block:333	22:26:06
+Receive DATA	Block:334	294KB received so far	22:26:06
+Send ACK	Block:334	22:26:06
+Receive DATA	Block:335	294.5KB received so far	22:26:06
+Send ACK	Block:335	22:26:06
+Receive DATA	Block:336	295KB received so far	22:26:06
+Send ACK	Block:336	22:26:06
+Receive DATA	Block:337	295.5KB received so far	22:26:06
+Send ACK	Block:337	22:26:06
+Receive DATA	Block:338	296KB received so far	22:26:06
+Send ACK	Block:338	22:26:06
+Receive DATA	Block:339	296.5KB received so far	22:26:06
+Send ACK	Block:339	22:26:06
+Receive DATA	Block:340	297KB received so far	22:26:06
+Send ACK	Block:340	22:26:06
+Receive DATA	Block:341	297.5KB received so far	22:26:06
+Send ACK	Block:341	22:26:06
+Receive DATA	Block:342	298KB received so far	22:26:06
+Send ACK	Block:342	22:26:06
+Receive DATA	Block:343	298.5KB received so far	22:26:06
+Send ACK	Block:343	22:26:06
+Receive DATA	Block:344	299KB received so far	22:26:06
+Send ACK	Block:344	22:26:06
+Receive DATA	Block:345	299.5KB received so far	22:26:06
+Send ACK	Block:345	22:26:06
+Receive DATA	Block:346	300KB received so far	22:26:06
+Send ACK	Block:346	22:26:06
+Receive DATA	Block:347	300.5KB received so far	22:26:06
+Send ACK	Block:347	22:26:06
+Receive DATA	Block:348	301KB received so far	22:26:06
+Send ACK	Block:348	22:26:06
+Receive DATA	Block:349	301.5KB received so far	22:26:06
+Send ACK	Block:349	22:26:06
+Receive DATA	Block:350	302KB received so far	22:26:06
+Send ACK	Block:350	22:26:06
+Receive DATA	Block:351	302.5KB received so far	22:26:06
+Send ACK	Block:351	22:26:06
+Receive DATA	Block:352	303KB received so far	22:26:06
+Send ACK	Block:352	22:26:06
+Receive DATA	Block:353	303.5KB received so far	22:26:06
+Send ACK	Block:353	22:26:06
+Receive DATA	Block:354	304KB received so far	22:26:06
+Send ACK	Block:354	22:26:06
+Receive DATA	Block:355	304.5KB received so far	22:26:06
+Send ACK	Block:355	22:26:06
+Receive DATA	Block:356	305KB received so far	22:26:06
+Send ACK	Block:356	22:26:06
+Receive DATA	Block:357	305.5KB received so far	22:26:06
+Send ACK	Block:357	22:26:06
+Receive DATA	Block:358	306KB received so far	22:26:06
+Send ACK	Block:358	22:26:06
+Receive DATA	Block:359	306.5KB received so far	22:26:06
+Send ACK	Block:359	22:26:06
+Receive DATA	Block:360	307KB received so far	22:26:06
+Send ACK	Block:360	22:26:06
+Receive DATA	Block:361	307.5KB received so far	22:26:06
+Send ACK	Block:361	22:26:06
+Receive DATA	Block:362	308KB received so far	22:26:06
+Send ACK	Block:362	22:26:06
+Receive DATA	Block:363	308.5KB received so far	22:26:06
+Send ACK	Block:363	22:26:06
+Receive DATA	Block:364	309KB received so far	22:26:06
+Send ACK	Block:364	22:26:06
+Receive DATA	Block:365	309.5KB received so far	22:26:06
+Send ACK	Block:365	22:26:06
+Receive DATA	Block:366	310KB received so far	22:26:06
+Send ACK	Block:366	22:26:06
+Receive DATA	Block:367	310.5KB received so far	22:26:06
+Send ACK	Block:367	22:26:06
+Receive DATA	Block:368	311KB received so far	22:26:06
+Send ACK	Block:368	22:26:06
+Receive DATA	Block:369	311.5KB received so far	22:26:06
+Send ACK	Block:369	22:26:06
+Receive DATA	Block:370	312KB received so far	22:26:06
+Send ACK	Block:370	22:26:06
+Receive DATA	Block:371	312.5KB received so far	22:26:06
+Send ACK	Block:371	22:26:06
+Receive DATA	Block:372	313KB received so far	22:26:06
+Send ACK	Block:372	22:26:06
+Receive DATA	Block:373	313.5KB received so far	22:26:06
+Send ACK	Block:373	22:26:06
+Receive DATA	Block:374	314KB received so far	22:26:06
+Send ACK	Block:374	22:26:06
+Receive DATA	Block:375	314.5KB received so far	22:26:06
+Send ACK	Block:375	22:26:06
+Receive DATA	Block:376	315KB received so far	22:26:06
+Send ACK	Block:376	22:26:06
+Receive DATA	Block:377	315.5KB received so far	22:26:06
+Send ACK	Block:377	22:26:06
+Receive DATA	Block:378	316KB received so far	22:26:06
+Send ACK	Block:378	22:26:06
+Receive DATA	Block:379	316.5KB received so far	22:26:07
+Send ACK	Block:379	22:26:07
+Receive DATA	Block:380	317KB received so far	22:26:07
+Send ACK	Block:380	22:26:07
+Receive DATA	Block:381	317.5KB received so far	22:26:07
+Send ACK	Block:381	22:26:07
+Receive DATA	Block:382	318KB received so far	22:26:07
+Send ACK	Block:382	22:26:07
+Receive DATA	Block:383	318.5KB received so far	22:26:07
+Send ACK	Block:383	22:26:07
+Receive DATA	Block:384	319KB received so far	22:26:07
+Send ACK	Block:384	22:26:07
+Receive DATA	Block:385	319.5KB received so far	22:26:07
+Send ACK	Block:385	22:26:07
+Receive DATA	Block:386	320KB received so far	22:26:07
+Send ACK	Block:386	22:26:07
+Receive DATA	Block:387	320.5KB received so far	22:26:07
+Send ACK	Block:387	22:26:07
+Receive DATA	Block:388	321KB received so far	22:26:07
+Send ACK	Block:388	22:26:07
+Receive DATA	Block:389	321.5KB received so far	22:26:07
+Send ACK	Block:389	22:26:07
+Receive DATA	Block:390	322KB received so far	22:26:07
+Send ACK	Block:390	22:26:07
+Receive DATA	Block:391	322.5KB received so far	22:26:07
+Send ACK	Block:391	22:26:07
+Receive DATA	Block:392	323KB received so far	22:26:07
+Send ACK	Block:392	22:26:07
+Receive DATA	Block:393	323.5KB received so far	22:26:07
+Send ACK	Block:393	22:26:07
+Receive DATA	Block:394	324KB received so far	22:26:07
+Send ACK	Block:394	22:26:07
+Receive DATA	Block:395	324.5KB received so far	22:26:07
+Send ACK	Block:395	22:26:07
+Receive DATA	Block:396	325KB received so far	22:26:07
+Send ACK	Block:396	22:26:07
+Receive DATA	Block:397	325.5KB received so far	22:26:07
+Send ACK	Block:397	22:26:07
+Receive DATA	Block:398	326KB received so far	22:26:07
+Send ACK	Block:398	22:26:07
+Receive DATA	Block:399	326.5KB received so far	22:26:07
+Send ACK	Block:399	22:26:07
+Receive DATA	Block:400	327KB received so far	22:26:07
+Send ACK	Block:400	22:26:07
+Receive DATA	Block:401	327.5KB received so far	22:26:07
+Send ACK	Block:401	22:26:07
+Receive DATA	Block:402	328KB received so far	22:26:07
+Send ACK	Block:402	22:26:07
+Receive DATA	Block:403	328.5KB received so far	22:26:07
+Send ACK	Block:403	22:26:07
+Receive DATA	Block:404	329KB received so far	22:26:07
+Send ACK	Block:404	22:26:07
+Receive DATA	Block:405	329.5KB received so far	22:26:07
+Send ACK	Block:405	22:26:07
+Receive DATA	Block:406	330KB received so far	22:26:07
+Send ACK	Block:406	22:26:07
+Receive DATA	Block:407	330.5KB received so far	22:26:07
+Send ACK	Block:407	22:26:07
+Receive DATA	Block:408	331KB received so far	22:26:07
+Send ACK	Block:408	22:26:07
+Receive DATA	Block:409	331.5KB received so far	22:26:07
+Send ACK	Block:409	22:26:07
+Receive DATA	Block:410	332KB received so far	22:26:07
+Send ACK	Block:410	22:26:07
+Receive DATA	Block:411	332.5KB received so far	22:26:07
+Send ACK	Block:411	22:26:07
+Receive DATA	Block:412	333KB received so far	22:26:07
+Send ACK	Block:412	22:26:07
+Receive DATA	Block:413	333.5KB received so far	22:26:07
+Send ACK	Block:413	22:26:07
+Receive DATA	Block:414	334KB received so far	22:26:07
+Send ACK	Block:414	22:26:07
+Receive DATA	Block:415	334.5KB received so far	22:26:07
+Send ACK	Block:415	22:26:07
+Receive DATA	Block:416	335KB received so far	22:26:07
+Send ACK	Block:416	22:26:07
+Receive DATA	Block:417	335.5KB received so far	22:26:07
+Send ACK	Block:417	22:26:07
+Receive DATA	Block:418	336KB received so far	22:26:07
+Send ACK	Block:418	22:26:07
+Receive DATA	Block:419	336.5KB received so far	22:26:07
+Send ACK	Block:419	22:26:07
+Receive DATA	Block:420	337KB received so far	22:26:07
+Send ACK	Block:420	22:26:07
+Receive DATA	Block:421	337.5KB received so far	22:26:07
+Send ACK	Block:421	22:26:07
+Receive DATA	Block:422	338KB received so far	22:26:07
+Send ACK	Block:422	22:26:07
+Receive DATA	Block:423	338.5KB received so far	22:26:07
+Send ACK	Block:423	22:26:07
+Receive DATA	Block:424	339KB received so far	22:26:07
+Send ACK	Block:424	22:26:07
+Receive DATA	Block:425	339.5KB received so far	22:26:07
+Send ACK	Block:425	22:26:07
+Receive DATA	Block:426	340KB received so far	22:26:07
+Send ACK	Block:426	22:26:07
+Receive DATA	Block:427	340.5KB received so far	22:26:07
+Send ACK	Block:427	22:26:07
+Receive DATA	Block:428	341KB received so far	22:26:07
+Send ACK	Block:428	22:26:08
+Receive DATA	Block:429	341.5KB received so far	22:26:08
+Send ACK	Block:429	22:26:08
+Receive DATA	Block:430	342KB received so far	22:26:08
+Send ACK	Block:430	22:26:08
+Receive DATA	Block:431	342.5KB received so far	22:26:08
+Send ACK	Block:431	22:26:08
+Receive DATA	Block:432	343KB received so far	22:26:08
+Send ACK	Block:432	22:26:08
+Receive DATA	Block:433	343.5KB received so far	22:26:08
+Send ACK	Block:433	22:26:08
+Receive DATA	Block:434	344KB received so far	22:26:08
+Send ACK	Block:434	22:26:08
+Receive DATA	Block:435	344.5KB received so far	22:26:08
+Send ACK	Block:435	22:26:08
+Receive DATA	Block:436	345KB received so far	22:26:08
+Send ACK	Block:436	22:26:08
+Receive DATA	Block:437	345.5KB received so far	22:26:08
+Send ACK	Block:437	22:26:08
+Receive DATA	Block:438	346KB received so far	22:26:08
+Send ACK	Block:438	22:26:08
+Receive DATA	Block:439	346.5KB received so far	22:26:08
+Send ACK	Block:439	22:26:08
+Receive DATA	Block:440	347KB received so far	22:26:08
+Send ACK	Block:440	22:26:08
+Receive DATA	Block:441	347.5KB received so far	22:26:08
+Send ACK	Block:441	22:26:08
+Receive DATA	Block:442	348KB received so far	22:26:08
+Send ACK	Block:442	22:26:08
+Receive DATA	Block:443	348.5KB received so far	22:26:08
+Send ACK	Block:443	22:26:08
+Receive DATA	Block:444	349KB received so far	22:26:08
+Send ACK	Block:444	22:26:08
+Receive DATA	Block:445	349.5KB received so far	22:26:08
+Send ACK	Block:445	22:26:08
+Receive DATA	Block:446	350KB received so far	22:26:08
+Send ACK	Block:446	22:26:08
+Receive DATA	Block:447	350.5KB received so far	22:26:08
+Send ACK	Block:447	22:26:08
+Receive DATA	Block:448	351KB received so far	22:26:08
+Send ACK	Block:448	22:26:08
+Receive DATA	Block:449	351.5KB received so far	22:26:08
+Send ACK	Block:449	22:26:08
+Receive DATA	Block:450	352KB received so far	22:26:08
+Send ACK	Block:450	22:26:08
+Receive DATA	Block:451	352.5KB received so far	22:26:08
+Send ACK	Block:451	22:26:08
+Receive DATA	Block:452	353KB received so far	22:26:08
+Send ACK	Block:452	22:26:08
+Receive DATA	Block:453	353.5KB received so far	22:26:08
+Send ACK	Block:453	22:26:08
+Receive DATA	Block:454	354KB received so far	22:26:08
+Send ACK	Block:454	22:26:08
+Receive DATA	Block:455	354.5KB received so far	22:26:08
+Send ACK	Block:455	22:26:08
+Receive DATA	Block:456	355KB received so far	22:26:08
+Send ACK	Block:456	22:26:08
+Receive DATA	Block:457	355.5KB received so far	22:26:08
+Send ACK	Block:457	22:26:08
+Receive DATA	Block:458	356KB received so far	22:26:08
+Send ACK	Block:458	22:26:08
+Receive DATA	Block:459	356.5KB received so far	22:26:08
+Send ACK	Block:459	22:26:08
+Receive DATA	Block:460	357KB received so far	22:26:08
+Send ACK	Block:460	22:26:08
+Receive DATA	Block:461	357.5KB received so far	22:26:08
+Send ACK	Block:461	22:26:08
+Receive DATA	Block:462	358KB received so far	22:26:08
+Send ACK	Block:462	22:26:08
+Receive DATA	Block:463	358.5KB received so far	22:26:08
+Send ACK	Block:463	22:26:08
+Receive DATA	Block:464	359KB received so far	22:26:08
+Send ACK	Block:464	22:26:08
+Receive DATA	Block:465	359.5KB received so far	22:26:08
+Send ACK	Block:465	22:26:08
+Receive DATA	Block:466	360KB received so far	22:26:08
+Send ACK	Block:466	22:26:08
+Receive DATA	Block:467	360.5KB received so far	22:26:08
+Send ACK	Block:467	22:26:08
+Receive DATA	Block:468	361KB received so far	22:26:08
+Send ACK	Block:468	22:26:08
+Receive DATA	Block:469	361.5KB received so far	22:26:08
+Send ACK	Block:469	22:26:08
+Receive DATA	Block:470	362KB received so far	22:26:08
+Send ACK	Block:470	22:26:08
+Receive DATA	Block:471	362.5KB received so far	22:26:08
+Send ACK	Block:471	22:26:08
+Receive DATA	Block:472	363KB received so far	22:26:08
+Send ACK	Block:472	22:26:08
+Receive DATA	Block:473	363.5KB received so far	22:26:08
+Send ACK	Block:473	22:26:08
+Receive DATA	Block:474	364KB received so far	22:26:08
+Send ACK	Block:474	22:26:08
+Receive DATA	Block:475	364.5KB received so far	22:26:09
+Send ACK	Block:475	22:26:09
+Receive DATA	Block:476	365KB received so far	22:26:09
+Send ACK	Block:476	22:26:09
+Receive DATA	Block:477	365.5KB received so far	22:26:09
+Send ACK	Block:477	22:26:09
+Receive DATA	Block:478	366KB received so far	22:26:09
+Send ACK	Block:478	22:26:09
+Receive DATA	Block:479	366.5KB received so far	22:26:09
+Send ACK	Block:479	22:26:09
+Receive DATA	Block:480	367KB received so far	22:26:09
+Send ACK	Block:480	22:26:09
+Receive DATA	Block:481	367.5KB received so far	22:26:09
+Send ACK	Block:481	22:26:09
+Receive DATA	Block:482	368KB received so far	22:26:09
+Send ACK	Block:482	22:26:09
+Receive DATA	Block:483	368.5KB received so far	22:26:09
+Send ACK	Block:483	22:26:09
+Receive DATA	Block:484	369KB received so far	22:26:09
+Send ACK	Block:484	22:26:09
+Receive DATA	Block:485	369.5KB received so far	22:26:09
+Send ACK	Block:485	22:26:09
+Receive DATA	Block:486	370KB received so far	22:26:09
+Send ACK	Block:486	22:26:09
+Receive DATA	Block:487	370.5KB received so far	22:26:09
+Send ACK	Block:487	22:26:09
+Receive DATA	Block:488	371KB received so far	22:26:09
+Send ACK	Block:488	22:26:09
+Receive DATA	Block:489	371.5KB received so far	22:26:09
+Send ACK	Block:489	22:26:09
+Receive DATA	Block:490	372KB received so far	22:26:09
+Send ACK	Block:490	22:26:09
+Receive DATA	Block:491	372.5KB received so far	22:26:09
+Send ACK	Block:491	22:26:09
+Receive DATA	Block:492	373KB received so far	22:26:09
+Send ACK	Block:492	22:26:09
+Receive DATA	Block:493	373.5KB received so far	22:26:09
+Send ACK	Block:493	22:26:09
+Receive DATA	Block:494	374KB received so far	22:26:09
+Send ACK	Block:494	22:26:09
+Receive DATA	Block:495	374.5KB received so far	22:26:09
+Send ACK	Block:495	22:26:09
+Receive DATA	Block:496	375KB received so far	22:26:09
+Send ACK	Block:496	22:26:09
+Receive DATA	Block:497	375.5KB received so far	22:26:09
+Send ACK	Block:497	22:26:09
+Receive DATA	Block:498	376KB received so far	22:26:09
+Send ACK	Block:498	22:26:09
+Receive DATA	Block:499	376.5KB received so far	22:26:09
+Send ACK	Block:499	22:26:09
+Receive DATA	Block:500	377KB received so far	22:26:09
+Send ACK	Block:500	22:26:09
+Receive DATA	Block:501	377.5KB received so far	22:26:09
+Send ACK	Block:501	22:26:09
+Receive DATA	Block:502	378KB received so far	22:26:09
+Send ACK	Block:502	22:26:09
+Receive DATA	Block:503	378.5KB received so far	22:26:09
+Send ACK	Block:503	22:26:09
+Receive DATA	Block:504	379KB received so far	22:26:09
+Send ACK	Block:504	22:26:09
+Receive DATA	Block:505	379.5KB received so far	22:26:09
+Send ACK	Block:505	22:26:09
+Receive DATA	Block:506	380KB received so far	22:26:09
+Send ACK	Block:506	22:26:09
+Receive DATA	Block:507	380.5KB received so far	22:26:09
+Send ACK	Block:507	22:26:09
+Receive DATA	Block:508	381KB received so far	22:26:09
+Send ACK	Block:508	22:26:09
+Receive DATA	Block:509	381.5KB received so far	22:26:09
+Send ACK	Block:509	22:26:09
+Receive DATA	Block:510	382KB received so far	22:26:09
+Send ACK	Block:510	22:26:09
+Receive DATA	Block:511	382.5KB received so far	22:26:09
+Send ACK	Block:511	22:26:09
+Receive DATA	Block:512	383KB received so far	22:26:09
+Send ACK	Block:512	22:26:09
+Receive DATA	Block:513	383.5KB received so far	22:26:09
+Send ACK	Block:513	22:26:09
+Receive DATA	Block:514	384KB received so far	22:26:09
+Send ACK	Block:514	22:26:09
+Receive DATA	Block:515	384.5KB received so far	22:26:09
+Send ACK	Block:515	22:26:09
+Receive DATA	Block:516	385KB received so far	22:26:09
+Send ACK	Block:516	22:26:09
+Receive DATA	Block:517	385.5KB received so far	22:26:09
+Send ACK	Block:517	22:26:09
+Receive DATA	Block:518	386KB received so far	22:26:09
+Send ACK	Block:518	22:26:09
+Receive DATA	Block:519	386.5KB received so far	22:26:10
+Send ACK	Block:519	22:26:10
+Receive DATA	Block:520	387KB received so far	22:26:10
+Send ACK	Block:520	22:26:10
+Receive DATA	Block:521	387.5KB received so far	22:26:10
+Send ACK	Block:521	22:26:10
+Receive DATA	Block:522	388KB received so far	22:26:10
+Send ACK	Block:522	22:26:10
+Receive DATA	Block:523	388.5KB received so far	22:26:10
+Send ACK	Block:523	22:26:10
+Receive DATA	Block:524	389KB received so far	22:26:10
+Send ACK	Block:524	22:26:10
+Receive DATA	Block:525	389.5KB received so far	22:26:10
+Send ACK	Block:525	22:26:10
+Receive DATA	Block:526	390KB received so far	22:26:10
+Send ACK	Block:526	22:26:10
+Receive DATA	Block:527	390.5KB received so far	22:26:10
+Send ACK	Block:527	22:26:10
+Receive DATA	Block:528	391KB received so far	22:26:10
+Send ACK	Block:528	22:26:10
+Receive DATA	Block:529	391.5KB received so far	22:26:10
+Send ACK	Block:529	22:26:10
+Receive DATA	Block:530	392KB received so far	22:26:10
+Send ACK	Block:530	22:26:10
+Receive DATA	Block:531	392.5KB received so far	22:26:10
+Send ACK	Block:531	22:26:10
+Receive DATA	Block:532	393KB received so far	22:26:10
+Send ACK	Block:532	22:26:10
+Receive DATA	Block:533	393.5KB received so far	22:26:10
+Send ACK	Block:533	22:26:10
+Receive DATA	Block:534	394KB received so far	22:26:10
+Send ACK	Block:534	22:26:10
+Receive DATA	Block:535	394.5KB received so far	22:26:10
+Send ACK	Block:535	22:26:10
+Receive DATA	Block:536	395KB received so far	22:26:10
+Send ACK	Block:536	22:26:10
+Receive DATA	Block:537	395.5KB received so far	22:26:10
+Send ACK	Block:537	22:26:10
+Receive DATA	Block:538	396KB received so far	22:26:10
+Send ACK	Block:538	22:26:10
+Receive DATA	Block:539	396.5KB received so far	22:26:10
+Send ACK	Block:539	22:26:10
+Receive DATA	Block:540	397KB received so far	22:26:10
+Send ACK	Block:540	22:26:10
+Receive DATA	Block:541	397.5KB received so far	22:26:10
+Send ACK	Block:541	22:26:10
+Receive DATA	Block:542	398KB received so far	22:26:10
+Send ACK	Block:542	22:26:10
+Receive DATA	Block:543	398.5KB received so far	22:26:10
+Send ACK	Block:543	22:26:10
+Receive DATA	Block:544	399KB received so far	22:26:10
+Send ACK	Block:544	22:26:10
+Receive DATA	Block:545	399.5KB received so far	22:26:10
+Send ACK	Block:545	22:26:10
+Receive DATA	Block:546	400KB received so far	22:26:10
+Send ACK	Block:546	22:26:10
+Receive DATA	Block:547	400.5KB received so far	22:26:10
+Send ACK	Block:547	22:26:10
+Receive DATA	Block:548	401KB received so far	22:26:10
+Send ACK	Block:548	22:26:10
+Receive DATA	Block:549	401.5KB received so far	22:26:10
+Send ACK	Block:549	22:26:10
+Receive DATA	Block:550	402KB received so far	22:26:10
+Send ACK	Block:550	22:26:10
+Receive DATA	Block:551	402.5KB received so far	22:26:10
+Send ACK	Block:551	22:26:10
+Receive DATA	Block:552	403KB received so far	22:26:10
+Send ACK	Block:552	22:26:10
+Receive DATA	Block:553	403.5KB received so far	22:26:10
+Send ACK	Block:553	22:26:10
+Receive DATA	Block:554	404KB received so far	22:26:10
+Send ACK	Block:554	22:26:10
+Receive DATA	Block:555	404.5KB received so far	22:26:10
+Send ACK	Block:555	22:26:10
+Receive DATA	Block:556	405KB received so far	22:26:10
+Send ACK	Block:556	22:26:10
+Receive DATA	Block:557	405.5KB received so far	22:26:10
+Send ACK	Block:557	22:26:10
+Receive DATA	Block:558	406KB received so far	22:26:10
+Send ACK	Block:558	22:26:10
+Receive DATA	Block:559	406.5KB received so far	22:26:10
+Send ACK	Block:559	22:26:10
+Receive DATA	Block:560	407KB received so far	22:26:11
+Send ACK	Block:560	22:26:11
+Receive DATA	Block:561	407.5KB received so far	22:26:11
+Send ACK	Block:561	22:26:11
+Receive DATA	Block:562	408KB received so far	22:26:11
+Send ACK	Block:562	22:26:11
+Receive DATA	Block:563	408.5KB received so far	22:26:11
+Send ACK	Block:563	22:26:11
+Receive DATA	Block:564	409KB received so far	22:26:11
+Send ACK	Block:564	22:26:11
+Receive DATA	Block:565	409.5KB received so far	22:26:11
+Send ACK	Block:565	22:26:11
+Receive DATA	Block:566	410KB received so far	22:26:11
+Send ACK	Block:566	22:26:11
+Receive DATA	Block:567	410.5KB received so far	22:26:11
+Send ACK	Block:567	22:26:11
+Receive DATA	Block:568	411KB received so far	22:26:11
+Send ACK	Block:568	22:26:11
+Receive DATA	Block:569	411.5KB received so far	22:26:11
+Send ACK	Block:569	22:26:11
+Receive DATA	Block:570	412KB received so far	22:26:11
+Send ACK	Block:570	22:26:11
+Receive DATA	Block:571	412.5KB received so far	22:26:11
+Send ACK	Block:571	22:26:11
+Receive DATA	Block:572	413KB received so far	22:26:11
+Send ACK	Block:572	22:26:11
+Receive DATA	Block:573	413.5KB received so far	22:26:11
+Send ACK	Block:573	22:26:11
+Receive DATA	Block:574	414KB received so far	22:26:11
+Send ACK	Block:574	22:26:11
+Receive DATA	Block:575	414.5KB received so far	22:26:11
+Send ACK	Block:575	22:26:11
+Receive DATA	Block:576	415KB received so far	22:26:11
+Send ACK	Block:576	22:26:11
+Receive DATA	Block:577	415.5KB received so far	22:26:11
+Send ACK	Block:577	22:26:11
+Receive DATA	Block:578	416KB received so far	22:26:11
+Send ACK	Block:578	22:26:11
+Receive DATA	Block:579	416.5KB received so far	22:26:11
+Send ACK	Block:579	22:26:11
+Receive DATA	Block:580	417KB received so far	22:26:11
+Send ACK	Block:580	22:26:11
+Receive DATA	Block:581	417.5KB received so far	22:26:11
+Send ACK	Block:581	22:26:11
+Receive DATA	Block:582	418KB received so far	22:26:11
+Send ACK	Block:582	22:26:11
+Receive DATA	Block:583	418.5KB received so far	22:26:11
+Send ACK	Block:583	22:26:11
+Receive DATA	Block:584	419KB received so far	22:26:11
+Send ACK	Block:584	22:26:11
+Receive DATA	Block:585	419.5KB received so far	22:26:11
+Send ACK	Block:585	22:26:11
+Receive DATA	Block:586	420KB received so far	22:26:11
+Send ACK	Block:586	22:26:11
+Receive DATA	Block:587	420.5KB received so far	22:26:11
+Send ACK	Block:587	22:26:11
+Receive DATA	Block:588	421KB received so far	22:26:11
+Send ACK	Block:588	22:26:11
+Receive DATA	Block:589	421.5KB received so far	22:26:11
+Send ACK	Block:589	22:26:11
+Receive DATA	Block:590	422KB received so far	22:26:11
+Send ACK	Block:590	22:26:11
+Receive DATA	Block:591	422.5KB received so far	22:26:11
+Send ACK	Block:591	22:26:11
+Receive DATA	Block:592	423KB received so far	22:26:11
+Send ACK	Block:592	22:26:11
+Receive DATA	Block:593	423.5KB received so far	22:26:11
+Send ACK	Block:593	22:26:11
+Receive DATA	Block:594	424KB received so far	22:26:11
+Send ACK	Block:594	22:26:11
+Receive DATA	Block:595	424.5KB received so far	22:26:11
+Send ACK	Block:595	22:26:11
+Receive DATA	Block:596	425KB received so far	22:26:11
+Send ACK	Block:596	22:26:11
+Receive DATA	Block:597	425.5KB received so far	22:26:11
+Send ACK	Block:597	22:26:11
+Receive DATA	Block:598	426KB received so far	22:26:12
+Send ACK	Block:598	22:26:12
+Receive DATA	Block:599	426.5KB received so far	22:26:12
+Send ACK	Block:599	22:26:12
+Receive DATA	Block:600	427KB received so far	22:26:12
+Send ACK	Block:600	22:26:12
+Receive DATA	Block:601	427.5KB received so far	22:26:12
+Send ACK	Block:601	22:26:12
+Receive DATA	Block:602	428KB received so far	22:26:12
+Send ACK	Block:602	22:26:12
+Receive DATA	Block:603	428.5KB received so far	22:26:12
+Send ACK	Block:603	22:26:12
+Receive DATA	Block:604	429KB received so far	22:26:12
+Send ACK	Block:604	22:26:12
+Receive DATA	Block:605	429.5KB received so far	22:26:12
+Send ACK	Block:605	22:26:12
+Receive DATA	Block:606	430KB received so far	22:26:12
+Send ACK	Block:606	22:26:12
+Receive DATA	Block:607	430.5KB received so far	22:26:12
+Send ACK	Block:607	22:26:12
+Receive DATA	Block:608	431KB received so far	22:26:12
+Send ACK	Block:608	22:26:12
+Receive DATA	Block:609	431.5KB received so far	22:26:12
+Send ACK	Block:609	22:26:12
+Receive DATA	Block:610	432KB received so far	22:26:12
+Send ACK	Block:610	22:26:12
+Receive DATA	Block:611	432.5KB received so far	22:26:12
+Send ACK	Block:611	22:26:12
+Receive DATA	Block:612	433KB received so far	22:26:12
+Send ACK	Block:612	22:26:12
+Receive DATA	Block:613	433.5KB received so far	22:26:12
+Send ACK	Block:613	22:26:12
+Receive DATA	Block:614	434KB received so far	22:26:12
+Send ACK	Block:614	22:26:12
+Receive DATA	Block:615	434.5KB received so far	22:26:12
+Send ACK	Block:615	22:26:12
+Receive DATA	Block:616	435KB received so far	22:26:12
+Send ACK	Block:616	22:26:12
+Receive DATA	Block:617	435.5KB received so far	22:26:12
+Send ACK	Block:617	22:26:12
+Receive DATA	Block:618	436KB received so far	22:26:12
+Send ACK	Block:618	22:26:12
+Receive DATA	Block:619	436.5KB received so far	22:26:12
+Send ACK	Block:619	22:26:12
+Receive DATA	Block:620	437KB received so far	22:26:12
+Send ACK	Block:620	22:26:12
+Receive DATA	Block:621	437.5KB received so far	22:26:12
+Send ACK	Block:621	22:26:12
+Receive DATA	Block:622	438KB received so far	22:26:12
+Send ACK	Block:622	22:26:12
+Receive DATA	Block:623	438.5KB received so far	22:26:12
+Send ACK	Block:623	22:26:12
+Receive DATA	Block:624	439KB received so far	22:26:12
+Send ACK	Block:624	22:26:12
+Receive DATA	Block:625	439.5KB received so far	22:26:12
+Send ACK	Block:625	22:26:12
+Receive DATA	Block:626	440KB received so far	22:26:12
+Send ACK	Block:626	22:26:12
+Receive DATA	Block:627	440.5KB received so far	22:26:12
+Send ACK	Block:627	22:26:12
+Receive DATA	Block:628	441KB received so far	22:26:12
+Send ACK	Block:628	22:26:12
+Receive DATA	Block:629	441.5KB received so far	22:26:12
+Send ACK	Block:629	22:26:12
+Receive DATA	Block:630	442KB received so far	22:26:12
+Send ACK	Block:630	22:26:12
+Receive DATA	Block:631	442.5KB received so far	22:26:12
+Send ACK	Block:631	22:26:12
+Receive DATA	Block:632	443KB received so far	22:26:12
+Send ACK	Block:632	22:26:12
+Receive DATA	Block:633	443.5KB received so far	22:26:12
+Send ACK	Block:633	22:26:12
+Receive DATA	Block:634	444KB received so far	22:26:12
+Send ACK	Block:634	22:26:12
+Receive DATA	Block:635	444.5KB received so far	22:26:12
+Send ACK	Block:635	22:26:12
+Receive DATA	Block:636	445KB received so far	22:26:12
+Send ACK	Block:636	22:26:12
+Receive DATA	Block:637	445.5KB received so far	22:26:12
+Send ACK	Block:637	22:26:12
+Receive DATA	Block:638	446KB received so far	22:26:12
+Send ACK	Block:638	22:26:12
+Receive DATA	Block:639	446.5KB received so far	22:26:12
+Send ACK	Block:639	22:26:12
+Receive DATA	Block:640	447KB received so far	22:26:12
+Send ACK	Block:640	22:26:12
+Receive DATA	Block:641	447.5KB received so far	22:26:12
+Send ACK	Block:641	22:26:12
+Receive DATA	Block:642	448KB received so far	22:26:12
+Send ACK	Block:642	22:26:12
+Receive DATA	Block:643	448.5KB received so far	22:26:12
+Send ACK	Block:643	22:26:12
+Receive DATA	Block:644	449KB received so far	22:26:12
+Send ACK	Block:644	22:26:12
+Receive DATA	Block:645	449.5KB received so far	22:26:12
+Send ACK	Block:645	22:26:12
+Receive DATA	Block:646	450KB received so far	22:26:12
+Send ACK	Block:646	22:26:12
+Receive DATA	Block:647	450.5KB received so far	22:26:12
+Send ACK	Block:647	22:26:12
+Receive DATA	Block:648	451KB received so far	22:26:12
+Send ACK	Block:648	22:26:12
+Receive DATA	Block:649	451.5KB received so far	22:26:12
+Send ACK	Block:649	22:26:12
+Receive DATA	Block:650	452KB received so far	22:26:12
+Send ACK	Block:650	22:26:12
+Receive DATA	Block:651	452.5KB received so far	22:26:12
+Send ACK	Block:651	22:26:12
+Receive DATA	Block:652	453KB received so far	22:26:12
+Send ACK	Block:652	22:26:12
+Receive DATA	Block:653	453.5KB received so far	22:26:12
+Send ACK	Block:653	22:26:12
+Receive DATA	Block:654	454KB received so far	22:26:12
+Send ACK	Block:654	22:26:12
+Receive DATA	Block:655	454.5KB received so far	22:26:12
+Send ACK	Block:655	22:26:12
+Receive DATA	Block:656	455KB received so far	22:26:12
+Send ACK	Block:656	22:26:12
+Receive DATA	Block:657	455.5KB received so far	22:26:12
+Send ACK	Block:657	22:26:12
+Receive DATA	Block:658	456KB received so far	22:26:12
+Send ACK	Block:658	22:26:12
+Receive DATA	Block:659	456.5KB received so far	22:26:12
+Send ACK	Block:659	22:26:12
+Receive DATA	Block:660	457KB received so far	22:26:12
+Send ACK	Block:660	22:26:12
+Receive DATA	Block:661	457.5KB received so far	22:26:12
+Send ACK	Block:661	22:26:12
+Receive DATA	Block:662	458KB received so far	22:26:12
+Send ACK	Block:662	22:26:12
+Receive DATA	Block:663	458.5KB received so far	22:26:12
+Send ACK	Block:663	22:26:12
+Receive DATA	Block:664	459KB received so far	22:26:12
+Send ACK	Block:664	22:26:12
+Receive DATA	Block:665	459.5KB received so far	22:26:12
+Send ACK	Block:665	22:26:12
+Receive DATA	Block:666	460KB received so far	22:26:12
+Send ACK	Block:666	22:26:12
+Receive DATA	Block:667	460.5KB received so far	22:26:12
+Send ACK	Block:667	22:26:12
+Receive DATA	Block:668	461KB received so far	22:26:12
+Send ACK	Block:668	22:26:12
+Receive DATA	Block:669	461.5KB received so far	22:26:12
+Send ACK	Block:669	22:26:12
+Receive DATA	Block:670	462KB received so far	22:26:12
+Send ACK	Block:670	22:26:12
+Receive DATA	Block:671	462.5KB received so far	22:26:12
+Send ACK	Block:671	22:26:12
+Receive DATA	Block:672	463KB received so far	22:26:12
+Send ACK	Block:672	22:26:12
+Receive DATA	Block:673	463.5KB received so far	22:26:12
+Send ACK	Block:673	22:26:12
+Receive DATA	Block:674	464KB received so far	22:26:12
+Send ACK	Block:674	22:26:12
+Receive DATA	Block:675	464.5KB received so far	22:26:12
+Send ACK	Block:675	22:26:12
+Receive DATA	Block:676	465KB received so far	22:26:12
+Send ACK	Block:676	22:26:12
+Receive DATA	Block:677	465.5KB received so far	22:26:12
+Send ACK	Block:677	22:26:12
+Receive DATA	Block:678	466KB received so far	22:26:12
+Send ACK	Block:678	22:26:12
+Receive DATA	Block:679	466.5KB received so far	22:26:12
+Send ACK	Block:679	22:26:12
+Receive DATA	Block:680	467KB received so far	22:26:12
+Send ACK	Block:680	22:26:12
+Receive DATA	Block:681	467.5KB received so far	22:26:12
+Send ACK	Block:681	22:26:12
+Receive DATA	Block:682	468KB received so far	22:26:12
+Send ACK	Block:682	22:26:12
+Receive DATA	Block:683	468.5KB received so far	22:26:12
+Send ACK	Block:683	22:26:12
+Receive DATA	Block:684	469KB received so far	22:26:12
+Send ACK	Block:684	22:26:13
+Receive DATA	Block:685	469.5KB received so far	22:26:13
+Send ACK	Block:685	22:26:13
+Receive DATA	Block:686	470KB received so far	22:26:13
+Send ACK	Block:686	22:26:13
+Receive DATA	Block:687	470.5KB received so far	22:26:13
+Send ACK	Block:687	22:26:13
+Receive DATA	Block:688	471KB received so far	22:26:13
+Send ACK	Block:688	22:26:13
+Receive DATA	Block:689	471.5KB received so far	22:26:13
+Send ACK	Block:689	22:26:13
+Receive DATA	Block:690	472KB received so far	22:26:13
+Send ACK	Block:690	22:26:13
+Receive DATA	Block:691	472.5KB received so far	22:26:13
+Send ACK	Block:691	22:26:13
+Receive DATA	Block:692	473KB received so far	22:26:13
+Send ACK	Block:692	22:26:13
+Receive DATA	Block:693	473.5KB received so far	22:26:13
+Send ACK	Block:693	22:26:13
+Receive DATA	Block:694	474KB received so far	22:26:13
+Send ACK	Block:694	22:26:13
+Receive DATA	Block:695	474.5KB received so far	22:26:13
+Send ACK	Block:695	22:26:13
+Receive DATA	Block:696	475KB received so far	22:26:13
+Send ACK	Block:696	22:26:13
+Receive DATA	Block:697	475.5KB received so far	22:26:13
+Send ACK	Block:697	22:26:13
+Receive DATA	Block:698	476KB received so far	22:26:13
+Send ACK	Block:698	22:26:13
+Receive DATA	Block:699	476.5KB received so far	22:26:13
+Send ACK	Block:699	22:26:13
+Receive DATA	Block:700	477KB received so far	22:26:13
+Send ACK	Block:700	22:26:13
+Receive DATA	Block:701	477.5KB received so far	22:26:13
+Send ACK	Block:701	22:26:13
+Receive DATA	Block:702	478KB received so far	22:26:13
+Send ACK	Block:702	22:26:13
+Receive DATA	Block:703	478.5KB received so far	22:26:13
+Send ACK	Block:703	22:26:13
+Receive DATA	Block:704	479KB received so far	22:26:13
+Send ACK	Block:704	22:26:13
+Receive DATA	Block:705	479.5KB received so far	22:26:13
+Send ACK	Block:705	22:26:13
+Receive DATA	Block:706	480KB received so far	22:26:13
+Send ACK	Block:706	22:26:13
+Receive DATA	Block:707	480.5KB received so far	22:26:13
+Send ACK	Block:707	22:26:13
+Receive DATA	Block:708	481KB received so far	22:26:13
+Send ACK	Block:708	22:26:13
+Receive DATA	Block:709	481.5KB received so far	22:26:13
+Send ACK	Block:709	22:26:13
+Receive DATA	Block:710	482KB received so far	22:26:13
+Send ACK	Block:710	22:26:13
+Receive DATA	Block:711	482.5KB received so far	22:26:13
+Send ACK	Block:711	22:26:13
+Receive DATA	Block:712	483KB received so far	22:26:13
+Send ACK	Block:712	22:26:13
+Receive DATA	Block:713	483.5KB received so far	22:26:13
+Send ACK	Block:713	22:26:13
+Receive DATA	Block:714	484KB received so far	22:26:13
+Send ACK	Block:714	22:26:13
+Receive DATA	Block:715	484.5KB received so far	22:26:13
+Send ACK	Block:715	22:26:13
+Receive DATA	Block:716	485KB received so far	22:26:13
+Send ACK	Block:716	22:26:13
+Receive DATA	Block:717	485.5KB received so far	22:26:13
+Send ACK	Block:717	22:26:13
+Receive DATA	Block:718	486KB received so far	22:26:13
+Send ACK	Block:718	22:26:13
+Receive DATA	Block:719	486.5KB received so far	22:26:13
+Send ACK	Block:719	22:26:13
+Receive DATA	Block:720	487KB received so far	22:26:13
+Send ACK	Block:720	22:26:13
+Receive DATA	Block:721	487.5KB received so far	22:26:13
+Send ACK	Block:721	22:26:13
+Receive DATA	Block:722	488KB received so far	22:26:13
+Send ACK	Block:722	22:26:13
+Receive DATA	Block:723	488.5KB received so far	22:26:13
+Send ACK	Block:723	22:26:13
+Receive DATA	Block:724	489KB received so far	22:26:13
+Send ACK	Block:724	22:26:13
+Receive DATA	Block:725	489.5KB received so far	22:26:13
+Send ACK	Block:725	22:26:13
+Receive DATA	Block:726	490KB received so far	22:26:13
+Send ACK	Block:726	22:26:13
+Receive DATA	Block:727	490.5KB received so far	22:26:13
+Send ACK	Block:727	22:26:13
+Receive DATA	Block:728	491KB received so far	22:26:13
+Send ACK	Block:728	22:26:13
+Receive DATA	Block:729	491.5KB received so far	22:26:13
+Send ACK	Block:729	22:26:13
+Receive DATA	Block:730	492KB received so far	22:26:13
+Send ACK	Block:730	22:26:13
+Receive DATA	Block:731	492.5KB received so far	22:26:13
+Send ACK	Block:731	22:26:13
+Receive DATA	Block:732	493KB received so far	22:26:13
+Send ACK	Block:732	22:26:13
+Receive DATA	Block:733	493.5KB received so far	22:26:13
+Send ACK	Block:733	22:26:13
+Receive DATA	Block:734	494KB received so far	22:26:13
+Send ACK	Block:734	22:26:13
+Receive DATA	Block:735	494.5KB received so far	22:26:13
+Send ACK	Block:735	22:26:13
+Receive DATA	Block:736	495KB received so far	22:26:13
+Send ACK	Block:736	22:26:13
+Receive DATA	Block:737	495.5KB received so far	22:26:13
+Send ACK	Block:737	22:26:13
+Receive DATA	Block:738	496KB received so far	22:26:13
+Send ACK	Block:738	22:26:13
+Receive DATA	Block:739	496.5KB received so far	22:26:13
+Send ACK	Block:739	22:26:13
+Receive DATA	Block:740	497KB received so far	22:26:13
+Send ACK	Block:740	22:26:13
+Receive DATA	Block:741	497.5KB received so far	22:26:13
+Send ACK	Block:741	22:26:13
+Receive DATA	Block:742	498KB received so far	22:26:13
+Send ACK	Block:742	22:26:13
+Receive DATA	Block:743	498.5KB received so far	22:26:13
+Send ACK	Block:743	22:26:13
+Receive DATA	Block:744	499KB received so far	22:26:13
+Send ACK	Block:744	22:26:13
+Receive DATA	Block:745	499.5KB received so far	22:26:13
+Send ACK	Block:745	22:26:13
+Receive DATA	Block:746	500KB received so far	22:26:13
+Send ACK	Block:746	22:26:13
+Receive DATA	Block:747	500.5KB received so far	22:26:13
+Send ACK	Block:747	22:26:13
+Receive DATA	Block:748	501KB received so far	22:26:13
+Send ACK	Block:748	22:26:13
+Receive DATA	Block:749	501.5KB received so far	22:26:13
+Send ACK	Block:749	22:26:13
+Receive DATA	Block:750	502KB received so far	22:26:13
+Send ACK	Block:750	22:26:13
+Receive DATA	Block:751	502.5KB received so far	22:26:13
+Send ACK	Block:751	22:26:13
+Receive DATA	Block:752	503KB received so far	22:26:13
+Send ACK	Block:752	22:26:13
+Receive DATA	Block:753	503.5KB received so far	22:26:13
+Send ACK	Block:753	22:26:13
+Receive DATA	Block:754	504KB received so far	22:26:13
+Send ACK	Block:754	22:26:13
+Receive DATA	Block:755	504.5KB received so far	22:26:13
+Send ACK	Block:755	22:26:13
+Receive DATA	Block:756	505KB received so far	22:26:13
+Send ACK	Block:756	22:26:13
+Receive DATA	Block:757	505.5KB received so far	22:26:13
+Send ACK	Block:757	22:26:13
+Receive DATA	Block:758	506KB received so far	22:26:13
+Send ACK	Block:758	22:26:13
+Receive DATA	Block:759	506.5KB received so far	22:26:13
+Send ACK	Block:759	22:26:13
+Receive DATA	Block:760	507KB received so far	22:26:13
+Send ACK	Block:760	22:26:13
+Receive DATA	Block:761	507.5KB received so far	22:26:13
+Send ACK	Block:761	22:26:13
+Receive DATA	Block:762	508KB received so far	22:26:13
+Send ACK	Block:762	22:26:13
+Receive DATA	Block:763	508.5KB received so far	22:26:13
+Send ACK	Block:763	22:26:13
+Receive DATA	Block:764	509KB received so far	22:26:13
+Send ACK	Block:764	22:26:13
+Receive DATA	Block:765	509.5KB received so far	22:26:13
+Send ACK	Block:765	22:26:13
+Receive DATA	Block:766	510KB received so far	22:26:13
+Send ACK	Block:766	22:26:13
+Receive DATA	Block:767	510.5KB received so far	22:26:13
+Send ACK	Block:767	22:26:13
+Receive DATA	Block:768	511KB received so far	22:26:13
+Send ACK	Block:768	22:26:13
+Receive DATA	Block:769	511.5KB received so far	22:26:13
+Send ACK	Block:769	22:26:13
+Receive DATA	Block:770	512KB received so far	22:26:13
+Send ACK	Block:770	22:26:13
+Receive DATA	Block:771	512.5KB received so far	22:26:13
+Send ACK	Block:771	22:26:13
+Receive DATA	Block:772	513KB received so far	22:26:13
+Send ACK	Block:772	22:26:13
+Receive DATA	Block:773	513.5KB received so far	22:26:13
+Send ACK	Block:773	22:26:13
+Receive DATA	Block:774	514KB received so far	22:26:13
+Send ACK	Block:774	22:26:13
+Receive DATA	Block:775	514.5KB received so far	22:26:13
+Send ACK	Block:775	22:26:13
+Receive DATA	Block:776	515KB received so far	22:26:13
+Send ACK	Block:776	22:26:13
+Receive DATA	Block:777	515.5KB received so far	22:26:13
+Send ACK	Block:777	22:26:13
+Receive DATA	Block:778	516KB received so far	22:26:13
+Send ACK	Block:778	22:26:13
+Receive DATA	Block:779	516.5KB received so far	22:26:13
+Send ACK	Block:779	22:26:13
+Receive DATA	Block:780	517KB received so far	22:26:13
+Send ACK	Block:780	22:26:13
+Receive DATA	Block:781	517.5KB received so far	22:26:13
+Send ACK	Block:781	22:26:13
+Receive DATA	Block:782	518KB received so far	22:26:13
+Send ACK	Block:782	22:26:13
+Receive DATA	Block:783	518.5KB received so far	22:26:13
+Send ACK	Block:783	22:26:13
+Receive DATA	Block:784	519KB received so far	22:26:13
+Send ACK	Block:784	22:26:13
+Receive DATA	Block:785	519.5KB received so far	22:26:13
+Send ACK	Block:785	22:26:13
+Receive DATA	Block:786	520KB received so far	22:26:13
+Send ACK	Block:786	22:26:13
+Receive DATA	Block:787	520.5KB received so far	22:26:13
+Send ACK	Block:787	22:26:13
+Receive DATA	Block:788	521KB received so far	22:26:13
+Send ACK	Block:788	22:26:13
+Receive DATA	Block:789	521.5KB received so far	22:26:13
+Send ACK	Block:789	22:26:13
+Receive DATA	Block:790	522KB received so far	22:26:13
+Send ACK	Block:790	22:26:13
+Receive DATA	Block:791	522.5KB received so far	22:26:13
+Send ACK	Block:791	22:26:13
+Receive DATA	Block:792	523KB received so far	22:26:13
+Send ACK	Block:792	22:26:13
+Receive DATA	Block:793	523.5KB received so far	22:26:13
+Send ACK	Block:793	22:26:13
+Receive DATA	Block:794	524KB received so far	22:26:13
+Send ACK	Block:794	22:26:13
+Receive DATA	Block:795	524.5KB received so far	22:26:13
+Send ACK	Block:795	22:26:13
+Receive DATA	Block:796	525KB received so far	22:26:13
+Send ACK	Block:796	22:26:13
+Receive DATA	Block:797	525.5KB received so far	22:26:13
+Send ACK	Block:797	22:26:13
+Receive DATA	Block:798	526KB received so far	22:26:13
+Send ACK	Block:798	22:26:13
+Receive DATA	Block:799	526.5KB received so far	22:26:13
+Send ACK	Block:799	22:26:13
+Receive DATA	Block:800	527KB received so far	22:26:13
+Send ACK	Block:800	22:26:13
+Receive DATA	Block:801	527.5KB received so far	22:26:13
+Send ACK	Block:801	22:26:13
+Receive DATA	Block:802	528KB received so far	22:26:13
+Send ACK	Block:802	22:26:13
+Receive DATA	Block:803	528.5KB received so far	22:26:13
+Send ACK	Block:803	22:26:13
+Receive DATA	Block:804	529KB received so far	22:26:13
+Send ACK	Block:804	22:26:13
+Receive DATA	Block:805	529.5KB received so far	22:26:13
+Send ACK	Block:805	22:26:13
+Receive DATA	Block:806	530KB received so far	22:26:13
+Send ACK	Block:806	22:26:13
+Receive DATA	Block:807	530.5KB received so far	22:26:13
+Send ACK	Block:807	22:26:13
+Receive DATA	Block:808	531KB received so far	22:26:13
+Send ACK	Block:808	22:26:13
+Receive DATA	Block:809	531.5KB received so far	22:26:13
+Send ACK	Block:809	22:26:13
+Receive DATA	Block:810	532KB received so far	22:26:13
+Send ACK	Block:810	22:26:13
+Receive DATA	Block:811	532.5KB received so far	22:26:13
+Send ACK	Block:811	22:26:13
+Receive DATA	Block:812	533KB received so far	22:26:13
+Send ACK	Block:812	22:26:13
+Receive DATA	Block:813	533.5KB received so far	22:26:13
+Send ACK	Block:813	22:26:13
+Receive DATA	Block:814	534KB received so far	22:26:13
+Send ACK	Block:814	22:26:13
+Receive DATA	Block:815	534.5KB received so far	22:26:13
+Send ACK	Block:815	22:26:13
+Receive DATA	Block:816	535KB received so far	22:26:13
+Send ACK	Block:816	22:26:13
+Receive DATA	Block:817	535.5KB received so far	22:26:13
+Send ACK	Block:817	22:26:13
+Receive DATA	Block:818	536KB received so far	22:26:13
+Send ACK	Block:818	22:26:13
+Receive DATA	Block:819	536.5KB received so far	22:26:13
+Send ACK	Block:819	22:26:13
+Receive DATA	Block:820	537KB received so far	22:26:13
+Send ACK	Block:820	22:26:13
+Receive DATA	Block:821	537.5KB received so far	22:26:13
+Send ACK	Block:821	22:26:13
+Receive DATA	Block:822	538KB received so far	22:26:13
+Send ACK	Block:822	22:26:13
+Receive DATA	Block:823	538.5KB received so far	22:26:13
+Send ACK	Block:823	22:26:13
+Receive DATA	Block:824	539KB received so far	22:26:13
+Send ACK	Block:824	22:26:13
+Receive DATA	Block:825	539.5KB received so far	22:26:13
+Send ACK	Block:825	22:26:13
+Receive DATA	Block:826	540KB received so far	22:26:13
+Send ACK	Block:826	22:26:13
+Receive DATA	Block:827	540.5KB received so far	22:26:13
+Send ACK	Block:827	22:26:13
+Receive DATA	Block:828	541KB received so far	22:26:13
+Send ACK	Block:828	22:26:13
+Receive DATA	Block:829	541.5KB received so far	22:26:13
+Send ACK	Block:829	22:26:13
+Receive DATA	Block:830	542KB received so far	22:26:13
+Send ACK	Block:830	22:26:13
+Receive DATA	Block:831	542.5KB received so far	22:26:13
+Send ACK	Block:831	22:26:13
+Receive DATA	Block:832	543KB received so far	22:26:13
+Send ACK	Block:832	22:26:13
+Receive DATA	Block:833	543.5KB received so far	22:26:13
+Send ACK	Block:833	22:26:13
+Receive DATA	Block:834	544KB received so far	22:26:13
+Send ACK	Block:834	22:26:13
+Receive DATA	Block:835	544.5KB received so far	22:26:13
+Send ACK	Block:835	22:26:13
+Receive DATA	Block:836	545KB received so far	22:26:13
+Send ACK	Block:836	22:26:13
+Receive DATA	Block:837	545.5KB received so far	22:26:13
+Send ACK	Block:837	22:26:13
+Receive DATA	Block:838	546KB received so far	22:26:13
+Send ACK	Block:838	22:26:13
+Receive DATA	Block:839	546.5KB received so far	22:26:13
+Send ACK	Block:839	22:26:13
+Receive DATA	Block:840	547KB received so far	22:26:13
+Send ACK	Block:840	22:26:13
+Receive DATA	Block:841	547.5KB received so far	22:26:13
+Send ACK	Block:841	22:26:13
+Receive DATA	Block:842	548KB received so far	22:26:13
+Send ACK	Block:842	22:26:13
+Receive DATA	Block:843	548.5KB received so far	22:26:13
+Send ACK	Block:843	22:26:13
+Receive DATA	Block:844	549KB received so far	22:26:13
+Send ACK	Block:844	22:26:13
+Receive DATA	Block:845	549.5KB received so far	22:26:13
+Send ACK	Block:845	22:26:13
+Receive DATA	Block:846	550KB received so far	22:26:13
+Send ACK	Block:846	22:26:13
+Receive DATA	Block:847	550.5KB received so far	22:26:13
+Send ACK	Block:847	22:26:13
+Receive DATA	Block:848	551KB received so far	22:26:13
+Send ACK	Block:848	22:26:13
+Receive DATA	Block:849	551.5KB received so far	22:26:13
+Send ACK	Block:849	22:26:13
+Receive DATA	Block:850	552KB received so far	22:26:13
+Send ACK	Block:850	22:26:13
+Receive DATA	Block:851	552.5KB received so far	22:26:14
+Send ACK	Block:851	22:26:14
+Receive DATA	Block:852	553KB received so far	22:26:14
+Send ACK	Block:852	22:26:14
+Receive DATA	Block:853	553.5KB received so far	22:26:14
+Send ACK	Block:853	22:26:14
+Receive DATA	Block:854	554KB received so far	22:26:14
+Send ACK	Block:854	22:26:14
+Receive DATA	Block:855	554.5KB received so far	22:26:14
+Send ACK	Block:855	22:26:14
+Receive DATA	Block:856	555KB received so far	22:26:14
+Send ACK	Block:856	22:26:14
+Receive DATA	Block:857	555.5KB received so far	22:26:14
+Send ACK	Block:857	22:26:14
+Receive DATA	Block:858	556KB received so far	22:26:14
+Send ACK	Block:858	22:26:14
+Receive DATA	Block:859	556.5KB received so far	22:26:14
+Send ACK	Block:859	22:26:14
+Receive DATA	Block:860	557KB received so far	22:26:14
+Send ACK	Block:860	22:26:14
+Receive DATA	Block:861	557.5KB received so far	22:26:14
+Send ACK	Block:861	22:26:14
+Receive DATA	Block:862	558KB received so far	22:26:14
+Send ACK	Block:862	22:26:14
+Receive DATA	Block:863	558.5KB received so far	22:26:14
+Send ACK	Block:863	22:26:14
+Receive DATA	Block:864	559KB received so far	22:26:14
+Send ACK	Block:864	22:26:14
+Receive DATA	Block:865	559.5KB received so far	22:26:14
+Send ACK	Block:865	22:26:14
+Receive DATA	Block:866	560KB received so far	22:26:14
+Send ACK	Block:866	22:26:14
+Receive DATA	Block:867	560.5KB received so far	22:26:14
+Send ACK	Block:867	22:26:14
+Receive DATA	Block:868	561KB received so far	22:26:14
+Send ACK	Block:868	22:26:14
+Receive DATA	Block:869	561.5KB received so far	22:26:14
+Send ACK	Block:869	22:26:14
+Receive DATA	Block:870	562KB received so far	22:26:14
+Send ACK	Block:870	22:26:14
+Receive DATA	Block:871	562.5KB received so far	22:26:14
+Send ACK	Block:871	22:26:14
+Receive DATA	Block:872	563KB received so far	22:26:14
+Send ACK	Block:872	22:26:14
+Receive DATA	Block:873	563.5KB received so far	22:26:14
+Send ACK	Block:873	22:26:14
+Receive DATA	Block:874	564KB received so far	22:26:14
+Send ACK	Block:874	22:26:14
+Receive DATA	Block:875	564.5KB received so far	22:26:14
+Send ACK	Block:875	22:26:14
+Receive DATA	Block:876	565KB received so far	22:26:14
+Send ACK	Block:876	22:26:14
+Receive DATA	Block:877	565.5KB received so far	22:26:14
+Send ACK	Block:877	22:26:14
+Receive DATA	Block:878	566KB received so far	22:26:14
+Send ACK	Block:878	22:26:14
+Receive DATA	Block:879	566.5KB received so far	22:26:14
+Send ACK	Block:879	22:26:14
+Receive DATA	Block:880	567KB received so far	22:26:14
+Send ACK	Block:880	22:26:14
+Receive DATA	Block:881	567.5KB received so far	22:26:14
+Send ACK	Block:881	22:26:14
+Receive DATA	Block:882	568KB received so far	22:26:14
+Send ACK	Block:882	22:26:14
+Receive DATA	Block:883	568.5KB received so far	22:26:14
+Send ACK	Block:883	22:26:14
+Receive DATA	Block:884	569KB received so far	22:26:14
+Send ACK	Block:884	22:26:14
+Receive DATA	Block:885	569.5KB received so far	22:26:14
+Send ACK	Block:885	22:26:14
+Receive DATA	Block:886	570KB received so far	22:26:14
+Send ACK	Block:886	22:26:14
+Receive DATA	Block:887	570.5KB received so far	22:26:14
+Send ACK	Block:887	22:26:14
+Receive DATA	Block:888	571KB received so far	22:26:14
+Send ACK	Block:888	22:26:14
+Receive DATA	Block:889	571.5KB received so far	22:26:14
+Send ACK	Block:889	22:26:14
+Receive DATA	Block:890	572KB received so far	22:26:14
+Send ACK	Block:890	22:26:14
+Receive DATA	Block:891	572.5KB received so far	22:26:14
+Send ACK	Block:891	22:26:14
+Receive DATA	Block:892	573KB received so far	22:26:14
+Send ACK	Block:892	22:26:14
+Receive DATA	Block:893	573.5KB received so far	22:26:14
+Send ACK	Block:893	22:26:14
+Receive DATA	Block:894	574KB received so far	22:26:14
+Send ACK	Block:894	22:26:14
+Receive DATA	Block:895	574.5KB received so far	22:26:14
+Send ACK	Block:895	22:26:14
+Receive DATA	Block:896	575KB received so far	22:26:14
+Send ACK	Block:896	22:26:14
+Receive DATA	Block:897	575.5KB received so far	22:26:14
+Send ACK	Block:897	22:26:14
+Receive DATA	Block:898	576KB received so far	22:26:14
+Send ACK	Block:898	22:26:14
+Receive DATA	Block:899	576.5KB received so far	22:26:14
+Send ACK	Block:899	22:26:14
+Receive DATA	Block:900	577KB received so far	22:26:14
+Send ACK	Block:900	22:26:14
+Receive DATA	Block:901	577.5KB received so far	22:26:14
+Send ACK	Block:901	22:26:14
+Receive DATA	Block:902	578KB received so far	22:26:14
+Send ACK	Block:902	22:26:14
+Receive DATA	Block:903	578.5KB received so far	22:26:14
+Send ACK	Block:903	22:26:14
+Receive DATA	Block:904	579KB received so far	22:26:14
+Send ACK	Block:904	22:26:14
+Receive DATA	Block:905	579.5KB received so far	22:26:14
+Send ACK	Block:905	22:26:14
+Receive DATA	Block:906	580KB received so far	22:26:14
+Send ACK	Block:906	22:26:14
+Receive DATA	Block:907	580.5KB received so far	22:26:14
+Send ACK	Block:907	22:26:14
+Receive DATA	Block:908	581KB received so far	22:26:14
+Send ACK	Block:908	22:26:14
+Receive DATA	Block:909	581.5KB received so far	22:26:14
+Send ACK	Block:909	22:26:14
+Receive DATA	Block:910	582KB received so far	22:26:14
+Send ACK	Block:910	22:26:14
+Receive DATA	Block:911	582.014KB received so far	22:26:14
+Send ACK	Block:911	22:26:14
+Read File Finished!	582.014 KB Received in 11.371 s	Speed of Read:51.184KB/s
+Send WRQ	FileName:1.png	22:26:40
+Receive ACK	Block:0	22:26:40
+Send DATA	Block:1	512Byte sent so far	22:26:40
+Receive ACK	Block:1	22:26:40
+Send DATA	Block:2	1KB sent so far	22:26:40
+Receive ACK	Block:2	22:26:40
+Send DATA	Block:3	1.5KB sent so far	22:26:40
+Receive ACK	Block:3	22:26:40
+Send DATA	Block:4	2KB sent so far	22:26:40
+Receive ACK	Block:4	22:26:40
+Send DATA	Block:5	2.5KB sent so far	22:26:40
+Receive ACK	Block:5	22:26:40
+Send DATA	Block:6	3KB sent so far	22:26:40
+Receive ACK	Block:6	22:26:40
+Send DATA	Block:7	3.5KB sent so far	22:26:40
+Receive ACK	Block:7	22:26:40
+Send DATA	Block:8	4KB sent so far	22:26:40
+Receive ACK	Block:8	22:26:40
+Send DATA	Block:9	4.5KB sent so far	22:26:40
+Receive ACK	Block:9	22:26:40
+Send DATA	Block:10	5KB sent so far	22:26:40
+Receive ACK	Block:10	22:26:40
+Send DATA	Block:11	5.5KB sent so far	22:26:40
+Receive ACK	Block:11	22:26:40
+Send DATA	Block:12	6KB sent so far	22:26:40
+Receive ACK	Block:12	22:26:40
+Send DATA	Block:13	6.5KB sent so far	22:26:40
+Receive ACK	Block:13	22:26:40
+Send DATA	Block:14	7KB sent so far	22:26:40
+Receive ACK	Block:14	22:26:40
+Send DATA	Block:15	7.5KB sent so far	22:26:40
+Receive ACK	Block:15	22:26:40
+Send DATA	Block:16	8KB sent so far	22:26:40
+Receive ACK	Block:16	22:26:40
+Send DATA	Block:17	8.5KB sent so far	22:26:40
+Receive ACK	Block:17	22:26:40
+Send DATA	Block:18	9KB sent so far	22:26:40
+Receive ACK	Block:18	22:26:40
+Send DATA	Block:19	9.5KB sent so far	22:26:40
+Receive ACK	Block:19	22:26:40
+Send DATA	Block:20	10KB sent so far	22:26:40
+Receive ACK	Block:20	22:26:40
+Send DATA	Block:21	10.5KB sent so far	22:26:40
+Receive ACK	Block:21	22:26:40
+Send DATA	Block:22	11KB sent so far	22:26:40
+Receive ACK	Block:22	22:26:40
+Send DATA	Block:23	11.5KB sent so far	22:26:40
+Receive ACK	Block:23	22:26:40
+Send DATA	Block:24	12KB sent so far	22:26:40
+Receive ACK	Block:24	22:26:40
+Send DATA	Block:25	12.5KB sent so far	22:26:40
+Receive ACK	Block:25	22:26:41
+Send DATA	Block:26	13KB sent so far	22:26:41
+Receive ACK	Block:26	22:26:41
+Send DATA	Block:27	13.5KB sent so far	22:26:41
+Receive ACK	Block:27	22:26:41
+Send DATA	Block:28	14KB sent so far	22:26:41
+Receive ACK	Block:28	22:26:41
+Send DATA	Block:29	14.5KB sent so far	22:26:41
+Receive ACK	Block:29	22:26:41
+Send DATA	Block:30	15KB sent so far	22:26:41
+Receive ACK	Block:30	22:26:41
+Send DATA	Block:31	15.5KB sent so far	22:26:41
+Receive ACK	Block:31	22:26:41
+Send DATA	Block:32	16KB sent so far	22:26:41
+Receive ACK	Block:32	22:26:41
+Send DATA	Block:33	16.5KB sent so far	22:26:41
+Receive ACK	Block:33	22:26:41
+Send DATA	Block:34	17KB sent so far	22:26:41
+Receive ACK	Block:34	22:26:41
+Send DATA	Block:35	17.5KB sent so far	22:26:41
+Receive ACK	Block:35	22:26:41
+Send DATA	Block:36	18KB sent so far	22:26:41
+Receive ACK	Block:36	22:26:41
+Send DATA	Block:37	18.5KB sent so far	22:26:41
+Receive ACK	Block:37	22:26:41
+Send DATA	Block:38	19KB sent so far	22:26:41
+Receive ACK	Block:38	22:26:41
+Send DATA	Block:39	19.5KB sent so far	22:26:41
+Receive ACK	Block:39	22:26:41
+Send DATA	Block:40	20KB sent so far	22:26:41
+Receive ACK	Block:40	22:26:41
+Send DATA	Block:41	20.5KB sent so far	22:26:41
+Receive ACK	Block:41	22:26:41
+Send DATA	Block:42	21KB sent so far	22:26:41
+Receive ACK	Block:42	22:26:41
+Send DATA	Block:43	21.5KB sent so far	22:26:41
+Receive ACK	Block:43	22:26:41
+Send DATA	Block:44	22KB sent so far	22:26:41
+Receive ACK	Block:44	22:26:41
+Send DATA	Block:45	22.5KB sent so far	22:26:41
+Receive ACK	Block:45	22:26:41
+Send DATA	Block:46	23KB sent so far	22:26:41
+Receive ACK	Block:46	22:26:41
+Send DATA	Block:47	23.5KB sent so far	22:26:41
+Receive ACK	Block:47	22:26:41
+Send DATA	Block:48	24KB sent so far	22:26:41
+Receive ACK	Block:48	22:26:41
+Send DATA	Block:49	24.5KB sent so far	22:26:41
+Receive ACK	Block:49	22:26:41
+Send DATA	Block:50	25KB sent so far	22:26:41
+Receive ACK	Block:50	22:26:41
+Send DATA	Block:51	25.5KB sent so far	22:26:41
+Receive ACK	Block:51	22:26:41
+Send DATA	Block:52	26KB sent so far	22:26:41
+Receive ACK	Block:52	22:26:41
+Send DATA	Block:53	26.5KB sent so far	22:26:41
+Receive ACK	Block:53	22:26:41
+Send DATA	Block:54	27KB sent so far	22:26:41
+Receive ACK	Block:54	22:26:41
+Send DATA	Block:55	27.5KB sent so far	22:26:41
+Receive ACK	Block:55	22:26:41
+Send DATA	Block:56	28KB sent so far	22:26:41
+Receive ACK	Block:56	22:26:41
+Send DATA	Block:57	28.5KB sent so far	22:26:41
+Receive ACK	Block:57	22:26:41
+Send DATA	Block:58	29KB sent so far	22:26:41
+Receive ACK	Block:58	22:26:41
+Send DATA	Block:59	29.5KB sent so far	22:26:41
+Receive ACK	Block:59	22:26:41
+Send DATA	Block:60	30KB sent so far	22:26:41
+Receive ACK	Block:60	22:26:41
+Send DATA	Block:61	30.5KB sent so far	22:26:41
+Receive ACK	Block:61	22:26:41
+Send DATA	Block:62	31KB sent so far	22:26:41
+Receive ACK	Block:62	22:26:41
+Send DATA	Block:63	31.5KB sent so far	22:26:41
+Receive ACK	Block:63	22:26:41
+Send DATA	Block:64	32KB sent so far	22:26:41
+Receive ACK	Block:64	22:26:41
+Send DATA	Block:65	32.5KB sent so far	22:26:41
+Receive ACK	Block:65	22:26:41
+Send DATA	Block:66	33KB sent so far	22:26:41
+Receive ACK	Block:66	22:26:41
+Send DATA	Block:67	33.5KB sent so far	22:26:41
+Receive ACK	Block:67	22:26:41
+Send DATA	Block:68	34KB sent so far	22:26:41
+Receive ACK	Block:68	22:26:41
+Send DATA	Block:69	34.5KB sent so far	22:26:41
+Receive ACK	Block:69	22:26:41
+Send DATA	Block:70	35KB sent so far	22:26:41
+Receive ACK	Block:70	22:26:41
+Send DATA	Block:71	35.5KB sent so far	22:26:41
+Receive ACK	Block:71	22:26:41
+Send DATA	Block:72	36KB sent so far	22:26:41
+Receive ACK	Block:72	22:26:41
+Send DATA	Block:73	36.5KB sent so far	22:26:41
+Receive ACK	Block:73	22:26:41
+Send DATA	Block:74	37KB sent so far	22:26:41
+Receive ACK	Block:74	22:26:41
+Send DATA	Block:75	37.5KB sent so far	22:26:41
+Receive ACK	Block:75	22:26:41
+Send DATA	Block:76	38KB sent so far	22:26:41
+Receive ACK	Block:76	22:26:41
+Send DATA	Block:77	38.5KB sent so far	22:26:41
+Receive ACK	Block:77	22:26:41
+Send DATA	Block:78	39KB sent so far	22:26:41
+Receive ACK	Block:78	22:26:41
+Send DATA	Block:79	39.5KB sent so far	22:26:41
+Receive ACK	Block:79	22:26:41
+Send DATA	Block:80	40KB sent so far	22:26:41
+Receive ACK	Block:80	22:26:41
+Send DATA	Block:81	40.5KB sent so far	22:26:41
+Receive ACK	Block:81	22:26:41
+Send DATA	Block:82	41KB sent so far	22:26:41
+Receive ACK	Block:82	22:26:41
+Send DATA	Block:83	41.5KB sent so far	22:26:41
+Receive ACK	Block:83	22:26:41
+Send DATA	Block:84	42KB sent so far	22:26:41
+Receive ACK	Block:84	22:26:41
+Send DATA	Block:85	42.5KB sent so far	22:26:41
+Receive ACK	Block:85	22:26:41
+Send DATA	Block:86	43KB sent so far	22:26:41
+Receive ACK	Block:86	22:26:41
+Send DATA	Block:87	43.5KB sent so far	22:26:41
+Receive ACK	Block:87	22:26:41
+Send DATA	Block:88	44KB sent so far	22:26:41
+Receive ACK	Block:88	22:26:41
+Send DATA	Block:89	44.5KB sent so far	22:26:41
+Receive ACK	Block:89	22:26:41
+Send DATA	Block:90	45KB sent so far	22:26:41
+Receive ACK	Block:90	22:26:41
+Send DATA	Block:91	45.5KB sent so far	22:26:41
+Receive ACK	Block:91	22:26:41
+Send DATA	Block:92	46KB sent so far	22:26:41
+Receive ACK	Block:92	22:26:41
+Send DATA	Block:93	46.5KB sent so far	22:26:41
+Receive ACK	Block:93	22:26:41
+Send DATA	Block:94	47KB sent so far	22:26:41
+Receive ACK	Block:94	22:26:41
+Send DATA	Block:95	47.5KB sent so far	22:26:41
+Receive ACK	Block:95	22:26:41
+Send DATA	Block:96	48KB sent so far	22:26:41
+Receive ACK	Block:96	22:26:41
+Send DATA	Block:97	48.5KB sent so far	22:26:41
+Receive ACK	Block:97	22:26:41
+Send DATA	Block:98	49KB sent so far	22:26:41
+Receive ACK	Block:98	22:26:41
+Send DATA	Block:99	49.5KB sent so far	22:26:41
+Receive ACK	Block:99	22:26:41
+Send DATA	Block:100	50KB sent so far	22:26:41
+Receive ACK	Block:100	22:26:41
+Send DATA	Block:101	50.5KB sent so far	22:26:41
+Receive ACK	Block:101	22:26:41
+Send DATA	Block:102	51KB sent so far	22:26:41
+Receive ACK	Block:102	22:26:41
+Send DATA	Block:103	51.5KB sent so far	22:26:41
+Receive ACK	Block:103	22:26:41
+Send DATA	Block:104	52KB sent so far	22:26:41
+Receive ACK	Block:104	22:26:41
+Send DATA	Block:105	52.5KB sent so far	22:26:41
+Receive ACK	Block:105	22:26:41
+Send DATA	Block:106	53KB sent so far	22:26:41
+Receive ACK	Block:106	22:26:41
+Send DATA	Block:107	53.5KB sent so far	22:26:41
+Receive ACK	Block:107	22:26:41
+Send DATA	Block:108	54KB sent so far	22:26:41
+Receive ACK	Block:108	22:26:41
+Send DATA	Block:109	54.5KB sent so far	22:26:41
+Receive ACK	Block:109	22:26:41
+Send DATA	Block:110	55KB sent so far	22:26:41
+Receive ACK	Block:110	22:26:41
+Send DATA	Block:111	55.5KB sent so far	22:26:41
+Receive ACK	Block:111	22:26:41
+Send DATA	Block:112	56KB sent so far	22:26:41
+Receive ACK	Block:112	22:26:41
+Send DATA	Block:113	56.5KB sent so far	22:26:41
+Receive ACK	Block:113	22:26:41
+Send DATA	Block:114	57KB sent so far	22:26:41
+Receive ACK	Block:114	22:26:41
+Send DATA	Block:115	57.5KB sent so far	22:26:41
+Receive ACK	Block:115	22:26:41
+Send DATA	Block:116	58KB sent so far	22:26:41
+Receive ACK	Block:116	22:26:41
+Send DATA	Block:117	58.5KB sent so far	22:26:41
+Receive ACK	Block:117	22:26:41
+Send DATA	Block:118	59KB sent so far	22:26:41
+Receive ACK	Block:118	22:26:41
+Send DATA	Block:119	59.5KB sent so far	22:26:41
+Receive ACK	Block:119	22:26:41
+Send DATA	Block:120	60KB sent so far	22:26:41
+Receive ACK	Block:120	22:26:41
+Send DATA	Block:121	60.5KB sent so far	22:26:41
+Receive ACK	Block:121	22:26:41
+Send DATA	Block:122	61KB sent so far	22:26:41
+Receive ACK	Block:122	22:26:41
+Send DATA	Block:123	61.5KB sent so far	22:26:41
+Receive ACK	Block:123	22:26:41
+Send DATA	Block:124	62KB sent so far	22:26:41
+Receive ACK	Block:124	22:26:41
+Send DATA	Block:125	62.5KB sent so far	22:26:41
+Receive ACK	Block:125	22:26:41
+Send DATA	Block:126	63KB sent so far	22:26:41
+Receive ACK	Block:126	22:26:41
+Send DATA	Block:127	63.5KB sent so far	22:26:41
+Receive ACK	Block:127	22:26:41
+Send DATA	Block:128	64KB sent so far	22:26:41
+Receive ACK	Block:128	22:26:41
+Send DATA	Block:129	64.5KB sent so far	22:26:41
+Receive ACK	Block:129	22:26:41
+Send DATA	Block:130	65KB sent so far	22:26:41
+Receive ACK	Block:130	22:26:41
+Send DATA	Block:131	65.5KB sent so far	22:26:41
+Receive ACK	Block:131	22:26:41
+Send DATA	Block:132	66KB sent so far	22:26:41
+Receive ACK	Block:132	22:26:41
+Send DATA	Block:133	66.5KB sent so far	22:26:41
+Receive ACK	Block:133	22:26:41
+Send DATA	Block:134	67KB sent so far	22:26:41
+Receive ACK	Block:134	22:26:41
+Send DATA	Block:135	67.5KB sent so far	22:26:41
+Receive ACK	Block:135	22:26:41
+Send DATA	Block:136	68KB sent so far	22:26:41
+Receive ACK	Block:136	22:26:41
+Send DATA	Block:137	68.5KB sent so far	22:26:41
+Receive ACK	Block:137	22:26:41
+Send DATA	Block:138	69KB sent so far	22:26:41
+Receive ACK	Block:138	22:26:41
+Send DATA	Block:139	69.5KB sent so far	22:26:41
+Receive ACK	Block:139	22:26:41
+Send DATA	Block:140	70KB sent so far	22:26:41
+Receive ACK	Block:140	22:26:41
+Send DATA	Block:141	70.5KB sent so far	22:26:41
+Receive ACK	Block:141	22:26:41
+Send DATA	Block:142	71KB sent so far	22:26:41
+Receive ACK	Block:142	22:26:41
+Send DATA	Block:143	71.5KB sent so far	22:26:41
+Receive ACK	Block:143	22:26:41
+Send DATA	Block:144	72KB sent so far	22:26:41
+Receive ACK	Block:144	22:26:41
+Send DATA	Block:145	72.5KB sent so far	22:26:41
+Receive ACK	Block:145	22:26:41
+Send DATA	Block:146	73KB sent so far	22:26:41
+Receive ACK	Block:146	22:26:41
+Send DATA	Block:147	73.5KB sent so far	22:26:41
+Receive ACK	Block:147	22:26:41
+Send DATA	Block:148	74KB sent so far	22:26:41
+Receive ACK	Block:148	22:26:41
+Send DATA	Block:149	74.5KB sent so far	22:26:41
+Receive ACK	Block:149	22:26:41
+Send DATA	Block:150	75KB sent so far	22:26:41
+Receive ACK	Block:150	22:26:41
+Send DATA	Block:151	75.5KB sent so far	22:26:41
+Receive ACK	Block:151	22:26:41
+Send DATA	Block:152	76KB sent so far	22:26:41
+Receive ACK	Block:152	22:26:41
+Send DATA	Block:153	76.5KB sent so far	22:26:41
+Receive ACK	Block:153	22:26:41
+Send DATA	Block:154	77KB sent so far	22:26:41
+Receive ACK	Block:154	22:26:41
+Send DATA	Block:155	77.5KB sent so far	22:26:41
+Receive ACK	Block:155	22:26:41
+Send DATA	Block:156	78KB sent so far	22:26:41
+Receive ACK	Block:156	22:26:41
+Send DATA	Block:157	78.5KB sent so far	22:26:41
+Receive ACK	Block:157	22:26:41
+Send DATA	Block:158	79KB sent so far	22:26:41
+Receive ACK	Block:158	22:26:41
+Send DATA	Block:159	79.5KB sent so far	22:26:41
+Receive ACK	Block:159	22:26:41
+Send DATA	Block:160	80KB sent so far	22:26:41
+Receive ACK	Block:160	22:26:41
+Send DATA	Block:161	80.5KB sent so far	22:26:41
+Receive ACK	Block:161	22:26:41
+Send DATA	Block:162	81KB sent so far	22:26:41
+Receive ACK	Block:162	22:26:41
+Send DATA	Block:163	81.5KB sent so far	22:26:41
+Receive ACK	Block:163	22:26:41
+Send DATA	Block:164	82KB sent so far	22:26:41
+Receive ACK	Block:164	22:26:41
+Send DATA	Block:165	82.5KB sent so far	22:26:41
+Receive ACK	Block:165	22:26:41
+Send DATA	Block:166	83KB sent so far	22:26:41
+Receive ACK	Block:166	22:26:41
+Send DATA	Block:167	83.5KB sent so far	22:26:41
+Receive ACK	Block:167	22:26:41
+Send DATA	Block:168	84KB sent so far	22:26:41
+Receive ACK	Block:168	22:26:41
+Send DATA	Block:169	84.5KB sent so far	22:26:41
+Receive ACK	Block:169	22:26:41
+Send DATA	Block:170	85KB sent so far	22:26:41
+Receive ACK	Block:170	22:26:41
+Send DATA	Block:171	85.5KB sent so far	22:26:41
+Receive ACK	Block:171	22:26:41
+Send DATA	Block:172	86KB sent so far	22:26:41
+Receive ACK	Block:172	22:26:41
+Send DATA	Block:173	86.5KB sent so far	22:26:41
+Receive ACK	Block:173	22:26:41
+Send DATA	Block:174	87KB sent so far	22:26:41
+Receive ACK	Block:174	22:26:41
+Send DATA	Block:175	87.5KB sent so far	22:26:41
+Receive ACK	Block:175	22:26:41
+Send DATA	Block:176	88KB sent so far	22:26:41
+Receive ACK	Block:176	22:26:41
+Send DATA	Block:177	88.5KB sent so far	22:26:41
+Receive ACK	Block:177	22:26:41
+Send DATA	Block:178	89KB sent so far	22:26:41
+Receive ACK	Block:178	22:26:41
+Send DATA	Block:179	89.5KB sent so far	22:26:41
+Receive ACK	Block:179	22:26:41
+Send DATA	Block:180	90KB sent so far	22:26:41
+Receive ACK	Block:180	22:26:41
+Send DATA	Block:181	90.5KB sent so far	22:26:41
+Receive ACK	Block:181	22:26:41
+Send DATA	Block:182	91KB sent so far	22:26:41
+Receive ACK	Block:182	22:26:41
+Send DATA	Block:183	91.5KB sent so far	22:26:41
+Receive ACK	Block:183	22:26:41
+Send DATA	Block:184	92KB sent so far	22:26:41
+Receive ACK	Block:184	22:26:41
+Send DATA	Block:185	92.5KB sent so far	22:26:41
+Receive ACK	Block:185	22:26:41
+Send DATA	Block:186	93KB sent so far	22:26:41
+Receive ACK	Block:186	22:26:41
+Send DATA	Block:187	93.5KB sent so far	22:26:41
+Receive ACK	Block:187	22:26:41
+Send DATA	Block:188	94KB sent so far	22:26:41
+Receive ACK	Block:188	22:26:41
+Send DATA	Block:189	94.5KB sent so far	22:26:41
+Receive ACK	Block:189	22:26:41
+Send DATA	Block:190	95KB sent so far	22:26:41
+Receive ACK	Block:190	22:26:41
+Send DATA	Block:191	95.5KB sent so far	22:26:41
+Receive ACK	Block:191	22:26:41
+Send DATA	Block:192	96KB sent so far	22:26:41
+Receive ACK	Block:192	22:26:41
+Send DATA	Block:193	96.5KB sent so far	22:26:41
+Receive ACK	Block:193	22:26:41
+Send DATA	Block:194	97KB sent so far	22:26:41
+Receive ACK	Block:194	22:26:41
+Send DATA	Block:195	97.5KB sent so far	22:26:41
+Receive ACK	Block:195	22:26:41
+Send DATA	Block:196	98KB sent so far	22:26:41
+Receive ACK	Block:196	22:26:41
+Send DATA	Block:197	98.5KB sent so far	22:26:41
+Receive ACK	Block:197	22:26:41
+Send DATA	Block:198	99KB sent so far	22:26:41
+Receive ACK	Block:198	22:26:41
+Send DATA	Block:199	99.5KB sent so far	22:26:41
+Receive ACK	Block:199	22:26:41
+Send DATA	Block:200	100KB sent so far	22:26:41
+Receive ACK	Block:200	22:26:41
+Send DATA	Block:201	100.5KB sent so far	22:26:41
+Receive ACK	Block:201	22:26:41
+Send DATA	Block:202	101KB sent so far	22:26:41
+Receive ACK	Block:202	22:26:41
+Send DATA	Block:203	101.5KB sent so far	22:26:41
+Receive ACK	Block:203	22:26:41
+Send DATA	Block:204	102KB sent so far	22:26:41
+Receive ACK	Block:204	22:26:41
+Send DATA	Block:205	102.5KB sent so far	22:26:41
+Receive ACK	Block:205	22:26:41
+Send DATA	Block:206	103KB sent so far	22:26:41
+Receive ACK	Block:206	22:26:41
+Send DATA	Block:207	103.5KB sent so far	22:26:41
+Receive ACK	Block:207	22:26:41
+Send DATA	Block:208	104KB sent so far	22:26:41
+Receive ACK	Block:208	22:26:41
+Send DATA	Block:209	104.5KB sent so far	22:26:41
+Receive ACK	Block:209	22:26:41
+Send DATA	Block:210	105KB sent so far	22:26:41
+Receive ACK	Block:210	22:26:41
+Send DATA	Block:211	105.5KB sent so far	22:26:41
+Receive ACK	Block:211	22:26:41
+Send DATA	Block:212	106KB sent so far	22:26:41
+Receive ACK	Block:212	22:26:41
+Send DATA	Block:213	106.5KB sent so far	22:26:41
+Receive ACK	Block:213	22:26:41
+Send DATA	Block:214	107KB sent so far	22:26:41
+Receive ACK	Block:214	22:26:41
+Send DATA	Block:215	107.5KB sent so far	22:26:41
+Receive ACK	Block:215	22:26:41
+Send DATA	Block:216	108KB sent so far	22:26:41
+Receive ACK	Block:216	22:26:41
+Send DATA	Block:217	108.5KB sent so far	22:26:41
+Receive ACK	Block:217	22:26:41
+Send DATA	Block:218	109KB sent so far	22:26:41
+Receive ACK	Block:218	22:26:41
+Send DATA	Block:219	109.5KB sent so far	22:26:41
+Receive ACK	Block:219	22:26:41
+Send DATA	Block:220	110KB sent so far	22:26:41
+Receive ACK	Block:220	22:26:41
+Send DATA	Block:221	110.5KB sent so far	22:26:41
+Receive ACK	Block:221	22:26:41
+Send DATA	Block:222	111KB sent so far	22:26:41
+Receive ACK	Block:222	22:26:41
+Send DATA	Block:223	111.5KB sent so far	22:26:41
+Receive ACK	Block:223	22:26:41
+Send DATA	Block:224	112KB sent so far	22:26:41
+Receive ACK	Block:224	22:26:42
+Send DATA	Block:225	112.5KB sent so far	22:26:42
+Receive ACK	Block:225	22:26:42
+Send DATA	Block:226	113KB sent so far	22:26:42
+Receive ACK	Block:226	22:26:42
+Send DATA	Block:227	113.5KB sent so far	22:26:42
+Receive ACK	Block:227	22:26:42
+Send DATA	Block:228	114KB sent so far	22:26:42
+Receive ACK	Block:228	22:26:42
+Send DATA	Block:229	114.5KB sent so far	22:26:42
+Receive ACK	Block:229	22:26:42
+Send DATA	Block:230	115KB sent so far	22:26:42
+Receive ACK	Block:230	22:26:42
+Send DATA	Block:231	115.5KB sent so far	22:26:42
+Receive ACK	Block:231	22:26:42
+Send DATA	Block:232	116KB sent so far	22:26:42
+Receive ACK	Block:232	22:26:42
+Send DATA	Block:233	116.5KB sent so far	22:26:42
+Receive ACK	Block:233	22:26:42
+Send DATA	Block:234	117KB sent so far	22:26:42
+Receive ACK	Block:234	22:26:42
+Send DATA	Block:235	117.5KB sent so far	22:26:42
+Receive ACK	Block:235	22:26:42
+Send DATA	Block:236	118KB sent so far	22:26:42
+Receive ACK	Block:236	22:26:42
+Send DATA	Block:237	118.5KB sent so far	22:26:42
+Receive ACK	Block:237	22:26:42
+Send DATA	Block:238	119KB sent so far	22:26:42
+Receive ACK	Block:238	22:26:42
+Send DATA	Block:239	119.5KB sent so far	22:26:42
+Receive ACK	Block:239	22:26:42
+Send DATA	Block:240	120KB sent so far	22:26:42
+Receive ACK	Block:240	22:26:42
+Send DATA	Block:241	120.5KB sent so far	22:26:42
+Receive ACK	Block:241	22:26:42
+Send DATA	Block:242	121KB sent so far	22:26:42
+Receive ACK	Block:242	22:26:42
+Send DATA	Block:243	121.5KB sent so far	22:26:42
+Receive ACK	Block:243	22:26:42
+Send DATA	Block:244	122KB sent so far	22:26:42
+Receive ACK	Block:244	22:26:42
+Send DATA	Block:245	122.5KB sent so far	22:26:42
+Receive ACK	Block:245	22:26:42
+Send DATA	Block:246	123KB sent so far	22:26:42
+Receive ACK	Block:246	22:26:42
+Send DATA	Block:247	123.5KB sent so far	22:26:42
+Receive ACK	Block:247	22:26:42
+Send DATA	Block:248	124KB sent so far	22:26:42
+Receive ACK	Block:248	22:26:42
+Send DATA	Block:249	124.5KB sent so far	22:26:42
+Receive ACK	Block:249	22:26:42
+Send DATA	Block:250	125KB sent so far	22:26:42
+Receive ACK	Block:250	22:26:42
+Send DATA	Block:251	125.5KB sent so far	22:26:42
+Receive ACK	Block:251	22:26:42
+Send DATA	Block:252	126KB sent so far	22:26:42
+Receive ACK	Block:252	22:26:42
+Send DATA	Block:253	126.5KB sent so far	22:26:42
+Receive ACK	Block:253	22:26:42
+Send DATA	Block:254	127KB sent so far	22:26:42
+Receive ACK	Block:254	22:26:42
+Send DATA	Block:255	127.5KB sent so far	22:26:42
+Receive ACK	Block:255	22:26:42
+Send DATA	Block:256	128KB sent so far	22:26:42
+Receive ACK	Block:256	22:26:42
+Send DATA	Block:257	128.5KB sent so far	22:26:42
+Receive ACK	Block:257	22:26:42
+Send DATA	Block:258	129KB sent so far	22:26:42
+Receive ACK	Block:258	22:26:42
+Send DATA	Block:259	129.5KB sent so far	22:26:42
+Receive ACK	Block:259	22:26:42
+Send DATA	Block:260	130KB sent so far	22:26:42
+Receive ACK	Block:260	22:26:42
+Send DATA	Block:261	130.5KB sent so far	22:26:42
+Receive ACK	Block:261	22:26:42
+Send DATA	Block:262	131KB sent so far	22:26:42
+Receive ACK	Block:262	22:26:42
+Send DATA	Block:263	131.5KB sent so far	22:26:42
+Receive ACK	Block:263	22:26:42
+Send DATA	Block:264	132KB sent so far	22:26:42
+Receive ACK	Block:264	22:26:42
+Send DATA	Block:265	132.5KB sent so far	22:26:42
+Receive ACK	Block:265	22:26:42
+Send DATA	Block:266	133KB sent so far	22:26:42
+Receive ACK	Block:266	22:26:42
+Send DATA	Block:267	133.5KB sent so far	22:26:42
+Receive ACK	Block:267	22:26:42
+Send DATA	Block:268	134KB sent so far	22:26:42
+Receive ACK	Block:268	22:26:42
+Send DATA	Block:269	134.5KB sent so far	22:26:42
+Receive ACK	Block:269	22:26:42
+Send DATA	Block:270	135KB sent so far	22:26:42
+Receive ACK	Block:270	22:26:42
+Send DATA	Block:271	135.5KB sent so far	22:26:42
+Receive ACK	Block:271	22:26:42
+Send DATA	Block:272	136KB sent so far	22:26:42
+Receive ACK	Block:272	22:26:42
+Send DATA	Block:273	136.5KB sent so far	22:26:42
+Receive ACK	Block:273	22:26:42
+Send DATA	Block:274	137KB sent so far	22:26:42
+Receive ACK	Block:274	22:26:42
+Send DATA	Block:275	137.5KB sent so far	22:26:42
+Receive ACK	Block:275	22:26:42
+Send DATA	Block:276	138KB sent so far	22:26:42
+Receive ACK	Block:276	22:26:42
+Send DATA	Block:277	138.5KB sent so far	22:26:42
+Receive ACK	Block:277	22:26:42
+Send DATA	Block:278	139KB sent so far	22:26:42
+Receive ACK	Block:278	22:26:42
+Send DATA	Block:279	139.5KB sent so far	22:26:42
+Receive ACK	Block:279	22:26:42
+Send DATA	Block:280	140KB sent so far	22:26:42
+Receive ACK	Block:280	22:26:42
+Send DATA	Block:281	140.5KB sent so far	22:26:42
+Receive ACK	Block:281	22:26:42
+Send DATA	Block:282	141KB sent so far	22:26:42
+Receive ACK	Block:282	22:26:42
+Send DATA	Block:283	141.5KB sent so far	22:26:42
+Receive ACK	Block:283	22:26:42
+Send DATA	Block:284	142KB sent so far	22:26:42
+Receive ACK	Block:284	22:26:42
+Send DATA	Block:285	142.5KB sent so far	22:26:42
+Receive ACK	Block:285	22:26:42
+Send DATA	Block:286	143KB sent so far	22:26:42
+Receive ACK	Block:286	22:26:42
+Send DATA	Block:287	143.5KB sent so far	22:26:42
+Receive ACK	Block:287	22:26:42
+Send DATA	Block:288	144KB sent so far	22:26:42
+Receive ACK	Block:288	22:26:42
+Send DATA	Block:289	144.5KB sent so far	22:26:42
+Receive ACK	Block:289	22:26:42
+Send DATA	Block:290	145KB sent so far	22:26:42
+Receive ACK	Block:290	22:26:42
+Send DATA	Block:291	145.5KB sent so far	22:26:42
+Receive ACK	Block:291	22:26:42
+Send DATA	Block:292	146KB sent so far	22:26:42
+Receive ACK	Block:292	22:26:42
+Send DATA	Block:293	146.5KB sent so far	22:26:42
+Receive ACK	Block:293	22:26:42
+Send DATA	Block:294	147KB sent so far	22:26:42
+Receive ACK	Block:294	22:26:42
+Send DATA	Block:295	147.5KB sent so far	22:26:42
+Receive ACK	Block:295	22:26:42
+Send DATA	Block:296	148KB sent so far	22:26:42
+Receive ACK	Block:296	22:26:42
+Send DATA	Block:297	148.5KB sent so far	22:26:42
+Receive ACK	Block:297	22:26:42
+Send DATA	Block:298	149KB sent so far	22:26:42
+Receive ACK	Block:298	22:26:42
+Send DATA	Block:299	149.5KB sent so far	22:26:42
+Receive ACK	Block:299	22:26:42
+Send DATA	Block:300	150KB sent so far	22:26:42
+Receive ACK	Block:300	22:26:42
+Send DATA	Block:301	150.5KB sent so far	22:26:42
+Receive ACK	Block:301	22:26:42
+Send DATA	Block:302	151KB sent so far	22:26:42
+Receive ACK	Block:302	22:26:42
+Send DATA	Block:303	151.5KB sent so far	22:26:42
+Receive ACK	Block:303	22:26:42
+Send DATA	Block:304	152KB sent so far	22:26:42
+Receive ACK	Block:304	22:26:42
+Send DATA	Block:305	152.5KB sent so far	22:26:42
+Receive ACK	Block:305	22:26:42
+Send DATA	Block:306	153KB sent so far	22:26:42
+Receive ACK	Block:306	22:26:42
+Send DATA	Block:307	153.5KB sent so far	22:26:42
+Receive ACK	Block:307	22:26:42
+Send DATA	Block:308	154KB sent so far	22:26:42
+Receive ACK	Block:308	22:26:42
+Send DATA	Block:309	154.5KB sent so far	22:26:42
+Receive ACK	Block:309	22:26:42
+Send DATA	Block:310	155KB sent so far	22:26:42
+Receive ACK	Block:310	22:26:42
+Send DATA	Block:311	155.5KB sent so far	22:26:42
+Receive ACK	Block:311	22:26:42
+Send DATA	Block:312	156KB sent so far	22:26:42
+Receive ACK	Block:312	22:26:42
+Send DATA	Block:313	156.5KB sent so far	22:26:42
+Receive ACK	Block:313	22:26:42
+Send DATA	Block:314	157KB sent so far	22:26:42
+Receive ACK	Block:314	22:26:42
+Send DATA	Block:315	157.5KB sent so far	22:26:42
+Receive ACK	Block:315	22:26:42
+Send DATA	Block:316	158KB sent so far	22:26:42
+Receive ACK	Block:316	22:26:42
+Send DATA	Block:317	158.5KB sent so far	22:26:42
+Receive ACK	Block:317	22:26:42
+Send DATA	Block:318	159KB sent so far	22:26:42
+Receive ACK	Block:318	22:26:42
+Send DATA	Block:319	159.5KB sent so far	22:26:42
+Receive ACK	Block:319	22:26:42
+Send DATA	Block:320	160KB sent so far	22:26:42
+Receive ACK	Block:320	22:26:42
+Send DATA	Block:321	160.5KB sent so far	22:26:42
+Receive ACK	Block:321	22:26:42
+Send DATA	Block:322	161KB sent so far	22:26:42
+Receive ACK	Block:322	22:26:42
+Send DATA	Block:323	161.5KB sent so far	22:26:42
+Receive ACK	Block:323	22:26:42
+Send DATA	Block:324	162KB sent so far	22:26:42
+Receive ACK	Block:324	22:26:42
+Send DATA	Block:325	162.5KB sent so far	22:26:42
+Receive ACK	Block:325	22:26:42
+Send DATA	Block:326	163KB sent so far	22:26:42
+Receive ACK	Block:326	22:26:42
+Send DATA	Block:327	163.5KB sent so far	22:26:42
+Receive ACK	Block:327	22:26:42
+Send DATA	Block:328	164KB sent so far	22:26:42
+Receive ACK	Block:328	22:26:42
+Send DATA	Block:329	164.5KB sent so far	22:26:42
+Receive ACK	Block:329	22:26:42
+Send DATA	Block:330	165KB sent so far	22:26:42
+Receive ACK	Block:330	22:26:42
+Send DATA	Block:331	165.5KB sent so far	22:26:42
+Receive ACK	Block:331	22:26:42
+Send DATA	Block:332	166KB sent so far	22:26:42
+Receive ACK	Block:332	22:26:42
+Send DATA	Block:333	166.5KB sent so far	22:26:42
+Receive ACK	Block:333	22:26:42
+Send DATA	Block:334	167KB sent so far	22:26:42
+Receive ACK	Block:334	22:26:42
+Send DATA	Block:335	167.5KB sent so far	22:26:42
+Receive ACK	Block:335	22:26:42
+Send DATA	Block:336	168KB sent so far	22:26:42
+Receive ACK	Block:336	22:26:42
+Send DATA	Block:337	168.007KB sent so far	22:26:42
+Receive ACK	Block:337	22:26:43
+Write File Finished!	168.007 KB Sent in 2.175 s	Speed of Read:77.2445KB/s
+Send RRQ	FileName:SourcererCC.pdf	22:27:02
+Send RRQ	FileName:SourcererCC.pdf	22:27:03
+Receive DATA	Block:1	512Byte received so far	22:27:03
+Send ACK	Block:1	22:27:03
+Receive DATA	Block:2	1KB received so far	22:27:03
+Send ACK	Block:2	22:27:03
+Receive DATA	Block:3	1.5KB received so far	22:27:03
+Send ACK	Block:3	22:27:03
+Receive DATA	Block:4	2KB received so far	22:27:03
+Send ACK	Block:4	22:27:03
+Receive DATA	Block:5	2.5KB received so far	22:27:03
+Send ACK	Block:5	22:27:03
+Receive DATA	Block:6	3KB received so far	22:27:03
+Send ACK	Block:6	22:27:03
+Receive DATA	Block:7	3.5KB received so far	22:27:03
+Send ACK	Block:7	22:27:03
+Send ACK	Block:7	22:27:04
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:04
+Receive DATA	Block:7	3.5KB received so far	22:27:06
+Send ACK	Block:7	22:27:06
+Receive DATA	Block:8	4KB received so far	22:27:06
+Send ACK	Block:8	22:27:06
+Receive DATA	Block:9	4.5KB received so far	22:27:06
+Send ACK	Block:9	22:27:06
+Send ACK	Block:9	22:27:07
+Send ACK	Block:9	22:27:08
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:08
+Receive DATA	Block:9	4.5KB received so far	22:27:09
+Send ACK	Block:9	22:27:09
+Receive DATA	Block:10	5KB received so far	22:27:09
+Send ACK	Block:10	22:27:09
+Receive DATA	Block:11	5.5KB received so far	22:27:09
+Send ACK	Block:11	22:27:09
+Receive DATA	Block:12	6KB received so far	22:27:09
+Send ACK	Block:12	22:27:09
+Receive DATA	Block:13	6.5KB received so far	22:27:09
+Send ACK	Block:13	22:27:09
+Receive DATA	Block:14	7KB received so far	22:27:09
+Send ACK	Block:14	22:27:09
+Receive DATA	Block:15	7.5KB received so far	22:27:09
+Send ACK	Block:15	22:27:09
+Receive DATA	Block:16	8KB received so far	22:27:09
+Send ACK	Block:16	22:27:09
+Send ACK	Block:16	22:27:10
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:10
+Receive DATA	Block:17	8.5KB received so far	22:27:12
+Send ACK	Block:17	22:27:12
+Receive DATA	Block:18	9KB received so far	22:27:12
+Send ACK	Block:18	22:27:12
+Receive DATA	Block:19	9.5KB received so far	22:27:12
+Send ACK	Block:19	22:27:12
+Receive DATA	Block:20	10KB received so far	22:27:12
+Send ACK	Block:20	22:27:12
+Send ACK	Block:20	22:27:13
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:13
+Receive DATA	Block:21	10.5KB received so far	22:27:15
+Send ACK	Block:21	22:27:15
+Send ACK	Block:21	22:27:16
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:16
+Receive DATA	Block:22	11KB received so far	22:27:18
+Send ACK	Block:22	22:27:18
+Send ACK	Block:22	22:27:20
+Send ACK	Block:22	22:27:20
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:21
+Receive DATA	Block:23	11.5KB received so far	22:27:22
+Send ACK	Block:23	22:27:22
+Receive DATA	Block:24	12KB received so far	22:27:22
+Send ACK	Block:24	22:27:22
+Receive DATA	Block:25	12.5KB received so far	22:27:22
+Send ACK	Block:25	22:27:22
+Receive DATA	Block:26	13KB received so far	22:27:22
+Send ACK	Block:26	22:27:22
+Receive DATA	Block:27	13.5KB received so far	22:27:22
+Send ACK	Block:27	22:27:22
+Receive DATA	Block:28	14KB received so far	22:27:22
+Send ACK	Block:28	22:27:22
+Receive DATA	Block:29	14.5KB received so far	22:27:22
+Send ACK	Block:29	22:27:22
+Receive DATA	Block:30	15KB received so far	22:27:22
+Send ACK	Block:30	22:27:22
+Receive DATA	Block:31	15.5KB received so far	22:27:22
+Send ACK	Block:31	22:27:22
+Receive DATA	Block:32	16KB received so far	22:27:22
+Send ACK	Block:32	22:27:22
+Receive DATA	Block:33	16.5KB received so far	22:27:22
+Send ACK	Block:33	22:27:22
+Receive DATA	Block:34	17KB received so far	22:27:22
+Send ACK	Block:34	22:27:22
+Receive DATA	Block:35	17.5KB received so far	22:27:22
+Send ACK	Block:35	22:27:22
+Receive DATA	Block:36	18KB received so far	22:27:22
+Send ACK	Block:36	22:27:22
+Receive DATA	Block:37	18.5KB received so far	22:27:22
+Send ACK	Block:37	22:27:22
+Receive DATA	Block:38	19KB received so far	22:27:22
+Send ACK	Block:38	22:27:22
+Receive DATA	Block:39	19.5KB received so far	22:27:22
+Send ACK	Block:39	22:27:22
+Receive DATA	Block:40	20KB received so far	22:27:22
+Send ACK	Block:40	22:27:22
+Receive DATA	Block:41	20.5KB received so far	22:27:22
+Send ACK	Block:41	22:27:22
+Receive DATA	Block:42	21KB received so far	22:27:22
+Send ACK	Block:42	22:27:22
+Receive DATA	Block:43	21.5KB received so far	22:27:22
+Send ACK	Block:43	22:27:22
+Receive DATA	Block:44	22KB received so far	22:27:22
+Send ACK	Block:44	22:27:22
+Receive DATA	Block:45	22.5KB received so far	22:27:22
+Send ACK	Block:45	22:27:22
+Receive DATA	Block:46	23KB received so far	22:27:22
+Send ACK	Block:46	22:27:22
+Receive DATA	Block:47	23.5KB received so far	22:27:22
+Send ACK	Block:47	22:27:22
+Receive DATA	Block:48	24KB received so far	22:27:22
+Send ACK	Block:48	22:27:22
+Receive DATA	Block:49	24.5KB received so far	22:27:22
+Send ACK	Block:49	22:27:22
+Receive DATA	Block:50	25KB received so far	22:27:22
+Send ACK	Block:50	22:27:22
+Receive DATA	Block:51	25.5KB received so far	22:27:22
+Send ACK	Block:51	22:27:22
+Receive DATA	Block:52	26KB received so far	22:27:22
+Send ACK	Block:52	22:27:22
+Receive DATA	Block:53	26.5KB received so far	22:27:22
+Send ACK	Block:53	22:27:22
+Receive DATA	Block:54	27KB received so far	22:27:22
+Send ACK	Block:54	22:27:22
+Receive DATA	Block:55	27.5KB received so far	22:27:22
+Send ACK	Block:55	22:27:22
+Receive DATA	Block:56	28KB received so far	22:27:22
+Send ACK	Block:56	22:27:22
+Receive DATA	Block:57	28.5KB received so far	22:27:22
+Send ACK	Block:57	22:27:22
+Send ACK	Block:57	22:27:23
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:23
+Receive DATA	Block:57	28.5KB received so far	22:27:25
+Send ACK	Block:57	22:27:25
+Receive DATA	Block:58	29KB received so far	22:27:25
+Send ACK	Block:58	22:27:25
+Send ACK	Block:58	22:27:26
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:26
+Receive DATA	Block:58	29KB received so far	22:27:28
+Send ACK	Block:58	22:27:28
+Receive DATA	Block:59	29.5KB received so far	22:27:28
+Send ACK	Block:59	22:27:28
+Receive DATA	Block:60	30KB received so far	22:27:28
+Send ACK	Block:60	22:27:28
+Receive DATA	Block:61	30.5KB received so far	22:27:28
+Send ACK	Block:61	22:27:28
+Receive DATA	Block:62	31KB received so far	22:27:28
+Send ACK	Block:62	22:27:28
+Send ACK	Block:62	22:27:29
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:29
+Receive DATA	Block:63	31.5KB received so far	22:27:31
+Send ACK	Block:63	22:27:31
+Receive DATA	Block:64	32KB received so far	22:27:31
+Send ACK	Block:64	22:27:31
+Send ACK	Block:64	22:27:32
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:32
+Receive DATA	Block:65	32.5KB received so far	22:27:34
+Send ACK	Block:65	22:27:34
+Receive DATA	Block:66	33KB received so far	22:27:34
+Send ACK	Block:66	22:27:34
+Send ACK	Block:66	22:27:35
+Send ACK	Block:66	22:27:36
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:36
+Receive DATA	Block:67	33.5KB received so far	22:27:37
+Send ACK	Block:67	22:27:37
+Receive DATA	Block:68	34KB received so far	22:27:37
+Send ACK	Block:68	22:27:37
+Receive DATA	Block:69	34.5KB received so far	22:27:37
+Send ACK	Block:69	22:27:37
+Receive DATA	Block:70	35KB received so far	22:27:37
+Send ACK	Block:70	22:27:37
+Send ACK	Block:70	22:27:38
+Receive ERROR	ERROR Code:4	Illegal TFTP operation	22:27:38
+Receive ERROR	ERROR Code:Receive DATA	Block:71	35.5KB received so far	22:27:40
+Send ACK	Block:71	22:27:40
+Receive DATA	Block:72	36KB received so far	22:27:40
+Send ACK	Block:72	22:27:40
+Send ACK	Block:72	22:27:41
+Send ACK	Block:72	22:27:42
+Send ACK	Block:72	22:27:43
+Send ACK	Block:72	22:27:44
+Send ACK	Block:72	22:27:45
+Send ACK	Block:72	22:27:46
+Send ACK	Block:72	22:27:47
+Send ACK	Block:72	22:27:48
+Send ACK	Block:72	22:27:49
+Send ACK	Block:72	22:27:50
+Resend 10 times with no response!	Stop sending!

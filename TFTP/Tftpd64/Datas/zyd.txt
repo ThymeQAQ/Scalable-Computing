@@ -1,0 +1,61 @@
+void Client_download(char* filename,char* ipaddr) {
+
+	//向tftp服务器发送*读文件*请求报文
+	//unsigen??
+	char cmd[128] = "";
+	//argv[2]为下载文件信息参数，octet表示十进制传输
+	//前两个字节为0x0001,表示读文件请求
+	int len = sprintf(cmd, "%c%c%s%c%s%c", 0x00, 0x01, filename, 0, "octet", 0);
+	//将请求cmd发给服务器的 69号端口
+	struct sockaddr_in server_addr;
+	memset(&server_addr, 0, sizeof(server_addr));
+	server_addr.sin_family = AF_INET;
+	server_addr.sin_addr.s_addr = inet_addr(ipaddr);
+	server_addr.sin_port = htons(69);
+	//inet_pton(AF_INET, argv[1], &server.sin_addr.s_addr);
+	//int sendto (SOCKET s, char * buf, int len ,int flags, struct sockaddr_in* to,int tolen);
+	sendto(sock1, cmd, len, 0, (struct sockaddr*)&server_addr, sizeof(server_addr));
+
+	//打开一个本地空的文件
+	//按照下载地文件名在本地创建一个同名文件
+	//int fd = open(argv[2], O_WRONLY | O_CREAT, 0666);
+	pFile = fopen("D://Tftpd64//upload//upload.txt", "w");
+	if (fopen == NULL)
+	{
+		printf("Open file error!");
+		//perror("open");
+		return 0;
+	}
+
+	//从服务器上下载数据：读取服务器传过来的文件数据
+	unsigned short num = 0;
+	while (1) {
+
+		char buf[1024] = "";
+		struct sockaddr_in from;
+		int from_len = sizeof(from);
+		int len = recvfrom(sock1, buf, sizeof(buf), 0,
+			(struct sockaddr*)&from, &from_len);
+
+		//判断收到的数据的操作码 必须是00 03表示文件数据
+		if (buf[1] == 0x03)//文件数据
+		{
+			//将文件数据 写入 本地址文件中
+			//防止写入重复数据
+			if ((num + 1) == ntohs(*(unsigned short*)(buf + 2)))
+			{
+				//从第四个字节开始才是数据
+				fwrite(buf + 4, 1, len - 4, pFile);
+				num = ntohs(*(unsigned short*)(buf + 2));
+				printf("recv:%d\n", num);
+			}
+
+			//给服务器发送ACK回应
+			buf[1] = 4;
+			sendto(sock1, buf, 4, 0, (struct sockaddr*)&from, sizeof(from));
+
+			if (len < 516)//这是最后一个文件数据
+				break;
+		}
+	}
+}
