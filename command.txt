@@ -1,0 +1,6 @@
+python main.py node1 10.147.135.48 8000 node2:10.147.135.48:8001 node3:10.147.135.48:8002
+python main.py node2 10.147.135.48 8001 node1:10.147.135.48:8000 node3:10.147.135.48:8002
+python main.py node3 10.147.135.48 8002 node1:10.147.135.48:8000 node2:10.147.135.48:8001
+
+python send_message.py node1 10.147.135.48 8000 broadcast None "Hello to all nodes" node2:10.147.135.48:8001 node3:10.147.135.48:8002
+python send_message.py node1 10.147.135.48 8000 direct node2 "Hello, node2!" node2:10.147.135.48:8001 node3:10.147.135.48:8002
