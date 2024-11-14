@@ -1,5 +1,5 @@
 import sys
-from node import Node
+from tcp_p2p.node import Node
 import socket
 
 def send_message(node_id, node_ip, node_port, connections, target_node, message, broadcast=False):
