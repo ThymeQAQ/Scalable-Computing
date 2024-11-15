@@ -1,0 +1,1 @@
+python send_message.py node1 -t node2 -i test.jpg
