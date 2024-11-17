@@ -1,0 +1,21 @@
+python registry_server.py --host 10.147.135.48 --port 5000  
+
+Linux:
+export REGISTRY_URL=http://10.147.135.48:5000
+Windows:
+set REGISTRY_URL=http://10.147.135.48:5000
+Powershell：
+$env:REGISTRY_URL = "http://10.147.135.48:5000"
+python main.py node1 10.147.135.48  6000
+
+$env:REGISTRY_URL = "http://10.147.135.48:5000"
+python main.py node2 10.147.135.48  6001
+
+$env:REGISTRY_URL = "http://10.147.135.48:5000"
+python main.py node3 10.147.135.48  6002
+
+python send_message.py node1 -b -m "Hello everyone!"
+python send_message.py node1 -t node2 -m "Hello node2!"
+python send_message.py node1 -b -m "Hello everyone except node3!" -e node3
+
+python send_message.py node1 -t node2 -i test.jpg
