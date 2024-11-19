@@ -1,0 +1,13 @@
+python main.py --scenario polar
+python main.py --scenario dense 
+python main.py --scenario emergency
+
+python main.py --scenario polar --visualize
+
+python main.py --scenario all --duration 180 --visualize
+
+python main.py --scenario emergency --duration 300 --interval 60
+
+python main.py --scenario polar --terminal-position 500 500 0
+
+python main.py --scenario dense --max-relay-hops 5 --max-retry-attempts 4 --retry-delay 15
