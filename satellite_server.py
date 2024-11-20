@@ -1,9 +1,16 @@
+import logging
 from collections import deque
 import socket
 import threading
 import time
 import numpy as np
-from typing import Dict, Tuple, List
+from typing import Dict, Tuple
+
+# Configure logging for clarity
+logging.basicConfig(
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    level=logging.INFO
+)
 
 class ISLNode:
     def __init__(self, sat_id: int, lat: float, lon: float):
@@ -17,38 +24,45 @@ class ISLNode:
 class InterSatelliteLinks:
     def __init__(self, num_satellites: int, max_isl_distance: float = 1000):
         self.num_satellites = num_satellites
-        self.max_isl_distance = max_isl_distance  # Maximum distance for ISL in km
+        self.max_isl_distance = max_isl_distance
         self.satellites: Dict[int, ISLNode] = {}
         self.connection_lock = threading.Lock()
         
+        logging.info(f"Initializing ISL network with {num_satellites} satellites...")
+        
+        # Initialize satellites with random positions
+        for sat_id in range(self.num_satellites):
+            lat = np.random.uniform(-90, 90)  # Random latitude
+            lon = np.random.uniform(-180, 180)  # Random longitude
+            self.satellites[sat_id] = ISLNode(sat_id, lat, lon)
+            logging.info(f"Satellite {sat_id} initialized at position lat={lat:.2f}, lon={lon:.2f}.")
+            self.update_neighbors(sat_id)
+
     def calculate_distance(self, lat1: float, lon1: float, lat2: float, lon2: float) -> float:
-        """Calculate distance between two satellites using their lat/lon."""
-        SAT_H = 550.0  # Starlink satellite height in km
+        SAT_H = 550.0  # Satellite height in km
         EARTH_R = 6378.0  # Earth radius in km
         
-        # Convert to cartesian coordinates
         sat_r = EARTH_R + SAT_H
-        
-        # First satellite coordinates
         x1 = sat_r * np.cos(np.radians(lat1)) * np.cos(np.radians(lon1))
         y1 = sat_r * np.cos(np.radians(lat1)) * np.sin(np.radians(lon1))
         z1 = sat_r * np.sin(np.radians(lat1))
         
-        # Second satellite coordinates
         x2 = sat_r * np.cos(np.radians(lat2)) * np.cos(np.radians(lon2))
         y2 = sat_r * np.cos(np.radians(lat2)) * np.sin(np.radians(lon2))
         z2 = sat_r * np.sin(np.radians(lat2))
         
-        return np.sqrt((x2-x1)**2 + (y2-y1)**2 + (z2-z1)**2)
+        return np.sqrt((x2 - x1)**2 + (y2 - y1)**2 + (z2 - z1)**2)
 
     def update_satellite_position(self, sat_id: int, lat: float, lon: float):
         with self.connection_lock:
             if sat_id not in self.satellites:
                 self.satellites[sat_id] = ISLNode(sat_id, lat, lon)
+                logging.info(f"Satellite {sat_id} added to the network at lat={lat:.2f}, lon={lon:.2f}.")
             else:
                 self.satellites[sat_id].lat = lat
                 self.satellites[sat_id].lon = lon
                 self.satellites[sat_id].last_update = time.time()
+                logging.info(f"Satellite {sat_id} updated position to lat={lat:.2f}, lon={lon:.2f}.")
             
             self.update_neighbors(sat_id)
             self.update_routing_tables()
@@ -65,21 +79,30 @@ class InterSatelliteLinks:
                 )
                 if distance <= self.max_isl_distance:
                     sat.neighbors[other_id] = (other_sat.lat, other_sat.lon)
+        
+        if sat.neighbors:
+            logging.info(f"Satellite {sat_id} neighbors: {list(sat.neighbors.keys())}.")
+        else:
+            logging.warning(f"Satellite {sat_id} has no neighbors within distance {self.max_isl_distance} km.")
 
     def update_routing_tables(self):
         for source_id in self.satellites:
             self.satellites[source_id].routing_table = self._dijkstra(source_id)
-
+            if self.satellites[source_id].routing_table:
+                logging.info(f"Routing table for satellite {source_id}: {self.satellites[source_id].routing_table}.")
+            else:
+                logging.warning(f"Routing table for satellite {source_id} is empty.")
+                
     def _dijkstra(self, source_id: int) -> Dict[int, int]:
-        distances = {sat_id: float('infinity') for sat_id in self.satellites}
+        distances = {sat_id: float('inf') for sat_id in self.satellites}
         distances[source_id] = 0
         previous = {sat_id: None for sat_id in self.satellites}
         unvisited = set(self.satellites.keys())
         
         while unvisited:
             current = min(unvisited, key=lambda sat_id: distances[sat_id])
-            if distances[current] == float('infinity'):
-                break
+            if distances[current] == float('inf'):
+                break  # Remaining nodes are unreachable
                 
             unvisited.remove(current)
             
@@ -92,19 +115,17 @@ class InterSatelliteLinks:
                         self.satellites[neighbor_id].lon
                     )
                     alt_distance = distances[current] + distance
-                    
                     if alt_distance < distances[neighbor_id]:
                         distances[neighbor_id] = alt_distance
                         previous[neighbor_id] = current
         
         routing_table = {}
         for dest_id in self.satellites:
-            if dest_id != source_id:
+            if dest_id != source_id and previous[dest_id] is not None:
                 next_hop = dest_id
-                while previous[next_hop] != source_id and previous[next_hop] is not None:
+                while previous[next_hop] != source_id:
                     next_hop = previous[next_hop]
-                if previous[next_hop] is not None:
-                    routing_table[dest_id] = next_hop
+                routing_table[dest_id] = next_hop
         
         return routing_table
 
@@ -113,34 +134,6 @@ class InterSatelliteLinks:
             if source_id in self.satellites and dest_id in self.satellites[source_id].routing_table:
                 return self.satellites[source_id].routing_table[dest_id]
         return None
-
-def keep_moving(global_dequeue, orbit_z_axis, num_sats, velocity, sat_index, isl_network):
-    from movement_simulation import init_satellites, satellites_move  # Import here to avoid circular imports
-    
-    sat_ll_list = init_satellites(orbit_z_axis, num_sats)
-    (lat, lon) = sat_ll_list[sat_index]
-    start_time = time.time()
-    
-    while True:
-        time.sleep(1)
-        end_time = time.time()
-        t = end_time - start_time
-        start_time = end_time
-        
-        lat, lon = satellites_move((lat, lon), orbit_z_axis, velocity, t)
-        print(f"Satellite {sat_index} position: lat {lat}, lon {lon}")
-        
-        # Update position in ISL network
-        isl_network.update_satellite_position(sat_index, lat, lon)
-        
-        # Update global queue
-        global_dequeue.append((lat, lon))
-        
-        # Print ISL status
-        if sat_index in isl_network.satellites:
-            sat = isl_network.satellites[sat_index]
-            print(f"Connected to satellites: {list(sat.neighbors.keys())}")
-            print(f"Routing table: {sat.routing_table}")
 
 def keep_moving(global_dequeue, orbit_z_axis, num_sats, velocity, sat_index, isl_network):
     from movement_simulation import init_satellites, satellites_move  # Import here to avoid circular imports

@@ -2,39 +2,27 @@ import subprocess
 import time
 import sys
 import os
+from typing import List
 
-def launch_satellite_network():
-    # Configuration for 5 satellites
-    satellites = [
-        {"node_num": 1, "port": 8081, "sat_index": 0},
-        {"node_num": 2, "port": 8082, "sat_index": 1},
-        {"node_num": 3, "port": 8083, "sat_index": 2},
-        {"node_num": 4, "port": 8084, "sat_index": 3},
-        {"node_num": 5, "port": 8085, "sat_index": 4}
-    ]
-
-    # Specific IP address
-    # SERVER_IP = '10.35.70.31'
-    SERVER_IP = 'localhost'
-
-    processes = []
-    
-    for sat in satellites:
-        # Create modified version of the server code for each satellite
-        config = f"""
+def create_satellite_script(sat_id: int, sat_index: int, port: int, server_ip: str, num_sats: int, max_isl_distance: float) -> str:
+    """
+    Generates a satellite script file with the given configuration.
+    """
+    filename = f"satellite_{sat_id}.py"
+    config = f"""
 if __name__ == "__main__":
     # Configuration
     global_dequeue = deque(maxlen=10)
-    NUM_SATS = 5
-    SAT_INDEX = {sat['sat_index']}
-    SAT_NODE_NUM = {sat['node_num']}
+    NUM_SATS = {num_sats}
+    SAT_INDEX = {sat_index}
+    SAT_NODE_NUM = {sat_id}
     ORBIT_Z_AXIS = (0, 0)
     VELOCITY = 27000/111.3/(60*60)  # degrees per second
-    SERVER_ADDR = ('{SERVER_IP}', {sat['port']})
+    SERVER_ADDR = ('{server_ip}', {port})
     BUFFER_SIZE = 1024
     
     # Initialize ISL network
-    isl_network = InterSatelliteLinks(NUM_SATS, max_isl_distance=2000)
+    isl_network = InterSatelliteLinks(NUM_SATS, max_isl_distance={max_isl_distance})
     
     # Create threads
     simulation_thread = threading.Thread(
@@ -58,43 +46,61 @@ if __name__ == "__main__":
         while True:
             time.sleep(1)
     except KeyboardInterrupt:
-        print("Exiting..")
-"""
-        
-        # Create a temporary file for this satellite
-        filename = f"satellite_{sat['node_num']}.py"
-        with open(filename, 'w') as f:
-            # Copy the original code except the main block
-            with open('satellite_server.py', 'r') as original:
-                for line in original:
-                    if "__main__" not in line:
-                        f.write(line)
-            # Add our custom configuration
-            f.write(config)
-        
-        # Launch the satellite process
-        process = subprocess.Popen([sys.executable, filename])
-        processes.append(process)
-        print(f"Launched satellite {sat['node_num']} on IP {SERVER_IP}:{sat['port']}")
-        time.sleep(2)  # Wait a bit between launches to prevent race conditions
+        print("Satellite {sat_id} exiting...")
+    """
     
-    print(f"\nAll satellites launched on IP {SERVER_IP}! Network is operational.")
-    print("Press Ctrl+C to shutdown the network.")
+    with open(filename, 'w') as f:
+        with open('satellite_server.py', 'r') as original:
+            for line in original:
+                if "__main__" not in line:
+                    f.write(line)
+        f.write(config)
     
+    return filename
+
+def launch_satellite_network():
+    # Configuration for satellites
+    satellites = [
+        {"node_num": 1, "port": 8081, "sat_index": 0},
+        {"node_num": 2, "port": 8082, "sat_index": 1},
+        {"node_num": 3, "port": 8083, "sat_index": 2},
+        {"node_num": 4, "port": 8084, "sat_index": 3},
+        {"node_num": 5, "port": 8085, "sat_index": 4}
+    ]
+
+    SERVER_IP = 'localhost'
+    NUM_SATS = len(satellites)
+    MAX_ISL_DISTANCE = 200000  # Adjust as needed
+    
+    processes = []
     try:
+        for sat in satellites:
+            script = create_satellite_script(
+                sat_id=sat["node_num"],
+                sat_index=sat["sat_index"],
+                port=sat["port"],
+                server_ip=SERVER_IP,
+                num_sats=NUM_SATS,
+                max_isl_distance=MAX_ISL_DISTANCE
+            )
+            # Launch the satellite process
+            process = subprocess.Popen([sys.executable, script])
+            processes.append(process)
+            print(f"Launching Satellite {sat['node_num']} at {SERVER_IP}:{sat['port']}...")
+            time.sleep(1)  # Avoid race conditions
+            
+        print("\nAll satellites launched! Press Ctrl+C to shut down.")
         while True:
             time.sleep(1)
     except KeyboardInterrupt:
-        print("\nShutting down satellite network...")
+        print("\nShutting down the satellite network...")
         for p in processes:
             p.terminate()
-        # Clean up temporary files
         for sat in satellites:
-            try:
-                os.remove(f"satellite_{sat['node_num']}.py")
-            except:
-                pass
-        print("Network shutdown complete.")
+            os.remove(f"satellite_{sat['node_num']}.py")
+        print("All satellites terminated.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     launch_satellite_network()
