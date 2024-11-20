@@ -1,4 +1,4 @@
-# **Jerry-Net: LEO Satellite Communication Protocol**
+# **Tom-Net: LEO Satellite Communication Protocol**
 
 ### **Project Description**
 
@@ -22,6 +22,4 @@ To get started with the project, follow the steps below to clone the repository 
 
 You can clone this repository by using the following Git command:
 
-```bash
-git clone https://github.com/ikarthikeya/Jerry-Net.git
-```
+
