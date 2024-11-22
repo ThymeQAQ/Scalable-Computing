@@ -5,7 +5,7 @@ One innovative application is the use of satellite-based CCTV systems, particula
 
 ## Getting Start
 You can clone this repository by using the following Git command:
-https://github.com/ThymeQAQ/Scalable-Computing.git
+git clone https://github.com/ThymeQAQ/Scalable-Computing.git
 
 ## Run all the codes(not including TFTP)：
 ### Step 1.
