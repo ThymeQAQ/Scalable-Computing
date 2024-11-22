@@ -8,29 +8,29 @@ You can clone this repository by using the following Git command:
 https://github.com/ThymeQAQ/Scalable-Computing.git
 
 ## Run all the codes(not including TFTP)：
-### 1.
+### Step 1.
 open Powershell terminal
-### 2.
+### Step 2.
 cd <project_location>
-### 3.
+### Step 3.
 bash run.sh
 
 ## Run specific feature(folder)
-### 1.
+### Step 1.
 open Powershell terminal
-### 2.
+### Step 2.
 cd <project_location/floder_location>
-### 3.
+### Step 3.
 bash run.sh
 
 ## Run TFTP(QT)
-### 1. 
+### Step 1. 
 Download QT  
-### 2. 
+### Step 2. 
 Open the .pro file
-### 3. 
+### Step 3. 
 Build and run the project  
-### 4. 
+### Step 4. 
 Open TFTP64.exe
 
 
