@@ -5,11 +5,11 @@ One innovative application is the use of satellite-based CCTV systems, particula
 
 ## Contributor
 ### Jiachen Ding
-1. E2S 2. Machine Learning 3. Security
+1. E2S 2. Machine Learning 3. Security 4. Protocol
 ### Linyun Gong
-1. S2S 2. LEO Network Simulation
+1. S2S(image transmission) 2. LEO Network Simulation
 ### Tanmay Samdani
-1. S2S Routing(update the satellite position/handover/find packet loss and latency)
+1. S2S Routing(update the satellite position/add routing table/handover/find packet loss and latency)
 
 
 ## Getting Start
