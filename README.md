@@ -3,6 +3,15 @@
 ## Introduction
 One innovative application is the use of satellite-based CCTV systems, particularly for regions with limited or no reliable ground-based infrastructure. This system provides a unique solution for monitoring remote areas, urban centers, and borders, transmitting real-time video feeds via satellite technology to control centers for analysis and action.
 
+## Contributor
+### Jiachen Ding
+1. E2S 2. Machine Learning 3. Security
+### Linyun Gong
+1. S2S 2. LEO Network Simulation
+### Tanmay Samdani
+1. S2S Routing(update the satellite position/handover/find packet loss and latency)
+
+
 ## Getting Start
 You can clone this repository by using the following Git command:
 git clone https://github.com/ThymeQAQ/Scalable-Computing.git
@@ -32,7 +41,3 @@ Open the .pro file
 Build and run the project  
 ### Step 4. 
 Open TFTP64.exe
-
-
-
-
